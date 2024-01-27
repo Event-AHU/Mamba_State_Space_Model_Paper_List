@@ -75,3 +75,32 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/pdf/2206.11893.pdf)]
 
 * **S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces**, Eric Nguyen∗∗†, Karan Goel∗‡, Albert Gu∗‡,Gordon W. Downs‡, Preey Shah‡, Tri Dao‡, Stephen A. Baccus§ , Christopher R´e‡ [[Paper](https://arxiv.org/pdf/2210.06583.pdf)]
+
+
+
+
+
+
+
+
+
+## Year 2022 
+
+* [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
+  [[Paper](https://arxiv.org/abs/2212.10544)]
+  [[Code](https://github.com/jxiw/BiGS)]
+
+* 
+
+
+
+
+## Other Useful URLs
+* [[awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)] 
+
+
+
+
+
+
+
