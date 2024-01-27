@@ -3,6 +3,14 @@ Paper list for State-Space-Model and its Applications
 
 
 
+## Year 2023 
+
+
+* 
+
+* Du, Y., Liu, X., & Chua, Y. (2023). **Spiking Structured State Space Model for Monaural Speech Enhancement**. arXiv preprint arXiv:2309.03641.
+  [[Paper](https://arxiv.org/pdf/2309.03641.pdf)] 
+
 * **Vivim: a Video Vision Mamba for Medical Video Object Segmentation**, Yijun Yang, Zhaohu Xing, and Lei Zhu
   [[Paper](https://arxiv.org/pdf/2401.13934.pdf)]
   [[Code](https://github.com/Guo-Stone/MambaMorph)]
