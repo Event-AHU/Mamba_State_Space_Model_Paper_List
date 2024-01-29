@@ -3,17 +3,23 @@ Paper list for State-Space-Model and its Applications
 
 
 
-## Year 2023 
 
-
-* 
-
-* Du, Y., Liu, X., & Chua, Y. (2023). **Spiking Structured State Space Model for Monaural Speech Enhancement**. arXiv preprint arXiv:2309.03641.
-  [[Paper](https://arxiv.org/pdf/2309.03641.pdf)] 
+## Year 2024 
+* Ma, Jun, Feifei Li, and Bo Wang. "**U-mamba: Enhancing long-range dependency for biomedical image segmentation**." arXiv preprint arXiv:2401.04722 (2024).
+  [[Paper](https://arxiv.org/pdf/2401.04722.pdf)]
+  [[Code](https://wanglab.ai/u-mamba.html)]
 
 * **Vivim: a Video Vision Mamba for Medical Video Object Segmentation**, Yijun Yang, Zhaohu Xing, and Lei Zhu
   [[Paper](https://arxiv.org/pdf/2401.13934.pdf)]
   [[Code](https://github.com/Guo-Stone/MambaMorph)]
+
+
+
+## Year 2023 
+
+* Du, Y., Liu, X., & Chua, Y. (2023). **Spiking Structured State Space Model for Monaural Speech Enhancement**. arXiv preprint arXiv:2309.03641.
+  [[Paper](https://arxiv.org/pdf/2309.03641.pdf)] 
+
 
 * **MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**, Tao Guo, Yinuo Wang, and Cai Meng
   [[Paper](https://arxiv.org/pdf/2401.13934.pdf)]
