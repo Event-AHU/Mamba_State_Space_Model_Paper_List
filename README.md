@@ -96,10 +96,6 @@ Paper list for State-Space-Model and its Applications
 * **On the Parameterization and Initialization of Diagonal State Space Models**, Albert Gu†, Ankit Gupta‡, Karan Goel†, and Christopher R´e†
   [[Paper](https://arxiv.org/pdf/2206.11893.pdf)]
 
-* **S4ND: Modeling Images and Videos as Multidimensional Signals Using State Spaces**, Eric Nguyen∗∗†, Karan Goel∗‡, Albert Gu∗‡,Gordon W. Downs‡, Preey Shah‡, Tri Dao‡, Stephen A. Baccus§ , Christopher R´e‡
-  [[Paper](https://arxiv.org/pdf/2210.06583.pdf)]
-
-
 
 
 
