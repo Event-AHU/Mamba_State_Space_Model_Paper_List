@@ -1,11 +1,9 @@
+# Mamba_State_Space_Model_Paper_List
+Paper list for State-Space-Model and its Applications
 
 <p align="center">
 <img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_logo.jpg" width="200">
 </p>
-
-# Mamba_State_Space_Model_Paper_List
-Paper list for State-Space-Model and its Applications
-
 
 
 
