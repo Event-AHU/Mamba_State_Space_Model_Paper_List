@@ -73,6 +73,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2022 
 
+* [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/13388efc819c09564c66ab2dc8463809-Paper-Conference.pdf)]
+  [[Code](https://github.com/state-spaces/s4/tree/main)] 
+
 * [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
   [[Paper](https://arxiv.org/abs/2212.10544)]
   [[Code](https://github.com/jxiw/BiGS)]
