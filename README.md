@@ -8,6 +8,11 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Year 2024 
+
+* **Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining**, Jiarun Liu, Hao Yang, Hong-Yu Zhou, Yan Xi, Lequan Yu, Yizhou Yu, Yong Liang, Guangming Shi, Shaoting Zhang, Hairong Zheng, Shanshan Wang 
+  [[Paper](https://arxiv.org/abs/2402.03302)]
+  [[Code](https://github.com/JiarunLiu/Swin-UMamba)]
+
 * Ma, Jun, Feifei Li, and Bo Wang. "**U-mamba: Enhancing long-range dependency for biomedical image segmentation**." arXiv preprint arXiv:2401.04722 (2024).
   [[Paper](https://arxiv.org/pdf/2401.04722.pdf)]
   [[Code](https://wanglab.ai/u-mamba.html)]
