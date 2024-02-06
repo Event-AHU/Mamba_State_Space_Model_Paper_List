@@ -9,6 +9,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces**,
+  [[Paper](https://arxiv.org/abs/2402.00789)] 
+  [[Code](https://github.com/bowang-lab/Graph-Mamba)] 
+
 * **VM-UNet: Vision Mamba UNet for Medical Image Segmentation**, Jiacheng Ruan, Suncheng Xiang
   [[Paper](https://arxiv.org/abs/2402.02491)]
   [[Code](https://github.com/JCruan519/VM-UNet)] 
