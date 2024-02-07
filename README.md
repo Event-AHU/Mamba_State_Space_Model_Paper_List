@@ -10,6 +10,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**, Md Atik Ahamed1, Qiang Cheng
+  [[Paper](https://arxiv.org/pdf/2401.08867.pdf)]
+  
 * **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**, Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li
   [[Paper](https://arxiv.org/abs/2402.03526)]
   [[Code](https://github.com/lhaof/nnMamba)] 
