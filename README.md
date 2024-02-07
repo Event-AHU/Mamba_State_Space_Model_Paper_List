@@ -144,7 +144,8 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Other Useful URLs
-* [[awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)] 
+* [[awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)]
+* [[Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
 
 
 
