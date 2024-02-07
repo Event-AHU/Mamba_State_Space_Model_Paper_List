@@ -11,7 +11,8 @@ Paper list for State-Space-Model and its Applications
 
 
 * **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**, Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li
-  [[Paper](https://arxiv.org/abs/2402.03526)] 
+  [[Paper](https://arxiv.org/abs/2402.03526)]
+  [[Code](https://github.com/lhaof/nnMamba)] 
   
 * **U-shaped Vision Mamba for Single Image Dehazing**, Zhuoran Zheng, Chen Wu
   [[Paper](https://arxiv.org/abs/2402.04139)]
