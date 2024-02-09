@@ -10,6 +10,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
+  [[Paper](https://arxiv.org/abs/2402.05608)]
+  [[Code](https://github.com/feizc/DiS)]
+
+* Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data, Shufan Li, Harkanwar Singh, Aditya Grover
+  [[Paper](https://arxiv.org/abs/2402.05892)]
+  [[Code]()]
+
 * **Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**, Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li
   [[Paper](https://arxiv.org/abs/2402.05079)]
   [[Code](https://github.com/ziyangwang007/Mamba-UNet)] 
