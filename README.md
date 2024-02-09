@@ -10,6 +10,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**, Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li
+  [[Paper](https://arxiv.org/abs/2402.05079)]
+  [[Code](https://github.com/ziyangwang007/Mamba-UNet)] 
+
 * **MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**, Md Atik Ahamed1, Qiang Cheng
   [[Paper](https://arxiv.org/pdf/2401.08867.pdf)]
   
