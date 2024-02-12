@@ -10,6 +10,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **FD-Vision Mamba for Endoscopic Exposure Correction**, Zhuoran Zheng, Jun Zhang,
+  [[Paper](https://arxiv.org/abs/2402.06378)] 
+
 * **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
   [[Paper](https://arxiv.org/abs/2402.05608)]
   [[Code](https://github.com/feizc/DiS)]
