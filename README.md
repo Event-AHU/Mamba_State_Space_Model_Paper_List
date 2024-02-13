@@ -9,6 +9,8 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**, Ziyang Wang, Chao Ma
+  [[Paper](https://arxiv.org/abs/2402.07245)]
 
 * **FD-Vision Mamba for Endoscopic Exposure Correction**, Zhuoran Zheng, Jun Zhang,
   [[Paper](https://arxiv.org/abs/2402.06378)] 
