@@ -9,6 +9,9 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation**, Zi Ye, Tianxiang Chen
+  [[Paper](https://arxiv.org/abs/2402.08506)] 
+
 * **Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**, Ziyang Wang, Chao Ma
   [[Paper](https://arxiv.org/abs/2402.07245)]
 
