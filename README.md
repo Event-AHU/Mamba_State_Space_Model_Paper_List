@@ -173,8 +173,9 @@ Paper list for State-Space-Model and its Applications
 ## Other Useful URLs
 * [[awesome-ssm-ml](https://github.com/AvivBick/awesome-ssm-ml)]
 * [[Awesome-Mamba-Papers](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
-* [[mamba-minimal](https://github.com/johnma2006/mamba-minimal)]
-* [[mamba.py](https://github.com/alxndrTL/mamba.py)]
+* [[mamba-minimal](https://github.com/johnma2006/mamba-minimal)] Simple, minimal implementation of the Mamba SSM in one file of PyTorch. 
+* [[mamba.py](https://github.com/alxndrTL/mamba.py)] A simple and efficient Mamba implementation in PyTorch and MLX.
+  
 
 
 
