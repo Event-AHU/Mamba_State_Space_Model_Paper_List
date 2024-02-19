@@ -9,6 +9,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**, Ziyang Wang, Chao Ma 
+  [[Paper](https://arxiv.org/abs/2402.10887)]
+  [[Code](https://github.com/ziyangwang007/Mamba-UNet)]
+  
+* **PointMamba: A Simple State Space Model for Point Cloud Analysis**, Dingkang Liang, Xin Zhou, Xinyu Wang, Xingkui Zhu, Wei Xu, Zhikang Zou, Xiaoqing Ye, Xiang Bai 
+  [[Paper](https://arxiv.org/abs/2402.10739)]
+  [[Code](https://github.com/LMD0311/PointMamba)] 
+  
 * **P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation**, Zi Ye, Tianxiang Chen
   [[Paper](https://arxiv.org/abs/2402.08506)] 
 
