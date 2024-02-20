@@ -9,6 +9,15 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **Perceiving Longer Sequences With Bi-Directional Cross-Attention Transformers**, Markus Hiller, Krista A. Ehinger, Tom Drummond
+  [[Paper](https://arxiv.org/abs/2402.12192)]
+  [[Code](https://arxiv.org/abs/2402.12138)] 
+
+* **Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou 
+  [[Paper](https://arxiv.org/abs/2402.12192)]
+  [[Code](https://github.com/alexhe101/Pan-Mamba)] 
+
 * **Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**, Ziyang Wang, Chao Ma 
   [[Paper](https://arxiv.org/abs/2402.10887)]
   [[Code](https://github.com/ziyangwang007/Mamba-UNet)]
