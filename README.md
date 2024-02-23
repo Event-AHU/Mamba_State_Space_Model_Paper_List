@@ -127,7 +127,12 @@ Paper list for State-Space-Model and its Applications
 
 * [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
   [[Paper](https://arxiv.org/abs/2303.03982)]
-  [[Code](https://github.com/luchris429/popjaxrl)]
+  [[Code](https://github.com/luchris429/popjaxrl)] 
+
+* **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
+  [[Paper](https://arxiv.org/abs/2311.18257)]
+
+
 
 
 
