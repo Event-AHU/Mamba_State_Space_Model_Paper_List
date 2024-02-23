@@ -9,7 +9,46 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* 
+* [ICLR 2024] **FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**, Daniel Y Fu, Hermann Kumbong, Eric Nguyen, Christopher Re
+  [[Paper](https://openreview.net/forum?id=gPKTTAfYBp)] 
+
+* **Variational quantization for state space models**, Etienne David, Jean Bellot, Sylvain Le Corff
+  [[Paper](https://openreview.net/forum?id=EAkjVCtRO2)] 
+
+* **Efficient Long Sequence Modeling via State Space Augmented Transformer**, Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis X Charles, Eren Manavoglu, Tuo Zhao, Jianfeng Gao
+  [[Paper](https://openreview.net/forum?id=xuxYaBMd9F)] 
+
+* **StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization**, Shida Wang, Qianxiao Li
+  [[Paper](https://openreview.net/forum?id=BwG8hwohU4)] 
+
+* [ICLR 2024] **Robustifying State-space Models for Long Sequences via Approximate Diagonalization**, Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson
+  [[Paper](https://openreview.net/forum?id=DjeQ39QoLQ)] 
+
+* **From generalization analysis to optimization designs for state space models**, Fusheng Liu, Qianxiao Li
+  [[Paper](https://openreview.net/forum?id=EGjvMcKrrl)]
+
+* **A 2-Dimensional State Space Layer for Spatial Inductive Bias**, Ethan Baron, Itamar Zimerman, Lior Wolf
+  [[Paper](https://openreview.net/forum?id=BGkqypmGvm)] 
+
+* [ICLR 2024] **Hieros: Hierarchical Imagination on Structured State Space Sequence World Models**, Paul Mattes, Rainer Schlosser, Ralf Herbrich
+  [[Paper](https://openreview.net/forum?id=5j6wtOO6Fk)] 
+
+* **S4++: Elevating Long Sequence Modeling with State Memory Reply**, [[Paper](https://openreview.net/forum?id=bdnw4qjfH9)] 
+
+* [Rejected by ICLR 2024] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu, Tri Dao
+  [[Paper](https://openreview.net/forum?id=AL1fq05o7H)] 
+
+* [ICLR 2024] **Gated recurrent neural networks discover attention**, Nicolas Zucchet, Seijin Kobayashi, Yassir Akram, Johannes Von Oswald, Maxime Larcher, Angelika Steger, Joao Sacramento
+  [[Paper](https://openreview.net/forum?id=rfSfDSFrRL)] 
+
+* [ICLR 2024] **GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling**, Tobias Katsch
+  [[Paper](https://openreview.net/forum?id=02Ug9N8DCI)] 
+
+* [ICLR 2024] **Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**, Ido Amos, Jonathan Berant, Ankit Gupta
+  [[Paper](https://openreview.net/forum?id=PdaPky8MUn)] 
+
+* [ICLR 2024] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
+  [[Paper](https://openreview.net/forum?id=1vDArHJ68h)]  
 
 * **Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
   [[Paper](https://arxiv.org/abs/2312.06837v3)] 
@@ -164,7 +203,24 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://openreview.net/pdf?id=P1TCHxJwLB)]
   [[Code](https://github.com/opennlplab/hgrn)]
 
+* **Retentive Network: A Successor to Transformer for Large Language Models**, Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
+  [[Paper](https://arxiv.org/abs/2307.08621)]
+  [[Code](https://github.com/microsoft/unilm/tree/master/retnet)]
 
+* **Convolutional State Space Models for Long-Range Spatiotemporal Modeling**, Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon
+  [[Paper](https://arxiv.org/abs/2310.19694)]
+
+* **Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions**, Stefano Massaroli, Michael Poli, Daniel Y. Fu, Hermann Kumbong, Rom N. Parnichkun, Aman Timalsina, David W. Romero, Quinn McIntyre, Beidi Chen, Atri Rudra, Ce Zhang, Christopher Re, Stefano Ermon, Yoshua Bengio
+  [[Paper](https://arxiv.org/abs/2310.18780)]
+
+* **Structured state-space models are deep Wiener models**, Fabio Bonassi, Carl Andersson, Per Mattsson, Thomas B. Schön
+  [[Paper](https://arxiv.org/abs/2312.06211)]
+
+* **Zoology: Measuring and Improving Recall in Efficient Language Models**, Simran Arora, Sabri Eyuboglu, Aman Timalsina, Isys Johnson, Michael Poli, James Zou, Atri Rudra, Christopher Ré 
+  [[Paper](https://arxiv.org/abs/2312.04927)]
+
+* 
+  
  
 
 
