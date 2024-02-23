@@ -9,6 +9,13 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **Is Mamba Capable of In-Context Learning?** Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter
+  [[Paper](https://arxiv.org/abs/2402.03170)] 
+
+* **LOCOST: State-Space Models for Long Document Abstractive Summarization**, Florian Le Bronnec, Song Duong, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari
+  [[Paper](https://arxiv.org/abs/2401.17919)]
+  [[Code](https://github.com/flbbb/locost-summarization)] 
+
 * **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**, Haowen Hou, F. Richard Yu
   [[Paper](https://arxiv.org/abs/2401.09093)]
   [[Code](https://github.com/howard-hou/RWKV-TS)] 
