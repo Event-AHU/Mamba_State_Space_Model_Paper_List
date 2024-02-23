@@ -36,7 +36,9 @@ Paper list for State-Space-Model and its Applications
 * **S4++: Elevating Long Sequence Modeling with State Memory Reply**, [[Paper](https://openreview.net/forum?id=bdnw4qjfH9)] 
 
 * [Rejected by ICLR 2024] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu, Tri Dao
-  [[Paper](https://openreview.net/forum?id=AL1fq05o7H)] 
+  [[Paper](https://openreview.net/forum?id=AL1fq05o7H)]
+  [[Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html)]
+  [[annotated-mamba](https://github.com/srush/annotated-mamba)]
 
 * [ICLR 2024] **Gated recurrent neural networks discover attention**, Nicolas Zucchet, Seijin Kobayashi, Yassir Akram, Johannes Von Oswald, Maxime Larcher, Angelika Steger, Joao Sacramento
   [[Paper](https://openreview.net/forum?id=rfSfDSFrRL)] 
@@ -219,8 +221,15 @@ Paper list for State-Space-Model and its Applications
 * **Zoology: Measuring and Improving Recall in Efficient Language Models**, Simran Arora, Sabri Eyuboglu, Aman Timalsina, Isys Johnson, Michael Poli, James Zou, Atri Rudra, Christopher Ré 
   [[Paper](https://arxiv.org/abs/2312.04927)]
 
-* 
-  
+* [ICML 2023] **Resurrecting Recurrent Neural Networks for Long Sequences**, Antonio Orvieto · Samuel Smith · Albert Gu · Anushan Fernando · Caglar Gulcehre · Razvan Pascanu · Soham De
+  [[Paper](https://icml.cc/virtual/2023/oral/25438)]
+
+* **Hyena Hierarchy: Towards Larger Convolutional Language Models**, Michael Poli, Stefano Massaroli, Eric Nguyen, Daniel Y. Fu, Tri Dao, Stephen Baccus, Yoshua Bengio, Stefano Ermon, Christopher Ré
+  [[Paper](https://arxiv.org/abs/2302.10866)]
+
+* [ICLR 2023] **Simplified State Space Layers for Sequence Modeling**, Jimmy T.H. Smith, Andrew Warrington, Scott Linderman
+  [[Paper](https://openreview.net/forum?id=Ai8Hw3AXqks)]
+   
  
 
 
@@ -255,6 +264,10 @@ Paper list for State-Space-Model and its Applications
 
 * **On the Parameterization and Initialization of Diagonal State Space Models**, Albert Gu†, Ankit Gupta‡, Karan Goel†, and Christopher R´e†
   [[Paper](https://arxiv.org/pdf/2206.11893.pdf)]
+
+* **Efficiently Modeling Long Sequences with Structured State Spaces**, Albert Gu, Karan Goel, Christopher Ré
+  [[Paper](https://arxiv.org/abs/2111.00396)]
+  [[The Annotated S4](https://srush.github.io/annotated-s4/)] 
 
 
 
