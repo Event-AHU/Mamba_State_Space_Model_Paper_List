@@ -9,7 +9,17 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* 
+* **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**, Haowen Hou, F. Richard Yu
+  [[Paper](https://arxiv.org/abs/2401.09093)]
+  [[Code](https://github.com/howard-hou/RWKV-TS)] 
+
+* **BlackMamba: Mixture of Experts for State-Space Models**, Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge
+  [[Paper](https://arxiv.org/abs/2402.01771)]
+  [[Code](https://github.com/Zyphra/BlackMamba)] 
+
+* **Recurrent Distance Filtering for Graph Representation Learning**, Yuhui Ding, Antonio Orvieto, Bobby He, Thomas Hofmann
+  [[Paper](https://arxiv.org/abs/2312.01538)]
+  [[Code](https://github.com/skeletondyh/GRED)] 
 
 * **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
   [[Paper](https://arxiv.org/abs/2402.05608)]
