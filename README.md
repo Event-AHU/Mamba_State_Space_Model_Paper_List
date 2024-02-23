@@ -9,6 +9,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* 
+
+* **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
+  [[Paper](https://arxiv.org/abs/2402.05608)]
+  [[Code](https://github.com/feizc/DiS)] 
 
 * **Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou 
   [[Paper](https://arxiv.org/abs/2402.12192)]
