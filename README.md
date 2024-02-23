@@ -125,6 +125,10 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/pdf/2312.00752.pdf)]
   [[Github](https://github.com/state-spaces/mamba)] 
 
+* [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
+  [[Paper](https://arxiv.org/abs/2303.03982)]
+  [[Code](https://github.com/luchris429/popjaxrl)]
+
 
 
 
