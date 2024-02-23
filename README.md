@@ -9,6 +9,17 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* 
+
+* **Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
+  [[Paper](https://arxiv.org/abs/2312.06837v3)] 
+
+* **Graph Mamba: Towards Learning on Graphs with State Space Models**, Ali Behrouz, Farnoosh Hashemi
+  [[Paper](https://arxiv.org/abs/2402.08678)] 
+
+* **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**, Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos
+  [[Paper](https://arxiv.org/abs/2402.04248)]
+  
 * **Is Mamba Capable of In-Context Learning?** Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter
   [[Paper](https://arxiv.org/abs/2402.03170)] 
 
@@ -149,9 +160,12 @@ Paper list for State-Space-Model and its Applications
 * **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
   [[Paper](https://arxiv.org/abs/2311.18257)]
 
+* **Hierarchically Gated Recurrent Neural Network for Sequence Modeling**, Zhen Qin, Songlin Yang, Yiran Zhong
+  [[Paper](https://openreview.net/pdf?id=P1TCHxJwLB)]
+  [[Code](https://github.com/opennlplab/hgrn)]
 
 
-
+ 
 
 
 
