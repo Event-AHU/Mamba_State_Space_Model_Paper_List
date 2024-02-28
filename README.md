@@ -14,6 +14,13 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **MambaIR: A Simple Baseline for Image Restoration with State-Space Model**, Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia
+  [[Paper](https://arxiv.org/abs/2402.15648)]
+  [[Code](https://github.com/csguoh/MambaIR)]
+
+* **State Space Models for Event Cameras**, Nikola Zubić, Mathias Gehrig, Davide Scaramuzza 
+  [[Paper](https://arxiv.org/abs/2402.15584)] 
+
 * [ICLR 2024] **FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**, Daniel Y Fu, Hermann Kumbong, Eric Nguyen, Christopher Re
   [[Paper](https://openreview.net/forum?id=gPKTTAfYBp)] 
 
