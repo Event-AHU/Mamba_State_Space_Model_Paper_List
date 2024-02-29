@@ -14,6 +14,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
+  [[Paper](https://arxiv.org/abs/2402.18451)]
+  [[Code](https://github.com/ayanglab/MambaMIR)] 
+
 * **MambaIR: A Simple Baseline for Image Restoration with State-Space Model**, Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia
   [[Paper](https://arxiv.org/abs/2402.15648)]
   [[Code](https://github.com/csguoh/MambaIR)]
