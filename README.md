@@ -227,6 +227,7 @@ Paper list for State-Space-Model and its Applications
 
 * **Convolutional State Space Models for Long-Range Spatiotemporal Modeling**, Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon
   [[Paper](https://arxiv.org/abs/2310.19694)]
+  [[Code](https://github.com/NVlabs/ConvSSM)]
 
 * **Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions**, Stefano Massaroli, Michael Poli, Daniel Y. Fu, Hermann Kumbong, Rom N. Parnichkun, Aman Timalsina, David W. Romero, Quinn McIntyre, Beidi Chen, Atri Rudra, Ce Zhang, Christopher Re, Stefano Ermon, Yoshua Bengio
   [[Paper](https://arxiv.org/abs/2310.18780)]
