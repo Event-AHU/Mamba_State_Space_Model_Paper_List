@@ -199,6 +199,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2023 
 
+
+* **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
+  [[Paper](https://arxiv.org/abs/2311.14495)]
+  [[Code](https://github.com/radarFudan/StableSSM)] 
+
+* **State-space models with layer-wise nonlinearity are universal approximators with exponential decaying memory**, Shida Wang, Beichen Xue
+  [[Paper](https://openreview.net/forum?id=i0OmcF14Kf)] 
+
 * **Spiking Structured State Space Model for Monaural Speech Enhancement**. Du, Y., Liu, X., & Chua, Y. (2023).  arXiv preprint arXiv:2309.03641.
   [[Paper](https://arxiv.org/pdf/2309.03641.pdf)]
   
