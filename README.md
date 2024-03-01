@@ -259,6 +259,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2022 
 
+
+* [ECCV-2022] **Long Movie Clip Classification with State-Space Video Models**, Md Mohaiminul Islam, Gedas Bertasius
+  [[Paper](https://arxiv.org/abs/2204.01692)]
+  [[Code](https://github.com/md-mohaiminul/ViS4mer)] 
+
 * [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/13388efc819c09564c66ab2dc8463809-Paper-Conference.pdf)]
   [[Code](https://github.com/state-spaces/s4/tree/main)] 
