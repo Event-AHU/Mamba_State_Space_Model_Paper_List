@@ -11,7 +11,14 @@ Paper list for State-Space-Model and its Applications
   [[Thesis (330 pages)](https://searchworks.stanford.edu/view/14784021)]
   [[PDF](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)]
 
+
+
+
 ## Year 2024 
+
+* **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**, Chi-Sheng Chen, Guan-Ying Chen, Dong Zhou, Di Jiang, Dai-Shi Chen
+  [[Paper](https://arxiv.org/abs/2402.15761)]
+  [[Code](https://github.com/ChiShengChen/ResVMamba)] 
 
 * **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
   [[Paper](https://arxiv.org/abs/2402.18451)]
