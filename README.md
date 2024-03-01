@@ -33,9 +33,6 @@ Paper list for State-Space-Model and its Applications
 * **Efficient Long Sequence Modeling via State Space Augmented Transformer**, Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis X Charles, Eren Manavoglu, Tuo Zhao, Jianfeng Gao
   [[Paper](https://openreview.net/forum?id=xuxYaBMd9F)] 
 
-* **StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization**, Shida Wang, Qianxiao Li
-  [[Paper](https://openreview.net/forum?id=BwG8hwohU4)] 
-
 * [ICLR 2024] **Robustifying State-space Models for Long Sequences via Approximate Diagonalization**, Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson
   [[Paper](https://openreview.net/forum?id=DjeQ39QoLQ)] 
 
