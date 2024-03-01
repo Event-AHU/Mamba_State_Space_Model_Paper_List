@@ -11,7 +11,6 @@ Paper list for State-Space-Model and its Applications
   [[Thesis (330 pages)](https://searchworks.stanford.edu/view/14784021)]
   [[PDF](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)]
 
-
 ## Year 2024 
 
 * **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
@@ -191,7 +190,11 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2401.10166)] 
   [[Code](https://github.com/MzeroMiko/VMamba)] 
 
+* **Theoretical Foundations of Deep Selective State-Space Models**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
+  [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
+* **State Space Models for Event Cameras**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
+  [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
 
 ## Year 2023 
