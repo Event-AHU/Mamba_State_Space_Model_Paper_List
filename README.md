@@ -159,8 +159,8 @@ Paper list for State-Space-Model and its Applications
   [[Code](https://wanglab.ai/u-mamba.html)]
 
 * **Vivim: a Video Vision Mamba for Medical Video Object Segmentation**, Yijun Yang, Zhaohu Xing, and Lei Zhu
-  [[Paper](https://arxiv.org/pdf/2401.13934.pdf)]
-  [[Code](https://github.com/Guo-Stone/MambaMorph)]
+  [[Paper](https://arxiv.org/pdf/2401.14168)]
+  [[Code](https://github.com/scott-yjyang/Vivim)]
 
 * Wang, Junxiong, et al. "**MambaByte: Token-free Selective State Space Model.**" arXiv preprint arXiv:2401.13660 (2024).
   [[Paper](https://arxiv.org/pdf/2401.13660.pdf)]
