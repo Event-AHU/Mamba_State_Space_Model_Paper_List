@@ -16,6 +16,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **Point Could Mamba: Point Cloud Learning via State Space Model**, Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
+  [[Paper](https://arxiv.org/abs/2403.00762)]
+  [[Code](https://github.com/zhang-tao-whu/PCM)] 
+
 * **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**, Chi-Sheng Chen, Guan-Ying Chen, Dong Zhou, Di Jiang, Dai-Shi Chen
   [[Paper](https://arxiv.org/abs/2402.15761)]
   [[Code](https://github.com/ChiShengChen/ResVMamba)] 
