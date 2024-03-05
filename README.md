@@ -14,7 +14,7 @@ Paper list for State-Space-Model and its Applications
 
 
 
-## Year 2024 ]
+## Year 2024
 
 * **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
   [[Paper](https://arxiv.org/pdf/2403.00818)]
