@@ -14,8 +14,15 @@ Paper list for State-Space-Model and its Applications
 
 
 
-## Year 2024 
+## Year 2024 ]
 
+* **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
+  [[Paper](https://arxiv.org/pdf/2403.00818)]
+  [[Code](https://github.com/WailordHe/DenseSSM)] 
+
+* **The Hidden Attention of Mamba Models**, 
+  [[Paper](https://arxiv.org/pdf/2403.01590.pdf)]
+  [[Code](https://github.com/AmeenAli/HiddenMambaAttn)] 
 
 * **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**, Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu
   [[Paper](https://arxiv.org/abs/2403.02148)]
