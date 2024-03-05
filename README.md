@@ -14,7 +14,14 @@ Paper list for State-Space-Model and its Applications
 
 
 
-## Year 2024
+## Year 2024 
+
+* **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
+  [[Paper](https://arxiv.org/abs/2402.19427)]
+
+* **Gated Linear Attention Transformers with Hardware-Efficient Training**, Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim
+  [[Paper](https://arxiv.org/abs/2312.06635)]
+  [[Paper](https://github.com/sustcsonglin/flash-linear-attention)]
 
 * **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
   [[Paper](https://arxiv.org/pdf/2403.00818)]
