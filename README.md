@@ -21,7 +21,7 @@ Paper list for State-Space-Model and its Applications
 
 * **Gated Linear Attention Transformers with Hardware-Efficient Training**, Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim
   [[Paper](https://arxiv.org/abs/2312.06635)]
-  [[Paper](https://github.com/sustcsonglin/flash-linear-attention)]
+  [[Code](https://github.com/sustcsonglin/flash-linear-attention)]
 
 * **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
   [[Paper](https://arxiv.org/pdf/2403.00818)]
