@@ -16,13 +16,21 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**, Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu
+  [[Paper](https://arxiv.org/abs/2403.02148)]
+  [[Code](https://github.com/txchen-USTC/MiM-ISTD)] 
+
+
 * **Point Could Mamba: Point Cloud Learning via State Space Model**, Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
   [[Paper](https://arxiv.org/abs/2403.00762)]
   [[Code](https://github.com/zhang-tao-whu/PCM)] 
 
+
 * **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**, Chi-Sheng Chen, Guan-Ying Chen, Dong Zhou, Di Jiang, Dai-Shi Chen
   [[Paper](https://arxiv.org/abs/2402.15761)]
   [[Code](https://github.com/ChiShengChen/ResVMamba)] 
+
 
 * **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
   [[Paper](https://arxiv.org/abs/2402.18451)]
