@@ -19,11 +19,17 @@ Paper list for State-Space-Model and its Applications
 * **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
   [[Paper](https://arxiv.org/abs/2402.19427)]
 
-
 * **Gated Linear Attention Transformers with Hardware-Efficient Training**, Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim
   [[Paper](https://arxiv.org/abs/2312.06635)]
-  [[Paper](https://github.com/sustcsonglin/flash-linear-attention)]
+  [[Code](https://github.com/sustcsonglin/flash-linear-attention)]
 
+* **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
+  [[Paper](https://arxiv.org/pdf/2403.00818)]
+  [[Code](https://github.com/WailordHe/DenseSSM)] 
+
+* **The Hidden Attention of Mamba Models**, 
+  [[Paper](https://arxiv.org/pdf/2403.01590.pdf)]
+  [[Code](https://github.com/AmeenAli/HiddenMambaAttn)] 
 
 * **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**, Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu
   [[Paper](https://arxiv.org/abs/2403.02148)]
