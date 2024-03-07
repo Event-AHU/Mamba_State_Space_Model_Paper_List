@@ -16,6 +16,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**, Chengkai Liu, Jianghao Lin, Jianling Wang, Hanzhou Liu, James Caverlee
+  [[Paper](https://arxiv.org/abs/2403.03900)] 
+
+* **MedMamba: Vision Mamba for Medical Image Classification**, Yubiao Yue, Zhenzhang Li
+  [[Paper](https://arxiv.org/abs/2403.03849)]
+  [[Code](https://github.com/YubiaoYue/MedMamba)] 
+
 * **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
   [[Paper](https://arxiv.org/abs/2402.19427)]
 
