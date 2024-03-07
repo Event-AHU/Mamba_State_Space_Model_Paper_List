@@ -235,8 +235,16 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
 
+
+
+
+
+
 ## Year 2023 
 
+
+* [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
+  [[Paper](https://arxiv.org/abs/2211.11176)] 
 
 * **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
   [[Paper](https://arxiv.org/abs/2311.14495)]
