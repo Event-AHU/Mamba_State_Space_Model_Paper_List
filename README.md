@@ -17,6 +17,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Video Diffusion State Space Models**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Jusnshi Huang,
+  [[Paper]()]
+  [[Code](https://github.com/feizc/Vespa)]
+
 * **Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**, Chengkai Liu, Jianghao Lin, Jianling Wang, Hanzhou Liu, James Caverlee
   [[Paper](https://arxiv.org/abs/2403.03900)] 
 
