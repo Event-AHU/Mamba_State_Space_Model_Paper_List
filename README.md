@@ -235,8 +235,6 @@ Paper list for State-Space-Model and its Applications
 * **Theoretical Foundations of Deep Selective State-Space Models**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
   [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
-* **State Space Models for Event Cameras**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
-  [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
 
 
