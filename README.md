@@ -16,6 +16,8 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**, Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang
+  [[Paper](https://arxiv.org/abs/2403.05160)] 
 
 * **Video Diffusion State Space Models**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Jusnshi Huang,
   [[Paper]()]
