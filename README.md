@@ -16,6 +16,20 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**, Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang
+  [[Paper](https://arxiv.org/abs/2403.05160)] 
+
+* **Video Diffusion State Space Models**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Jusnshi Huang,
+  [[Paper]()]
+  [[Code](https://github.com/feizc/Vespa)]
+
+* **Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**, Chengkai Liu, Jianghao Lin, Jianling Wang, Hanzhou Liu, James Caverlee
+  [[Paper](https://arxiv.org/abs/2403.03900)] 
+
+* **MedMamba: Vision Mamba for Medical Image Classification**, Yubiao Yue, Zhenzhang Li
+  [[Paper](https://arxiv.org/abs/2403.03849)]
+  [[Code](https://github.com/YubiaoYue/MedMamba)] 
+
 * **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
   [[Paper](https://arxiv.org/abs/2402.19427)]
 
@@ -223,12 +237,18 @@ Paper list for State-Space-Model and its Applications
 * **Theoretical Foundations of Deep Selective State-Space Models**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
   [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
-* **State Space Models for Event Cameras**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
-  [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
+
+
+
+
+
 
 
 ## Year 2023 
 
+
+* [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
+  [[Paper](https://arxiv.org/abs/2211.11176)] 
 
 * **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
   [[Paper](https://arxiv.org/abs/2311.14495)]
