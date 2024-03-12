@@ -16,6 +16,16 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**,
+  Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang
+  [[Paper](https://arxiv.org/abs/2403.06467)]
+  [[Code](https://github.com/IRMVLab/Point-Mamba)]
+  
+* **VideoMamba: State Space Model for Efficient Video Understanding**, Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
+  [[Paper](https://arxiv.org/abs/2403.06977)]
+  [[Code](https://github.com/OpenGVLab/VideoMamba)]
+  
 * **MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**, Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang
   [[Paper](https://arxiv.org/abs/2403.05160)] 
 
