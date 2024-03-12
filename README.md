@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**, 
+  Shu Yang, Yihui Wang, Hao Chen
+  [[Paper](https://arxiv.org/abs/2403.06800)]
+  [[Code](https://github.com/isyangshu/MambaMIL)] 
+
 * **Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**,
   Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang
   [[Paper](https://arxiv.org/abs/2403.06467)]
