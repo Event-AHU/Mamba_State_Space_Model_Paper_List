@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes**,
+  Zhichao Yang, Avijit Mitra, Sunjae Kwon, Hong Yu
+  [[Paper](https://arxiv.org/abs/2403.05795)]
+  [[Code](https://github.com/whaleloops/ClinicalMamba)] 
+
 * **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**, 
   Shu Yang, Yihui Wang, Hao Chen
   [[Paper](https://arxiv.org/abs/2403.06800)]
