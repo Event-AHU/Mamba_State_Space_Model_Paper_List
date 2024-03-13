@@ -20,7 +20,8 @@ Paper list for State-Space-Model and its Applications
 * **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**,
   Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
   [[Paper](https://arxiv.org/abs/2403.07487)]
-  [[Code](https://steve-zeyu-zhang.github.io/MotionMamba/)] 
+  [[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)]
+  [[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)] 
 
 * **ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes**,
   Zhichao Yang, Avijit Mitra, Sunjae Kwon, Hong Yu
