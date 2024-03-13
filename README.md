@@ -17,6 +17,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**, Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu
+  [[Paper](https://arxiv.org/abs/2403.07332)]
+  [[Code](https://github.com/wjh892521292/LMa-UNet)]
+
 * **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**,
   Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
   [[Paper](https://arxiv.org/abs/2403.07487)]
