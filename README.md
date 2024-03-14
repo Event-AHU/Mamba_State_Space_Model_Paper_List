@@ -19,6 +19,16 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
+* **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling**, Yair Schiff, Chia-Hsiang Kao, Aaron Gokaslan, Tri Dao, Albert Gu, Volodymyr Kuleshov
+  [[Paper](https://arxiv.org/abs/2403.03234)] 
+
+* **MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction**,
+  Linjie Fu, Xia Li, Xiuding Cai, Yingkai Wang, Xueyao Wang, Yali Shen, Yu Yao
+  [[Paper](https://arxiv.org/abs/2403.08479)] 
+
+* **Activating Wider Areas in Image Super-Resolution**, Cheng Cheng, Hang Wang, Hongbin Sun
+  [[Paper](https://arxiv.org/abs/2403.08330)] 
+
 * **Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**,
   Changsheng Quan, Xiaofei Li
   [[Paper](https://arxiv.org/abs/2403.07675)] 
