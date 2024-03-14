@@ -19,6 +19,11 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
+* **LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**,
+  Weibin Liao, Yinghao Zhu, Xinyuan Wang, Chengwei Pan, Yasha Wang, Liantao Ma
+  [[Paper](https://arxiv.org/abs/2403.05246)]
+  [[Code](https://github.com/MrBlankness/LightM-UNet)]
+
 * **Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**,
   Yuelin Zhang, Wanquan Yan, Kim Yan, Chun Ping Lam, Yufu Qiu, Pengyu Zheng, Raymond Shing-Yan Tang, Shing Shin Cheng
   [[Paper](https://arxiv.org/abs/2403.05146)] 
