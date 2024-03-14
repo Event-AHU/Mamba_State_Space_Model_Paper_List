@@ -19,6 +19,10 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
+* **Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**,
+  Yuelin Zhang, Wanquan Yan, Kim Yan, Chun Ping Lam, Yufu Qiu, Pengyu Zheng, Raymond Shing-Yan Tang, Shing Shin Cheng
+  [[Paper](https://arxiv.org/abs/2403.05146)] 
+
 * **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling**, Yair Schiff, Chia-Hsiang Kao, Aaron Gokaslan, Tri Dao, Albert Gu, Volodymyr Kuleshov
   [[Paper](https://arxiv.org/abs/2403.03234)] 
 
