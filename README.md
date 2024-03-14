@@ -17,7 +17,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* 
+
+* **Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, 
+  Raunaq Bhirangi, Chenyu Wang, Venkatesh Pattabiraman, Carmel Majidi, Abhinav Gupta, Tess Hellebrekers, Lerrel Pinto
+  [[Paper](https://arxiv.org/abs/2402.10211)] 
 
 * **MambaStock: Selective state space model for stock prediction**, Zhuangwei Shi
   [[Paper](https://arxiv.org/abs/2402.18959)]
