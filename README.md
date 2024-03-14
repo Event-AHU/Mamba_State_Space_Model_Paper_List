@@ -17,6 +17,21 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* 
+
+* **Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**,
+  Changsheng Quan, Xiaofei Li
+  [[Paper](https://arxiv.org/abs/2403.07675)] 
+
+* **A multi-cohort study on prediction of acute brain dysfunction states using selective state space models**,
+  Brandon Silva, Miguel Contreras, Sabyasachi Bandyopadhyay, Yuanfang Ren, Ziyuan Guan, Jeremy Balch, Kia Khezeli, Tezcan Ozrazgat Baslanti, Ben Shickel, Azra Bihorac, Parisa Rashidi
+  [[Paper](https://arxiv.org/abs/2403.07201)]
+
+* **The pitfalls of next-token prediction**,
+  Gregor Bachmann, Vaishnavh Nagarajan
+  [[Paper](https://arxiv.org/abs/2403.06963)]
+  [[Code](https://github.com/gregorbachmann/Next-Token-Failures)] 
+
 * **Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**, Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.07332)]
   [[Code](https://github.com/wjh892521292/LMa-UNet)]
