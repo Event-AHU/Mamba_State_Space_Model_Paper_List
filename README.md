@@ -19,6 +19,14 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
+* **MambaStock: Selective state space model for stock prediction**, Zhuangwei Shi
+  [[Paper](https://arxiv.org/abs/2402.18959)]
+  [[Code](https://github.com/zshicode/MambaStock)]
+
+* **Simple linear attention language models balance the recall-throughput tradeoff**,
+  Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré
+  [[Paper](https://arxiv.org/abs/2402.18668)] 
+
 * **LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**,
   Weibin Liao, Yinghao Zhu, Xinyuan Wang, Chengwei Pan, Yasha Wang, Liantao Ma
   [[Paper](https://arxiv.org/abs/2403.05246)]
