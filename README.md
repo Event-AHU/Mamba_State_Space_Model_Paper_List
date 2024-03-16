@@ -2,7 +2,7 @@
 Paper list for State-Space-Model and its Applications
 
 <p align="center">
-<img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_park.jpg" width="600">
+<img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_park.jpg" width="400">
 </p>
 
 
