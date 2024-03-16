@@ -16,6 +16,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **LocalMamba**: Visual State Space Model with Windowed Selective Scan,
+  Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu
+  [[Paper](https://arxiv.org/abs/2403.09338)]
+  [[Code](https://github.com/hunto/LocalMamba)] 
 
 * **VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation**, 
   Mingya Zhang, Yue Yu, Limei Gu, Tingsheng Lin, Xianping Tao
