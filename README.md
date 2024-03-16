@@ -17,6 +17,13 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation**, 
+  Mingya Zhang, Yue Yu, Limei Gu, Tingsheng Lin, Xianping Tao
+  [[Paper](https://arxiv.org/abs/2403.09157)] 
+
+* **Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**,
+  Guo Chen, Yifei Huang, Jilan Xu, Baoqi Pei, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang
+  [[Paper](https://arxiv.org/abs/2403.09626)] 
 
 * **Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, 
   Raunaq Bhirangi, Chenyu Wang, Venkatesh Pattabiraman, Carmel Majidi, Abhinav Gupta, Tess Hellebrekers, Lerrel Pinto
