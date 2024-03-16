@@ -16,6 +16,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**,
+  Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li
+  [[Paper](https://arxiv.org/abs/2403.09471)]
+
 * **LocalMamba**: Visual State Space Model with Windowed Selective Scan,
   Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu
   [[Paper](https://arxiv.org/abs/2403.09338)]
