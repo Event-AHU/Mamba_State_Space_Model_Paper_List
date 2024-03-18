@@ -16,6 +16,15 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**, Md Atik Ahamed, Qiang Cheng
+  [[Paper](https://arxiv.org/abs/2403.09898)]
+  [[Code](https://github.com/Atik-Ahamed/TimeMachine)] 
+  
+* **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**, Xiaohuan Pei, Tao Huang, Chang Xu
+  [[Paper](https://arxiv.org/abs/2403.09977)]
+  [[Code](https://github.com/TerryPei/EfficientVMamba)]
+
 * **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**,
   Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li
   [[Paper](https://arxiv.org/abs/2403.09471)]
