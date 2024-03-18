@@ -17,6 +17,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Regularization-Based Efficient Continual Learning in Deep State-Space Models**,
+  Yuanhang Zhang, Zhidi Lin, Yiyong Sun, Feng Yin, Carsten Fritsche
+  [[Paper](https://arxiv.org/abs/2403.10123)]
+
 * **TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**, Md Atik Ahamed, Qiang Cheng
   [[Paper](https://arxiv.org/abs/2403.09898)]
   [[Code](https://github.com/Atik-Ahamed/TimeMachine)] 
