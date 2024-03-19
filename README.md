@@ -17,6 +17,13 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **On the low-shot transferability of [V]-Mamba**, Diganta Misra, Jay Gala, Antonio Orvieto
+  [[Paper](https://arxiv.org/abs/2403.10696)] 
+
+* **Is Mamba Effective for Time Series Forecasting?** Zihan Wang, Fanheng Kong, Shi Feng, Ming Wang, Han Zhao, Daling Wang, Yifei Zhang
+  [[Paper](https://arxiv.org/abs/2403.11144)]
+  [[Code](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
+
 * **VmambaIR: Visual State Space Model for Image Restoration**,
   Yuan Shi, Bin Xia, Xiaoyu Jin, Xing Wang, Tianyu Zhao, Xin Xia, Xuefeng Xiao, Wenming Yang
   [[Paper](https://arxiv.org/abs/2403.11423)] 
