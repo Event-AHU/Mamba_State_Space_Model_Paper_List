@@ -17,7 +17,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* 
+* **VmambaIR: Visual State Space Model for Image Restoration**,
+  Yuan Shi, Bin Xia, Xiaoyu Jin, Xing Wang, Tianyu Zhao, Xin Xia, Xuefeng Xiao, Wenming Yang
+  [[Paper](https://arxiv.org/abs/2403.11423)] 
 
 * **Understanding Robustness of Visual State Space Models for Image Classification**,
   Chengbin Du, Yanxi Li, Chang Xu
