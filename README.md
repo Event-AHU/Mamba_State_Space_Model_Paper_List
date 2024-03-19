@@ -17,6 +17,12 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* 
+
+* **Understanding Robustness of Visual State Space Models for Image Classification**,
+  Chengbin Du, Yanxi Li, Chang Xu
+  [[Paper](https://arxiv.org/abs/2403.10935)] 
+
 * **Regularization-Based Efficient Continual Learning in Deep State-Space Models**,
   Yuanhang Zhang, Zhidi Lin, Yiyong Sun, Feng Yin, Carsten Fritsche
   [[Paper](https://arxiv.org/abs/2403.10123)]
