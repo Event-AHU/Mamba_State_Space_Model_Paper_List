@@ -17,6 +17,13 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **ProMamba: Prompt-Mamba for polyp segmentation**, Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo
+  [[Paper](https://arxiv.org/abs/2403.13660)]
+
+* **ZigMa: Zigzag Mamba Diffusion Model**, Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer
+  [[Paper](https://arxiv.org/abs/2403.13802)]
+  [[Code](https://taohu.me/zigma/)] 
+
 * **On the low-shot transferability of [V]-Mamba**, Diganta Misra, Jay Gala, Antonio Orvieto
   [[Paper](https://arxiv.org/abs/2403.10696)] 
 
