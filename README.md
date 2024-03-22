@@ -250,71 +250,71 @@ Paper list for State-Space-Model and its Applications
 * [ICLR 2024] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
   [[Paper](https://openreview.net/forum?id=1vDArHJ68h)]  
 
-* **Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
+* [2024_035]**Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
   [[Paper](https://arxiv.org/abs/2312.06837v3)] 
 
-* **Graph Mamba: Towards Learning on Graphs with State Space Models**, Ali Behrouz, Farnoosh Hashemi
+* [2024_034]**Graph Mamba: Towards Learning on Graphs with State Space Models**, Ali Behrouz, Farnoosh Hashemi
   [[Paper](https://arxiv.org/abs/2402.08678)] 
 
-* **Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**, Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos
+* [2024_033]**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**, Jongho Park, Jaeseung Park, Zheyang Xiong, Nayoung Lee, Jaewoong Cho, Samet Oymak, Kangwook Lee, Dimitris Papailiopoulos
   [[Paper](https://arxiv.org/abs/2402.04248)]
   
-* **Is Mamba Capable of In-Context Learning?** Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter
+* [2024_032]**Is Mamba Capable of In-Context Learning?** Riccardo Grazzi, Julien Siems, Simon Schrodi, Thomas Brox, Frank Hutter
   [[Paper](https://arxiv.org/abs/2402.03170)] 
 
-* **LOCOST: State-Space Models for Long Document Abstractive Summarization**, Florian Le Bronnec, Song Duong, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari
+* [2024_031]**LOCOST: State-Space Models for Long Document Abstractive Summarization**, Florian Le Bronnec, Song Duong, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari
   [[Paper](https://arxiv.org/abs/2401.17919)]
   [[Code](https://github.com/flbbb/locost-summarization)] 
 
-* **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**, Haowen Hou, F. Richard Yu
+* [2024_030]**RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**, Haowen Hou, F. Richard Yu
   [[Paper](https://arxiv.org/abs/2401.09093)]
   [[Code](https://github.com/howard-hou/RWKV-TS)] 
 
-* **BlackMamba: Mixture of Experts for State-Space Models**, Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge
+* [2024_029]**BlackMamba: Mixture of Experts for State-Space Models**, Quentin Anthony, Yury Tokpanov, Paolo Glorioso, Beren Millidge
   [[Paper](https://arxiv.org/abs/2402.01771)]
   [[Code](https://github.com/Zyphra/BlackMamba)] 
 
-* **Recurrent Distance Filtering for Graph Representation Learning**, Yuhui Ding, Antonio Orvieto, Bobby He, Thomas Hofmann
+* [2024_028]**Recurrent Distance Filtering for Graph Representation Learning**, Yuhui Ding, Antonio Orvieto, Bobby He, Thomas Hofmann
   [[Paper](https://arxiv.org/abs/2312.01538)]
   [[Code](https://github.com/skeletondyh/GRED)] 
 
-* **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
+* [2024_027]**Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
   [[Paper](https://arxiv.org/abs/2402.05608)]
   [[Code](https://github.com/feizc/DiS)] 
 
-* **Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou 
+* [2024_026]**Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou 
   [[Paper](https://arxiv.org/abs/2402.12192)]
   [[Code](https://github.com/alexhe101/Pan-Mamba)] 
 
-* **Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**, Ziyang Wang, Chao Ma 
+* [2024_025]**Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation**, Ziyang Wang, Chao Ma 
   [[Paper](https://arxiv.org/abs/2402.10887)]
   [[Code](https://github.com/ziyangwang007/Mamba-UNet)]
   
-* **PointMamba: A Simple State Space Model for Point Cloud Analysis**, Dingkang Liang, Xin Zhou, Xinyu Wang, Xingkui Zhu, Wei Xu, Zhikang Zou, Xiaoqing Ye, Xiang Bai 
+* [2024_024]**PointMamba: A Simple State Space Model for Point Cloud Analysis**, Dingkang Liang, Xin Zhou, Xinyu Wang, Xingkui Zhu, Wei Xu, Zhikang Zou, Xiaoqing Ye, Xiang Bai 
   [[Paper](https://arxiv.org/abs/2402.10739)]
   [[Code](https://github.com/LMD0311/PointMamba)] 
   
-* **P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation**, Zi Ye, Tianxiang Chen
+* [2024_023]**P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation**, Zi Ye, Tianxiang Chen
   [[Paper](https://arxiv.org/abs/2402.08506)] 
 
-* **Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**, Ziyang Wang, Chao Ma
+* [2024_022]**Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation**, Ziyang Wang, Chao Ma
   [[Paper](https://arxiv.org/abs/2402.07245)]
 
-* **FD-Vision Mamba for Endoscopic Exposure Correction**, Zhuoran Zheng, Jun Zhang,
+* [2024_021]**FD-Vision Mamba for Endoscopic Exposure Correction**, Zhuoran Zheng, Jun Zhang,
   [[Paper](https://arxiv.org/abs/2402.06378)] 
 
-* **Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
+* [2024_020]**Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
   [[Paper](https://arxiv.org/abs/2402.05608)]
   [[Code](https://github.com/feizc/DiS)]
 
-* **Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**, Shufan Li, Harkanwar Singh, Aditya Grover
+* [2024_019]**Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data**, Shufan Li, Harkanwar Singh, Aditya Grover
   [[Paper](https://arxiv.org/abs/2402.05892)] 
 
-* **Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**, Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li
+* [2024_018]**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**, Ziyang Wang, Jian-Qing Zheng, Yichi Zhang, Ge Cui, Lei Li
   [[Paper](https://arxiv.org/abs/2402.05079)]
   [[Code](https://github.com/ziyangwang007/Mamba-UNet)] 
 
-* **MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**, Md Atik Ahamed1, Qiang Cheng
+* [2024_017]**MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**, Md Atik Ahamed1, Qiang Cheng
   [[Paper](https://arxiv.org/pdf/2401.08867.pdf)]
   
 * [2024_016] **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**, Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li
