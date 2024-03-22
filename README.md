@@ -386,56 +386,56 @@ Paper list for State-Space-Model and its Applications
 ## Year 2023 
 
 
-* [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
+* [2023_0018] [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
   [[Paper](https://arxiv.org/abs/2211.11176)] 
 
-* **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
+* [2023_0017] **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
   [[Paper](https://arxiv.org/abs/2311.14495)]
   [[Code](https://github.com/radarFudan/StableSSM)] 
 
-* **State-space models with layer-wise nonlinearity are universal approximators with exponential decaying memory**, Shida Wang, Beichen Xue
+* [2023_0016] **State-space models with layer-wise nonlinearity are universal approximators with exponential decaying memory**, Shida Wang, Beichen Xue
   [[Paper](https://openreview.net/forum?id=i0OmcF14Kf)] 
 
-* **Spiking Structured State Space Model for Monaural Speech Enhancement**. Du, Y., Liu, X., & Chua, Y. (2023).  arXiv preprint arXiv:2309.03641.
+* [2023_0015] **Spiking Structured State Space Model for Monaural Speech Enhancement**. Du, Y., Liu, X., & Chua, Y. (2023).  arXiv preprint arXiv:2309.03641.
   [[Paper](https://arxiv.org/pdf/2309.03641.pdf)]
   
-* **Mastering Diverse Domains through World Models**, Danijar Hafner,12 Jurgis Pasukonis,1 Jimmy Ba,2 Timothy Lillicrap
+* [2023_0014] **Mastering Diverse Domains through World Models**, Danijar Hafner,12 Jurgis Pasukonis,1 Jimmy Ba,2 Timothy Lillicrap
   [[Paper](https://arxiv.org/pdf/2301.04104.pdf)]
   [[Code](https://danijar.com/dreamerv3)] 
 
-* **Selective Structured State-Spaces for Long-Form Video Understanding**, Jue Wang Wentao Zhu Pichao Wang Xiang Yu Linda Liu Mohamed Omar Raffay Hamid
+* [2023_0013] **Selective Structured State-Spaces for Long-Form Video Understanding**, Jue Wang Wentao Zhu Pichao Wang Xiang Yu Linda Liu Mohamed Omar Raffay Hamid
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Selective_Structured_State-Spaces_for_Long-Form_Video_Understanding_CVPR_2023_paper.pdf)]
 
-* **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu*1and Tri Dao
+* [2023_0012] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu*1and Tri Dao
   [[Paper](https://arxiv.org/pdf/2312.00752.pdf)]
   [[Github](https://github.com/state-spaces/mamba)] 
 
-* [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
+* [2023_0011] [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
   [[Paper](https://arxiv.org/abs/2303.03982)]
   [[Code](https://github.com/luchris429/popjaxrl)] 
 
-* **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
+* [2023_0010] **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
   [[Paper](https://arxiv.org/abs/2311.18257)]
 
-* **Hierarchically Gated Recurrent Neural Network for Sequence Modeling**, Zhen Qin, Songlin Yang, Yiran Zhong
+* [2023_009] **Hierarchically Gated Recurrent Neural Network for Sequence Modeling**, Zhen Qin, Songlin Yang, Yiran Zhong
   [[Paper](https://openreview.net/pdf?id=P1TCHxJwLB)]
   [[Code](https://github.com/opennlplab/hgrn)]
 
-* **Retentive Network: A Successor to Transformer for Large Language Models**, Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
+* [2023_008] **Retentive Network: A Successor to Transformer for Large Language Models**, Yutao Sun, Li Dong, Shaohan Huang, Shuming Ma, Yuqing Xia, Jilong Xue, Jianyong Wang, Furu Wei
   [[Paper](https://arxiv.org/abs/2307.08621)]
   [[Code](https://github.com/microsoft/unilm/tree/master/retnet)]
 
-* **Convolutional State Space Models for Long-Range Spatiotemporal Modeling**, Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon
+* [2023_007] **Convolutional State Space Models for Long-Range Spatiotemporal Modeling**, Jimmy T.H. Smith, Shalini De Mello, Jan Kautz, Scott W. Linderman, Wonmin Byeon
   [[Paper](https://arxiv.org/abs/2310.19694)]
   [[Code](https://github.com/NVlabs/ConvSSM)]
 
-* **Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions**, Stefano Massaroli, Michael Poli, Daniel Y. Fu, Hermann Kumbong, Rom N. Parnichkun, Aman Timalsina, David W. Romero, Quinn McIntyre, Beidi Chen, Atri Rudra, Ce Zhang, Christopher Re, Stefano Ermon, Yoshua Bengio
+* [2023_006] **Laughing Hyena Distillery: Extracting Compact Recurrences From Convolutions**, Stefano Massaroli, Michael Poli, Daniel Y. Fu, Hermann Kumbong, Rom N. Parnichkun, Aman Timalsina, David W. Romero, Quinn McIntyre, Beidi Chen, Atri Rudra, Ce Zhang, Christopher Re, Stefano Ermon, Yoshua Bengio
   [[Paper](https://arxiv.org/abs/2310.18780)]
 
-* **Structured state-space models are deep Wiener models**, Fabio Bonassi, Carl Andersson, Per Mattsson, Thomas B. Schön
+* [2023_005] **Structured state-space models are deep Wiener models**, Fabio Bonassi, Carl Andersson, Per Mattsson, Thomas B. Schön
   [[Paper](https://arxiv.org/abs/2312.06211)]
 
-* **Zoology: Measuring and Improving Recall in Efficient Language Models**, Simran Arora, Sabri Eyuboglu, Aman Timalsina, Isys Johnson, Michael Poli, James Zou, Atri Rudra, Christopher Ré 
+* [2023_004] **Zoology: Measuring and Improving Recall in Efficient Language Models**, Simran Arora, Sabri Eyuboglu, Aman Timalsina, Isys Johnson, Michael Poli, James Zou, Atri Rudra, Christopher Ré 
   [[Paper](https://arxiv.org/abs/2312.04927)]
 
 * [2023_003] [ICML 2023] **Resurrecting Recurrent Neural Networks for Long Sequences**, Antonio Orvieto · Samuel Smith · Albert Gu · Anushan Fernando · Caglar Gulcehre · Razvan Pascanu · Soham De
