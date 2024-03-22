@@ -317,63 +317,63 @@ Paper list for State-Space-Model and its Applications
 * **MambaTab: A Simple Yet Effective Approach for Handling Tabular Data**, Md Atik Ahamed1, Qiang Cheng
   [[Paper](https://arxiv.org/pdf/2401.08867.pdf)]
   
-* **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**, Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li
+* [2024_016] **nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model**, Haifan Gong, Luoyao Kang, Yitao Wang, Xiang Wan, Haofeng Li
   [[Paper](https://arxiv.org/abs/2402.03526)]
   [[Code](https://github.com/lhaof/nnMamba)] 
   
-* **U-shaped Vision Mamba for Single Image Dehazing**, Zhuoran Zheng, Chen Wu
+* [2024_015] **U-shaped Vision Mamba for Single Image Dehazing**, Zhuoran Zheng, Chen Wu
   [[Paper](https://arxiv.org/abs/2402.04139)]
 
-* **Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces**,
+* [2024_014] **Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces**,
   [[Paper](https://arxiv.org/abs/2402.00789)] 
   [[Code](https://github.com/bowang-lab/Graph-Mamba)] 
 
-* **VM-UNet: Vision Mamba UNet for Medical Image Segmentation**, Jiacheng Ruan, Suncheng Xiang
+* [2024_013] **VM-UNet: Vision Mamba UNet for Medical Image Segmentation**, Jiacheng Ruan, Suncheng Xiang
   [[Paper](https://arxiv.org/abs/2402.02491)]
   [[Code](https://github.com/JCruan519/VM-UNet)] 
 
-* **Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining**, Jiarun Liu, Hao Yang, Hong-Yu Zhou, Yan Xi, Lequan Yu, Yizhou Yu, Yong Liang, Guangming Shi, Shaoting Zhang, Hairong Zheng, Shanshan Wang 
+* [2024_012] **Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining**, Jiarun Liu, Hao Yang, Hong-Yu Zhou, Yan Xi, Lequan Yu, Yizhou Yu, Yong Liang, Guangming Shi, Shaoting Zhang, Hairong Zheng, Shanshan Wang 
   [[Paper](https://arxiv.org/abs/2402.03302)]
   [[Code](https://github.com/JiarunLiu/Swin-UMamba)]
 
-* Ma, Jun, Feifei Li, and Bo Wang. "**U-mamba: Enhancing long-range dependency for biomedical image segmentation**." arXiv preprint arXiv:2401.04722 (2024).
+* [2024_011] Ma, Jun, Feifei Li, and Bo Wang. "**U-mamba: Enhancing long-range dependency for biomedical image segmentation**." arXiv preprint arXiv:2401.04722 (2024).
   [[Paper](https://arxiv.org/pdf/2401.04722.pdf)]
   [[Code](https://wanglab.ai/u-mamba.html)]
 
-* **Vivim: a Video Vision Mamba for Medical Video Object Segmentation**, Yijun Yang, Zhaohu Xing, and Lei Zhu
+* [2024_010] **Vivim: a Video Vision Mamba for Medical Video Object Segmentation**, Yijun Yang, Zhaohu Xing, and Lei Zhu
   [[Paper](https://arxiv.org/pdf/2401.14168)]
   [[Code](https://github.com/scott-yjyang/Vivim)]
 
-* Wang, Junxiong, et al. "**MambaByte: Token-free Selective State Space Model.**" arXiv preprint arXiv:2401.13660 (2024).
+* [2024_009] Wang, Junxiong, et al. "**MambaByte: Token-free Selective State Space Model.**" arXiv preprint arXiv:2401.13660 (2024).
   [[Paper](https://arxiv.org/pdf/2401.13660.pdf)]
   [[Code](https://github.com/lucidrains/MEGABYTE-pytorch)]
 
-* **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts.** Pióro, M., Ciebiera, K., Król, K., Ludziejewski, J., & Jaszczur, S. (2024). arXiv preprint arXiv:2401.04081.
+* [2024_008] **MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts.** Pióro, M., Ciebiera, K., Król, K., Ludziejewski, J., & Jaszczur, S. (2024). arXiv preprint arXiv:2401.04081.
   [[Paper](https://arxiv.org/abs/2401.04081)]
 
-* [ICLR-2024] **MASTERING MEMORY TASKS WITH WORLD MODELS**
+* [2024_007] [ICLR-2024] **MASTERING MEMORY TASKS WITH WORLD MODELS**
   [[Paper](https://openreview.net/attachment?id=1vDArHJ68h&name=pdf)]
 
-* **MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**, Tao Guo, Yinuo Wang, and Cai Meng
+* [2024_006] **MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration**, Tao Guo, Yinuo Wang, and Cai Meng
   [[Paper](https://arxiv.org/pdf/2401.13934.pdf)]
   [[Code](https://github.com/Guo-Stone/MambaMorph)]
 
-* **SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**,
+* [2024_005] **SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation**,
   [[Paper](https://arxiv.org/pdf/2401.13560.pdf)]
   [[Code](https://github.com/ge-xing/SegMamba)] 
 
-* [ICLR-2024] **POINT2SSM: LEARNING MORPHOLOGICAL VARIATIONS OF ANATOMIES FROM POINT CLOUDS**,
+* [2024_004] [ICLR-2024] **POINT2SSM: LEARNING MORPHOLOGICAL VARIATIONS OF ANATOMIES FROM POINT CLOUDS**,
   [[Paper](https://openreview.net/attachment?id=DqziS8DG4M&name=pdf)] 
 
-* **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**, Lianghui Zhu1∗, Bencheng Liao1∗, Qian Zhang2, Xinlong Wang3, Wenyu Liu1, Xinggang Wang
+* [2024_003] **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**, Lianghui Zhu1∗, Bencheng Liao1∗, Qian Zhang2, Xinlong Wang3, Wenyu Liu1, Xinggang Wang
   [[Paper](https://arxiv.org/pdf/2401.09417.pdf)]
   [[Code](https://github.com/hustvl/Vim)]
 
-* **VMamba: Visual State Space Model**, Yue Liu1,Yunjie Tian1,Yuzhong Zhao1, Hongtian Yu1, Lingxi Xie2, Yaowei Wang3, Qixiang Ye1, Yunfan Liu1
+* [2024_002] **VMamba: Visual State Space Model**, Yue Liu1,Yunjie Tian1,Yuzhong Zhao1, Hongtian Yu1, Lingxi Xie2, Yaowei Wang3, Qixiang Ye1, Yunfan Liu1
   [[Paper](https://arxiv.org/abs/2401.10166)] 
   [[Code](https://github.com/MzeroMiko/VMamba)] 
 
-* **Theoretical Foundations of Deep Selective State-Space Models**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
+* [2024_001] **Theoretical Foundations of Deep Selective State-Space Models**, Nicola Muca Cirone, Antonio Orvieto, Benjamin Walker, Cristopher Salvi, Terry Lyons 
   [[Paper](https://arxiv.org/pdf/2402.19047.pdf)]
 
 
@@ -386,35 +386,35 @@ Paper list for State-Space-Model and its Applications
 ## Year 2023 
 
 
-* [2023_0018] [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
+* [2023_018] [CHIL 2023] **Modeling Multivariate Biosignals With Graph Neural Networks and Structured State Space Models**, Siyi Tang, Jared A. Dunnmon, Liangqiong Qu, Khaled K. Saab, Tina Baykaner, Christopher Lee-Messer, Daniel L. Rubin 
   [[Paper](https://arxiv.org/abs/2211.11176)] 
 
-* [2023_0017] **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
+* [2023_017] **"StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization."** Wang, Shida, and Qianxiao Li. arXiv preprint arXiv:2311.14495 (2023).
   [[Paper](https://arxiv.org/abs/2311.14495)]
   [[Code](https://github.com/radarFudan/StableSSM)] 
 
-* [2023_0016] **State-space models with layer-wise nonlinearity are universal approximators with exponential decaying memory**, Shida Wang, Beichen Xue
+* [2023_016] **State-space models with layer-wise nonlinearity are universal approximators with exponential decaying memory**, Shida Wang, Beichen Xue
   [[Paper](https://openreview.net/forum?id=i0OmcF14Kf)] 
 
-* [2023_0015] **Spiking Structured State Space Model for Monaural Speech Enhancement**. Du, Y., Liu, X., & Chua, Y. (2023).  arXiv preprint arXiv:2309.03641.
+* [2023_015] **Spiking Structured State Space Model for Monaural Speech Enhancement**. Du, Y., Liu, X., & Chua, Y. (2023).  arXiv preprint arXiv:2309.03641.
   [[Paper](https://arxiv.org/pdf/2309.03641.pdf)]
   
-* [2023_0014] **Mastering Diverse Domains through World Models**, Danijar Hafner,12 Jurgis Pasukonis,1 Jimmy Ba,2 Timothy Lillicrap
+* [2023_014] **Mastering Diverse Domains through World Models**, Danijar Hafner,12 Jurgis Pasukonis,1 Jimmy Ba,2 Timothy Lillicrap
   [[Paper](https://arxiv.org/pdf/2301.04104.pdf)]
   [[Code](https://danijar.com/dreamerv3)] 
 
-* [2023_0013] **Selective Structured State-Spaces for Long-Form Video Understanding**, Jue Wang Wentao Zhu Pichao Wang Xiang Yu Linda Liu Mohamed Omar Raffay Hamid
+* [2023_013] **Selective Structured State-Spaces for Long-Form Video Understanding**, Jue Wang Wentao Zhu Pichao Wang Xiang Yu Linda Liu Mohamed Omar Raffay Hamid
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Selective_Structured_State-Spaces_for_Long-Form_Video_Understanding_CVPR_2023_paper.pdf)]
 
-* [2023_0012] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu*1and Tri Dao
+* [2023_012] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu*1and Tri Dao
   [[Paper](https://arxiv.org/pdf/2312.00752.pdf)]
   [[Github](https://github.com/state-spaces/mamba)] 
 
-* [2023_0011] [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
+* [2023_011] [NeurIPS 2023] **Structured State Space Models for In-Context Reinforcement Learning**, Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, Feryal Behbahani 
   [[Paper](https://arxiv.org/abs/2303.03982)]
   [[Code](https://github.com/luchris429/popjaxrl)] 
 
-* [2023_0010] **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
+* [2023_010] **Diffusion Models Without Attention**, Jing Nathan Yan, Jiatao Gu, Alexander M. Rush
   [[Paper](https://arxiv.org/abs/2311.18257)]
 
 * [2023_009] **Hierarchically Gated Recurrent Neural Network for Sequence Modeling**, Zhen Qin, Songlin Yang, Yiran Zhong
