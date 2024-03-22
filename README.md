@@ -67,7 +67,7 @@ Paper list for State-Space-Model and its Applications
   Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li
   [[Paper](https://arxiv.org/abs/2403.09471)]
 
-* [2024_082]**LocalMamba**: Visual State Space Model with Windowed Selective Scan,
+* [2024_082]**LocalMamba: Visual State Space Model with Windowed Selective Scan**,
   Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu
   [[Paper](https://arxiv.org/abs/2403.09338)]
   [[Code](https://github.com/hunto/LocalMamba)] 
