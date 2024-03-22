@@ -16,6 +16,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* 
+
+* **H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**,
+  Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang
+  [[Paper](https://arxiv.org/abs/2403.13642)]
+  [[Code](https://github.com/wurenkai/H-vmunet)]
+
 * **VL-Mamba: Exploring State Space Models for Multimodal Learning**, Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu
   [[Paper](https://arxiv.org/abs/2403.13600)]
   [[Project](https://yanyuanqiao.github.io/vl-mamba/)] 
