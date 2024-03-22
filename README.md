@@ -19,235 +19,235 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
-* **H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**,
+* [2024_094]**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**,
   Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang
   [[Paper](https://arxiv.org/abs/2403.13642)]
   [[Code](https://github.com/wurenkai/H-vmunet)]
 
-* **VL-Mamba: Exploring State Space Models for Multimodal Learning**, Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu
+* [2024_093]**VL-Mamba: Exploring State Space Models for Multimodal Learning**, Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu
   [[Paper](https://arxiv.org/abs/2403.13600)]
   [[Project](https://yanyuanqiao.github.io/vl-mamba/)] 
   [[Code](https://github.com/ZhengYu518/VL-Mamba)] 
 
-* **ProMamba: Prompt-Mamba for polyp segmentation**, Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo
+* [2024_092]**ProMamba: Prompt-Mamba for polyp segmentation**, Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo
   [[Paper](https://arxiv.org/abs/2403.13660)]
 
-* **ZigMa: Zigzag Mamba Diffusion Model**, Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer
+* [2024_091]**ZigMa: Zigzag Mamba Diffusion Model**, Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer
   [[Paper](https://arxiv.org/abs/2403.13802)]
   [[Code](https://taohu.me/zigma/)] 
 
-* **On the low-shot transferability of [V]-Mamba**, Diganta Misra, Jay Gala, Antonio Orvieto
+* [2024_090]**On the low-shot transferability of [V]-Mamba**, Diganta Misra, Jay Gala, Antonio Orvieto
   [[Paper](https://arxiv.org/abs/2403.10696)] 
 
-* **Is Mamba Effective for Time Series Forecasting?** Zihan Wang, Fanheng Kong, Shi Feng, Ming Wang, Han Zhao, Daling Wang, Yifei Zhang
+* [2024_089]**Is Mamba Effective for Time Series Forecasting?** Zihan Wang, Fanheng Kong, Shi Feng, Ming Wang, Han Zhao, Daling Wang, Yifei Zhang
   [[Paper](https://arxiv.org/abs/2403.11144)]
   [[Code](https://github.com/wzhwzhwzh0921/S-D-Mamba)]
 
-* **VmambaIR: Visual State Space Model for Image Restoration**,
+* [2024_088]**VmambaIR: Visual State Space Model for Image Restoration**,
   Yuan Shi, Bin Xia, Xiaoyu Jin, Xing Wang, Tianyu Zhao, Xin Xia, Xuefeng Xiao, Wenming Yang
   [[Paper](https://arxiv.org/abs/2403.11423)] 
 
-* **Understanding Robustness of Visual State Space Models for Image Classification**,
+* [2024_087]**Understanding Robustness of Visual State Space Models for Image Classification**,
   Chengbin Du, Yanxi Li, Chang Xu
   [[Paper](https://arxiv.org/abs/2403.10935)] 
 
-* **Regularization-Based Efficient Continual Learning in Deep State-Space Models**,
+* [2024_086]**Regularization-Based Efficient Continual Learning in Deep State-Space Models**,
   Yuanhang Zhang, Zhidi Lin, Yiyong Sun, Feng Yin, Carsten Fritsche
   [[Paper](https://arxiv.org/abs/2403.10123)]
 
-* **TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**, Md Atik Ahamed, Qiang Cheng
+* [2024_085]**TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting**, Md Atik Ahamed, Qiang Cheng
   [[Paper](https://arxiv.org/abs/2403.09898)]
   [[Code](https://github.com/Atik-Ahamed/TimeMachine)] 
   
-* **EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**, Xiaohuan Pei, Tao Huang, Chang Xu
+* [2024_084]**EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba**, Xiaohuan Pei, Tao Huang, Chang Xu
   [[Paper](https://arxiv.org/abs/2403.09977)]
   [[Code](https://github.com/TerryPei/EfficientVMamba)]
 
-* **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**,
+* [2024_083]**MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models**,
   Zunnan Xu, Yukang Lin, Haonan Han, Sicheng Yang, Ronghui Li, Yachao Zhang, Xiu Li
   [[Paper](https://arxiv.org/abs/2403.09471)]
 
-* **LocalMamba**: Visual State Space Model with Windowed Selective Scan,
+* [2024_082]**LocalMamba**: Visual State Space Model with Windowed Selective Scan,
   Tao Huang, Xiaohuan Pei, Shan You, Fei Wang, Chen Qian, Chang Xu
   [[Paper](https://arxiv.org/abs/2403.09338)]
   [[Code](https://github.com/hunto/LocalMamba)] 
 
-* **VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation**, 
+* [2024_081]**VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation**, 
   Mingya Zhang, Yue Yu, Limei Gu, Tingsheng Lin, Xianping Tao
   [[Paper](https://arxiv.org/abs/2403.09157)]
   [[Code](https://github.com/nobodyplayer1/VM-UNetV2)] 
 
-* **Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**,
+* [2024_080]**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**,
   Guo Chen, Yifei Huang, Jilan Xu, Baoqi Pei, Zhe Chen, Zhiqi Li, Jiahao Wang, Kunchang Li, Tong Lu, Limin Wang
   [[Paper](https://arxiv.org/abs/2403.09626)] 
   [[Code](https://github.com/OpenGVLab/video-mamba-suite)] 
 
-* **Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, 
+* [2024_079]**Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling**, 
   Raunaq Bhirangi, Chenyu Wang, Venkatesh Pattabiraman, Carmel Majidi, Abhinav Gupta, Tess Hellebrekers, Lerrel Pinto
   [[Paper](https://arxiv.org/abs/2402.10211)] 
 
-* **MambaStock: Selective state space model for stock prediction**, Zhuangwei Shi
+* [2024_078]**MambaStock: Selective state space model for stock prediction**, Zhuangwei Shi
   [[Paper](https://arxiv.org/abs/2402.18959)]
   [[Code](https://github.com/zshicode/MambaStock)]
 
-* **Simple linear attention language models balance the recall-throughput tradeoff**,
+* [2024_077]**Simple linear attention language models balance the recall-throughput tradeoff**,
   Simran Arora, Sabri Eyuboglu, Michael Zhang, Aman Timalsina, Silas Alberti, Dylan Zinsley, James Zou, Atri Rudra, Christopher Ré
   [[Paper](https://arxiv.org/abs/2402.18668)] 
 
-* **LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**,
+* [2024_076]**LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation**,
   Weibin Liao, Yinghao Zhu, Xinyuan Wang, Chengwei Pan, Yasha Wang, Liantao Ma
   [[Paper](https://arxiv.org/abs/2403.05246)]
   [[Code](https://github.com/MrBlankness/LightM-UNet)]
 
-* **Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**,
+* [2024_075]**Motion-Guided Dual-Camera Tracker for Low-Cost Skill Evaluation of Gastric Endoscopy**,
   Yuelin Zhang, Wanquan Yan, Kim Yan, Chun Ping Lam, Yufu Qiu, Pengyu Zheng, Raymond Shing-Yan Tang, Shing Shin Cheng
   [[Paper](https://arxiv.org/abs/2403.05146)] 
 
-* **Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling**, Yair Schiff, Chia-Hsiang Kao, Aaron Gokaslan, Tri Dao, Albert Gu, Volodymyr Kuleshov
+* [2024_074]**Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling**, Yair Schiff, Chia-Hsiang Kao, Aaron Gokaslan, Tri Dao, Albert Gu, Volodymyr Kuleshov
   [[Paper](https://arxiv.org/abs/2403.03234)] 
 
-* **MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction**,
+* [2024_073]**MD-Dose: A Diffusion Model based on the Mamba for Radiotherapy Dose Prediction**,
   Linjie Fu, Xia Li, Xiuding Cai, Yingkai Wang, Xueyao Wang, Yali Shen, Yu Yao
   [[Paper](https://arxiv.org/abs/2403.08479)] 
 
-* **Activating Wider Areas in Image Super-Resolution**, Cheng Cheng, Hang Wang, Hongbin Sun
+* [2024_072]**Activating Wider Areas in Image Super-Resolution**, Cheng Cheng, Hang Wang, Hongbin Sun
   [[Paper](https://arxiv.org/abs/2403.08330)] 
 
-* **Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**,
+* [2024_071]**Multichannel Long-Term Streaming Neural Speech Enhancement for Static and Moving Speakers**,
   Changsheng Quan, Xiaofei Li
   [[Paper](https://arxiv.org/abs/2403.07675)] 
 
-* **A multi-cohort study on prediction of acute brain dysfunction states using selective state space models**,
+*  [2024_070]**A multi-cohort study on prediction of acute brain dysfunction states using selective state space models**,
   Brandon Silva, Miguel Contreras, Sabyasachi Bandyopadhyay, Yuanfang Ren, Ziyuan Guan, Jeremy Balch, Kia Khezeli, Tezcan Ozrazgat Baslanti, Ben Shickel, Azra Bihorac, Parisa Rashidi
   [[Paper](https://arxiv.org/abs/2403.07201)]
 
-* **The pitfalls of next-token prediction**,
+*  [2024_069]**The pitfalls of next-token prediction**,
   Gregor Bachmann, Vaishnavh Nagarajan
   [[Paper](https://arxiv.org/abs/2403.06963)]
   [[Code](https://github.com/gregorbachmann/Next-Token-Failures)] 
 
-* **Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**, Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu
+*  [2024_068]**Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention**, Jinhong Wang, Jintai Chen, Danny Chen, Jian Wu
   [[Paper](https://arxiv.org/abs/2403.07332)]
   [[Code](https://github.com/wjh892521292/LMa-UNet)]
 
-* **Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**,
+*  [2024_067]**Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM**,
   Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang
   [[Paper](https://arxiv.org/abs/2403.07487)]
   [[Project](https://steve-zeyu-zhang.github.io/MotionMamba/)]
   [[Code](https://github.com/steve-zeyu-zhang/MotionMamba/)] 
 
-* **ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes**,
+*  [2024_066]**ClinicalMamba: A Generative Clinical Language Model on Longitudinal Clinical Notes**,
   Zhichao Yang, Avijit Mitra, Sunjae Kwon, Hong Yu
   [[Paper](https://arxiv.org/abs/2403.05795)]
   [[Code](https://github.com/whaleloops/ClinicalMamba)] 
 
-* **MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**, 
+*  [2024_065]**MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology**, 
   Shu Yang, Yihui Wang, Hao Chen
   [[Paper](https://arxiv.org/abs/2403.06800)]
   [[Code](https://github.com/isyangshu/MambaMIL)] 
 
-* **Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**,
+*  [2024_064]**Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy**,
   Jiuming Liu, Ruiji Yu, Yian Wang, Yu Zheng, Tianchen Deng, Weicai Ye, Hesheng Wang
   [[Paper](https://arxiv.org/abs/2403.06467)]
   [[Code](https://github.com/IRMVLab/Point-Mamba)]
   
-* **VideoMamba: State Space Model for Efficient Video Understanding**, Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
+*  [2024_063]**VideoMamba: State Space Model for Efficient Video Understanding**, Kunchang Li, Xinhao Li, Yi Wang, Yinan He, Yali Wang, Limin Wang, Yu Qiao
   [[Paper](https://arxiv.org/abs/2403.06977)]
   [[Code](https://github.com/OpenGVLab/VideoMamba)]
   
-* **MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**, Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang
+*  [2024_062]**MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models**, Zijie Fang, Yifeng Wang, Zhi Wang, Jian Zhang, Xiangyang Ji, Yongbing Zhang
   [[Paper](https://arxiv.org/abs/2403.05160)] 
 
-* **Video Diffusion State Space Models**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Jusnshi Huang,
+*  [2024_061]**Video Diffusion State Space Models**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Jusnshi Huang,
   [[Paper]()]
   [[Code](https://github.com/feizc/Vespa)]
 
-* **Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**, Chengkai Liu, Jianghao Lin, Jianling Wang, Hanzhou Liu, James Caverlee
+*  [2024_060]**Mamba4Rec: Towards Efficient Sequential Recommendation with Selective State Space Models**, Chengkai Liu, Jianghao Lin, Jianling Wang, Hanzhou Liu, James Caverlee
   [[Paper](https://arxiv.org/abs/2403.03900)] 
 
-* **MedMamba: Vision Mamba for Medical Image Classification**, Yubiao Yue, Zhenzhang Li
+*  [2024_059]**MedMamba: Vision Mamba for Medical Image Classification**, Yubiao Yue, Zhenzhang Li
   [[Paper](https://arxiv.org/abs/2403.03849)]
   [[Code](https://github.com/YubiaoYue/MedMamba)] 
 
-* **Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
+*  [2024_058]**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**, Soham De, Samuel L. Smith, Anushan Fernando, Aleksandar Botev, George Cristian-Muraru, Albert Gu, Ruba Haroun, Leonard Berrada, Yutian Chen, Srivatsan Srinivasan, Guillaume Desjardins, Arnaud Doucet, David Budden, Yee Whye Teh, Razvan Pascanu, Nando De Freitas, Caglar Gulcehre
   [[Paper](https://arxiv.org/abs/2402.19427)]
 
-* **Gated Linear Attention Transformers with Hardware-Efficient Training**, Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim
+*  [2024_057]**Gated Linear Attention Transformers with Hardware-Efficient Training**, Songlin Yang, Bailin Wang, Yikang Shen, Rameswar Panda, Yoon Kim
   [[Paper](https://arxiv.org/abs/2312.06635)]
   [[Code](https://github.com/sustcsonglin/flash-linear-attention)]
 
-* **DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
+*  [2024_056]**DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models**, 
   [[Paper](https://arxiv.org/pdf/2403.00818)]
   [[Code](https://github.com/WailordHe/DenseSSM)] 
 
-* **The Hidden Attention of Mamba Models**, 
+*  [2024_055]**The Hidden Attention of Mamba Models**, 
   [[Paper](https://arxiv.org/pdf/2403.01590.pdf)]
   [[Code](https://github.com/AmeenAli/HiddenMambaAttn)] 
 
-* **MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**, Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu
+*  [2024_054]**MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection**, Tianxiang Chen, Zhentao Tan, Tao Gong, Qi Chu, Yue Wu, Bin Liu, Jieping Ye, Nenghai Yu
   [[Paper](https://arxiv.org/abs/2403.02148)]
   [[Code](https://github.com/txchen-USTC/MiM-ISTD)] 
 
 
-* **Point Could Mamba: Point Cloud Learning via State Space Model**, Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
+*  [2024_053]**Point Could Mamba: Point Cloud Learning via State Space Model**, Tao Zhang, Xiangtai Li, Haobo Yuan, Shunping Ji, Shuicheng Yan
   [[Paper](https://arxiv.org/abs/2403.00762)]
   [[Code](https://github.com/zhang-tao-whu/PCM)] 
 
 
-* **Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**, Chi-Sheng Chen, Guan-Ying Chen, Dong Zhou, Di Jiang, Dai-Shi Chen
+*  [2024_052]**Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning**, Chi-Sheng Chen, Guan-Ying Chen, Dong Zhou, Di Jiang, Dai-Shi Chen
   [[Paper](https://arxiv.org/abs/2402.15761)]
   [[Code](https://github.com/ChiShengChen/ResVMamba)] 
 
 
-* **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
+*  [2024_051]**MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation**, Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
   [[Paper](https://arxiv.org/abs/2402.18451)]
   [[Code](https://github.com/ayanglab/MambaMIR)] 
 
-* **MambaIR: A Simple Baseline for Image Restoration with State-Space Model**, Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia
+* [2024_050]**MambaIR: A Simple Baseline for Image Restoration with State-Space Model**, Hang Guo, Jinmin Li, Tao Dai, Zhihao Ouyang, Xudong Ren, Shu-Tao Xia
   [[Paper](https://arxiv.org/abs/2402.15648)]
   [[Code](https://github.com/csguoh/MambaIR)]
 
-* **State Space Models for Event Cameras**, Nikola Zubić, Mathias Gehrig, Davide Scaramuzza 
+* [2024_049]**State Space Models for Event Cameras**, Nikola Zubić, Mathias Gehrig, Davide Scaramuzza 
   [[Paper](https://arxiv.org/abs/2402.15584)] 
 
-* [ICLR 2024] **FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**, Daniel Y Fu, Hermann Kumbong, Eric Nguyen, Christopher Re
+* [2024_048][ICLR 2024] **FlashFFTConv: Efficient Convolutions for Long Sequences with Tensor Cores**, Daniel Y Fu, Hermann Kumbong, Eric Nguyen, Christopher Re
   [[Paper](https://openreview.net/forum?id=gPKTTAfYBp)] 
 
-* **Variational quantization for state space models**, Etienne David, Jean Bellot, Sylvain Le Corff
+* [2024_047]**Variational quantization for state space models**, Etienne David, Jean Bellot, Sylvain Le Corff
   [[Paper](https://openreview.net/forum?id=EAkjVCtRO2)] 
 
-* **Efficient Long Sequence Modeling via State Space Augmented Transformer**, Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis X Charles, Eren Manavoglu, Tuo Zhao, Jianfeng Gao
+* [2024_046]**Efficient Long Sequence Modeling via State Space Augmented Transformer**, Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis X Charles, Eren Manavoglu, Tuo Zhao, Jianfeng Gao
   [[Paper](https://openreview.net/forum?id=xuxYaBMd9F)] 
 
-* [ICLR 2024] **Robustifying State-space Models for Long Sequences via Approximate Diagonalization**, Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson
+* [2024_045][ICLR 2024] **Robustifying State-space Models for Long Sequences via Approximate Diagonalization**, Annan Yu, Arnur Nigmetov, Dmitriy Morozov, Michael W. Mahoney, N. Benjamin Erichson
   [[Paper](https://openreview.net/forum?id=DjeQ39QoLQ)] 
 
-* **From generalization analysis to optimization designs for state space models**, Fusheng Liu, Qianxiao Li
+* [2024_044]**From generalization analysis to optimization designs for state space models**, Fusheng Liu, Qianxiao Li
   [[Paper](https://openreview.net/forum?id=EGjvMcKrrl)]
 
-* **A 2-Dimensional State Space Layer for Spatial Inductive Bias**, Ethan Baron, Itamar Zimerman, Lior Wolf
+* [2024_043]**A 2-Dimensional State Space Layer for Spatial Inductive Bias**, Ethan Baron, Itamar Zimerman, Lior Wolf
   [[Paper](https://openreview.net/forum?id=BGkqypmGvm)] 
 
-* [ICLR 2024] **Hieros: Hierarchical Imagination on Structured State Space Sequence World Models**, Paul Mattes, Rainer Schlosser, Ralf Herbrich
+* [2024_042][ICLR 2024] **Hieros: Hierarchical Imagination on Structured State Space Sequence World Models**, Paul Mattes, Rainer Schlosser, Ralf Herbrich
   [[Paper](https://openreview.net/forum?id=5j6wtOO6Fk)] 
 
-* **S4++: Elevating Long Sequence Modeling with State Memory Reply**, [[Paper](https://openreview.net/forum?id=bdnw4qjfH9)] 
+* [2024_041]**S4++: Elevating Long Sequence Modeling with State Memory Reply**, [[Paper](https://openreview.net/forum?id=bdnw4qjfH9)] 
 
-* [Rejected by ICLR 2024] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu, Tri Dao
+* [2024_040][Rejected by ICLR 2024] **Mamba: Linear-Time Sequence Modeling with Selective State Spaces**, Albert Gu, Tri Dao
   [[Paper](https://openreview.net/forum?id=AL1fq05o7H)]
   [[Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html)]
   [[annotated-mamba](https://github.com/srush/annotated-mamba)]
 
-* [ICLR 2024] **Gated recurrent neural networks discover attention**, Nicolas Zucchet, Seijin Kobayashi, Yassir Akram, Johannes Von Oswald, Maxime Larcher, Angelika Steger, Joao Sacramento
+* [2024_039][ICLR 2024] **Gated recurrent neural networks discover attention**, Nicolas Zucchet, Seijin Kobayashi, Yassir Akram, Johannes Von Oswald, Maxime Larcher, Angelika Steger, Joao Sacramento
   [[Paper](https://openreview.net/forum?id=rfSfDSFrRL)] 
 
-* [ICLR 2024] **GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling**, Tobias Katsch
+* [2024_038][ICLR 2024] **GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling**, Tobias Katsch
   [[Paper](https://openreview.net/forum?id=02Ug9N8DCI)] 
 
-* [ICLR 2024] **Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**, Ido Amos, Jonathan Berant, Ankit Gupta
+* [2024_037][ICLR 2024] **Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**, Ido Amos, Jonathan Berant, Ankit Gupta
   [[Paper](https://openreview.net/forum?id=PdaPky8MUn)] 
 
-* [ICLR 2024] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
+* [2024_036] [ICLR 2024] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
   [[Paper](https://openreview.net/forum?id=1vDArHJ68h)]  
 
 * [2024_035]**Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
