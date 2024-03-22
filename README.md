@@ -17,7 +17,8 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* 
+* [2024_095] **Repeat After Me: Transformers are Better than State Space Models at Copying**, Samy Jelassi, David Brandfonbrener, Sham M. Kakade, Eran Malach
+  [[Paper](https://arxiv.org/abs/2402.01032)] 
 
 * [2024_094]**H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation**,
   Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang
