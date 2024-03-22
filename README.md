@@ -459,25 +459,25 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2022 
 
-* [2022_008] [ECCV-2022] **Long Movie Clip Classification with State-Space Video Models**, Md Mohaiminul Islam, Gedas Bertasius
+* [2022_009] [ECCV-2022] **Long Movie Clip Classification with State-Space Video Models**, Md Mohaiminul Islam, Gedas Bertasius
   [[Paper](https://arxiv.org/abs/2204.01692)]
   [[Code](https://github.com/md-mohaiminul/ViS4mer)] 
 
-* [2022_007] [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
+* [2022_008] [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/13388efc819c09564c66ab2dc8463809-Paper-Conference.pdf)]
   [[Code](https://github.com/state-spaces/s4/tree/main)] 
 
-* [2022_006] [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
+* [2022_007] [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
   [[Paper](https://arxiv.org/abs/2212.10544)]
   [[Code](https://github.com/jxiw/BiGS)]
 
-* [2022_005] **Long Range Language Modeling via Gated State Spaces**, Harsh Mehta1∗ Ankit Gupta2 Ashok Cutkosky3 Behnam Neyshabur1
+* [2022_006] **Long Range Language Modeling via Gated State Spaces**, Harsh Mehta1∗ Ankit Gupta2 Ashok Cutkosky3 Behnam Neyshabur1
   [[Paper](https://arxiv.org/pdf/2206.13947.pdf)]
 
-* [2022_004] **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
+* [2022_005] **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
   [[Paper](https://arxiv.org/pdf/2202.09729.pdf)]
 
-* [2022_003] **Diagonal State Spaces are as Effective as Structured State Spaces**, Ankit Gupta˚Albert Gu Jonathan Berant
+* [2022_004] **Diagonal State Spaces are as Effective as Structured State Spaces**, Ankit Gupta˚Albert Gu Jonathan Berant
   [[Paper](https://arxiv.org/pdf/2203.14343.pdf)]
 
 * [2022_003] **How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections**, Albert Gu∗†, Isys Johnson∗‡, Aman Timalsina‡, Atri Rudra‡, and Christopher R´e†
