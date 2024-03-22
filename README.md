@@ -16,6 +16,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **VL-Mamba: Exploring State Space Models for Multimodal Learning**, Yanyuan Qiao, Zheng Yu, Longteng Guo, Sihan Chen, Zijia Zhao, Mingzhen Sun, Qi Wu, Jing Liu
+  [[Paper](https://arxiv.org/abs/2403.13600)]
+  [[Project](https://yanyuanqiao.github.io/vl-mamba/)] 
+  [[Code](https://github.com/ZhengYu518/VL-Mamba)] 
 
 * **ProMamba: Prompt-Mamba for polyp segmentation**, Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo
   [[Paper](https://arxiv.org/abs/2403.13660)]
