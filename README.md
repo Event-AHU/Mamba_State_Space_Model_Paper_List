@@ -438,13 +438,13 @@ Paper list for State-Space-Model and its Applications
 * **Zoology: Measuring and Improving Recall in Efficient Language Models**, Simran Arora, Sabri Eyuboglu, Aman Timalsina, Isys Johnson, Michael Poli, James Zou, Atri Rudra, Christopher Ré 
   [[Paper](https://arxiv.org/abs/2312.04927)]
 
-* [ICML 2023] **Resurrecting Recurrent Neural Networks for Long Sequences**, Antonio Orvieto · Samuel Smith · Albert Gu · Anushan Fernando · Caglar Gulcehre · Razvan Pascanu · Soham De
+* [2023_003] [ICML 2023] **Resurrecting Recurrent Neural Networks for Long Sequences**, Antonio Orvieto · Samuel Smith · Albert Gu · Anushan Fernando · Caglar Gulcehre · Razvan Pascanu · Soham De
   [[Paper](https://icml.cc/virtual/2023/oral/25438)]
 
-* **Hyena Hierarchy: Towards Larger Convolutional Language Models**, Michael Poli, Stefano Massaroli, Eric Nguyen, Daniel Y. Fu, Tri Dao, Stephen Baccus, Yoshua Bengio, Stefano Ermon, Christopher Ré
+* [2023_002] **Hyena Hierarchy: Towards Larger Convolutional Language Models**, Michael Poli, Stefano Massaroli, Eric Nguyen, Daniel Y. Fu, Tri Dao, Stephen Baccus, Yoshua Bengio, Stefano Ermon, Christopher Ré
   [[Paper](https://arxiv.org/abs/2302.10866)]
 
-* [ICLR 2023] **Simplified State Space Layers for Sequence Modeling**, Jimmy T.H. Smith, Andrew Warrington, Scott Linderman
+* [2023_001] [ICLR 2023] **Simplified State Space Layers for Sequence Modeling**, Jimmy T.H. Smith, Andrew Warrington, Scott Linderman
   [[Paper](https://openreview.net/forum?id=Ai8Hw3AXqks)]
    
  
@@ -459,35 +459,34 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2022 
 
-
-* [ECCV-2022] **Long Movie Clip Classification with State-Space Video Models**, Md Mohaiminul Islam, Gedas Bertasius
+* [2022_008] [ECCV-2022] **Long Movie Clip Classification with State-Space Video Models**, Md Mohaiminul Islam, Gedas Bertasius
   [[Paper](https://arxiv.org/abs/2204.01692)]
   [[Code](https://github.com/md-mohaiminul/ViS4mer)] 
 
-* [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
+* [2022_007] [NIPS-2022] **"S4nd: Modeling images and videos as multidimensional signals with state spaces."** Nguyen, Eric, et al.  Advances in neural information processing systems 35 (2022): 2846-2861.
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/13388efc819c09564c66ab2dc8463809-Paper-Conference.pdf)]
   [[Code](https://github.com/state-spaces/s4/tree/main)] 
 
-* [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
+* [2022_006] [Pre-training] Wang, J., Yan, J. N., Gu, A., & Rush, A. M. (2022). **Pretraining without attention**. arXiv preprint arXiv:2212.10544.
   [[Paper](https://arxiv.org/abs/2212.10544)]
   [[Code](https://github.com/jxiw/BiGS)]
 
-* **Long Range Language Modeling via Gated State Spaces**, Harsh Mehta1∗ Ankit Gupta2 Ashok Cutkosky3 Behnam Neyshabur1
+* [2022_005] **Long Range Language Modeling via Gated State Spaces**, Harsh Mehta1∗ Ankit Gupta2 Ashok Cutkosky3 Behnam Neyshabur1
   [[Paper](https://arxiv.org/pdf/2206.13947.pdf)]
 
-* **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
+* [2022_004] **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
   [[Paper](https://arxiv.org/pdf/2202.09729.pdf)]
 
-* **Diagonal State Spaces are as Effective as Structured State Spaces**, Ankit Gupta˚Albert Gu Jonathan Berant
+* [2022_003] **Diagonal State Spaces are as Effective as Structured State Spaces**, Ankit Gupta˚Albert Gu Jonathan Berant
   [[Paper](https://arxiv.org/pdf/2203.14343.pdf)]
 
-* **How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections**, Albert Gu∗†, Isys Johnson∗‡, Aman Timalsina‡, Atri Rudra‡, and Christopher R´e†
+* [2022_003] **How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections**, Albert Gu∗†, Isys Johnson∗‡, Aman Timalsina‡, Atri Rudra‡, and Christopher R´e†
   [[Paper](https://arxiv.org/pdf/2206.12037.pdf)]
 
-* **On the Parameterization and Initialization of Diagonal State Space Models**, Albert Gu†, Ankit Gupta‡, Karan Goel†, and Christopher R´e†
+* [2022_002] **On the Parameterization and Initialization of Diagonal State Space Models**, Albert Gu†, Ankit Gupta‡, Karan Goel†, and Christopher R´e†
   [[Paper](https://arxiv.org/pdf/2206.11893.pdf)]
 
-* **Efficiently Modeling Long Sequences with Structured State Spaces**, Albert Gu, Karan Goel, Christopher Ré
+* [2022_001] **Efficiently Modeling Long Sequences with Structured State Spaces**, Albert Gu, Karan Goel, Christopher Ré
   [[Paper](https://arxiv.org/abs/2111.00396)]
   [[The Annotated S4](https://srush.github.io/annotated-s4/)] 
 
@@ -495,15 +494,15 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Year 2021 and Before 
-* **Efficiently Modeling Long Sequences with Structured State Spaces**, Albert Gu, Karan Goel, and Christopher R´e
+* [2021_003] **Efficiently Modeling Long Sequences with Structured State Spaces**, Albert Gu, Karan Goel, and Christopher R´e
   [[Paper](https://arxiv.org/pdf/2111.00396.pdf)]
   [[Code](https://github.com/HazyResearch/state-spaces)]
 
-* **HiPPO: Recurrent Memory with Optimal Polynomial Projections**, Albert Gu∗†, Tri Dao∗†, Stefano Ermon†, Atri Rudra‡, and Christopher Ré†
+* [2021_002] **HiPPO: Recurrent Memory with Optimal Polynomial Projections**, Albert Gu∗†, Tri Dao∗†, Stefano Ermon†, Atri Rudra‡, and Christopher Ré†
   [[Paper](https://arxiv.org/pdf/2008.07669.pdf)]
   [[Code](https://github.com/HazyResearch/state-spaces)]
 
-* **Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers**, Albert Gu†, Isys Johnson†, Karan Goel†, Khaled Saab†, Tri Dao†, Atri Rudra‡, and Christopher Ré†
+* [2021_001] **Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers**, Albert Gu†, Isys Johnson†, Karan Goel†, Khaled Saab†, Tri Dao†, Atri Rudra‡, and Christopher Ré†
   [[Paper](https://arxiv.org/pdf/2110.13985.pdf)]
 
 
