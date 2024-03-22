@@ -520,9 +520,6 @@ Paper list for State-Space-Model and its Applications
   
 
 
-
-## Star History
-
 ## Star History
 
 <a href="https://star-history.com/#Event-AHU/Mamba_State_Space_Model_Paper_List&Date">
