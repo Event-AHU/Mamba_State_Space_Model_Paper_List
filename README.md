@@ -363,9 +363,6 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/pdf/2401.13560.pdf)]
   [[Code](https://github.com/ge-xing/SegMamba)] 
 
-* [2024_004] [ICLR-2024] **POINT2SSM: LEARNING MORPHOLOGICAL VARIATIONS OF ANATOMIES FROM POINT CLOUDS**,
-  [[Paper](https://openreview.net/attachment?id=DqziS8DG4M&name=pdf)] 
-
 * [2024_003] **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model**, Lianghui Zhu1∗, Bencheng Liao1∗, Qian Zhang2, Xinlong Wang3, Wenyu Liu1, Xinggang Wang
   [[Paper](https://arxiv.org/pdf/2401.09417.pdf)]
   [[Code](https://github.com/hustvl/Vim)]
