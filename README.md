@@ -279,9 +279,8 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2312.01538)]
   [[Code](https://github.com/skeletondyh/GRED)] 
 
-* [2024_027]**Scalable Diffusion Models with State Space Backbone**, Zhengcong Fei, Mingyuan Fan, Changqian Yu, Junshi Huang
-  [[Paper](https://arxiv.org/abs/2402.05608)]
-  [[Code](https://github.com/feizc/DiS)] 
+* [2024_027]**SSM Meets Video Diffusion Models: Efficient Video Generation with Structured State Spaces**, Yuta Oshima, Shohei Taniguchi, Masahiro Suzuki, Yutaka Matsuo
+  [[Paper](https://arxiv.org/abs/2403.07711)]
 
 * [2024_026]**Pan-Mamba: Effective pan-sharpening with State Space Model**, Xuanhua He, Ke Cao, Keyu Yan, Rui Li, Chengjun Xie, Jie Zhang, Man Zhou 
   [[Paper](https://arxiv.org/abs/2402.12192)]
