@@ -471,7 +471,7 @@ Paper list for State-Space-Model and its Applications
 * [2022_006] **Long Range Language Modeling via Gated State Spaces**, Harsh Mehta1∗ Ankit Gupta2 Ashok Cutkosky3 Behnam Neyshabur1
   [[Paper](https://arxiv.org/pdf/2206.13947.pdf)]
 
-* [2022_005][ICML2022] **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
+* [2022_005] [ICML2022] **It’s Raw! Audio Generation with State-Space Models**, Karan Goel, Albert Gu, Chris Donahue, and Christopher R´e
   [[Paper](https://arxiv.org/pdf/2202.09729.pdf)]
 
 * [2022_004] **Diagonal State Spaces are as Effective as Structured State Spaces**, Ankit Gupta˚Albert Gu Jonathan Berant
