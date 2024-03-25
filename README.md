@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [2024_096] **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**,
+    Badri N. Patro, Vijay S. Agneeswaran
+  [[Paper](https://arxiv.org/abs/2403.15360)]
+  [[Code](https://github.com/badripatro/Simba)]
+
 * [2024_095] **Repeat After Me: Transformers are Better than State Space Models at Copying**, Samy Jelassi, David Brandfonbrener, Sham M. Kakade, Eran Malach
   [[Paper](https://arxiv.org/abs/2402.01032)] 
 
