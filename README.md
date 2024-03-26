@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting**, 
+  Yujin Tang, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
+  [[Paper](https://arxiv.org/abs/2403.16536)]
+  [[Code](https://github.com/yyyujintang/VMRNN-PyTorch)]
+
 * [2024_096] **SiMBA: Simplified Mamba-Based Architecture for Vision and Multivariate Time series**,
     Badri N. Patro, Vijay S. Agneeswaran
   [[Paper](https://arxiv.org/abs/2403.15360)]
