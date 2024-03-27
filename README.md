@@ -17,6 +17,19 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**, 
+  Hao Tang, Lianglun Cheng, Guoheng Huang, Zhengguang Tan, Junhao Lu, Kaihong Wu
+  [[Paper](https://arxiv.org/abs/2403.17701)]
+
+* **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**,
+  Chenhongyi Yang, Zehui Chen, Miguel Espinosa, Linus Ericsson, Zhenyu Wang, Jiaming Liu, Elliot J. Crowley
+  [[Paper](https://arxiv.org/abs/2403.17695)]
+  [[Code](https://github.com/ChenhongyiYang/PlainMamba)] 
+
+* **Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**,
+  Kazi Shahriar Sanjid, Md. Tanzim Hossain, Md. Shakib Shahariar Junayed, Dr. Mohammad Monir Uddin
+  [[Paper](https://arxiv.org/abs/2403.17432)]
+
 * [2024_097] **VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting**, 
   Yujin Tang, Peijie Dong, Zhenheng Tang, Xiaowen Chu, Junwei Liang
   [[Paper](https://arxiv.org/abs/2403.16536)]
