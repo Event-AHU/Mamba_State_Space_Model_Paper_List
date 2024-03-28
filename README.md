@@ -16,28 +16,25 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-
-* 
-
-* **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, 
+* [2024_102] **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, 
   Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang
   [[Paper](https://arxiv.org/abs/2403.18795)]
   
-* **RSMamba: Remote Sensing Image Classification with State Space Model**, 
+* [2024_101] **RSMamba: Remote Sensing Image Classification with State Space Model**, 
   [[Project](https://kychen.me/RSMamba)]
   [[Paper](https://github.com/KyanChen/RSMamba/blob/release/resources/RSMamba.pdf)]
   [[Code](https://github.com/KyanChen/RSMamba)]
 
-* **Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**, 
+* [2024_100] **Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**, 
   Hao Tang, Lianglun Cheng, Guoheng Huang, Zhengguang Tan, Junhao Lu, Kaihong Wu
   [[Paper](https://arxiv.org/abs/2403.17701)]
 
-* **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**,
+* [2024_099] **PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition**,
   Chenhongyi Yang, Zehui Chen, Miguel Espinosa, Linus Ericsson, Zhenyu Wang, Jiaming Liu, Elliot J. Crowley
   [[Paper](https://arxiv.org/abs/2403.17695)]
   [[Code](https://github.com/ChenhongyiYang/PlainMamba)] 
 
-* **Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**,
+* [2024_098] **Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion**,
   Kazi Shahriar Sanjid, Md. Tanzim Hossain, Md. Shakib Shahariar Junayed, Dr. Mohammad Monir Uddin
   [[Paper](https://arxiv.org/abs/2403.17432)]
 
