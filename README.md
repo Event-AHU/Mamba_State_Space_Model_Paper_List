@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **RSMamba: Remote Sensing Image Classification with State Space Model**, 
+  [[Project](https://kychen.me/RSMamba)]
+  [[Paper](https://github.com/KyanChen/RSMamba/blob/release/resources/RSMamba.pdf)]
+  [[Code](https://github.com/KyanChen/RSMamba)]
+
 * **Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation**, 
   Hao Tang, Lianglun Cheng, Guoheng Huang, Zhengguang Tan, Junhao Lu, Kaihong Wu
   [[Paper](https://arxiv.org/abs/2403.17701)]
