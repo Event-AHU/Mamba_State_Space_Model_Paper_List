@@ -16,6 +16,12 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* 
+
+* **Jamba: AI21's Hybrid SSM-Transformer Model**,
+  [[Paper](https://www.ai21.com/blog/announcing-jamba)]
+  [[Huggingface](https://huggingface.co/ai21labs/Jamba-v0.1)]
+
 * [2024_102] **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, 
   Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang
   [[Paper](https://arxiv.org/abs/2403.18795)]
