@@ -17,6 +17,35 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**,
+  Xilin Jiang, Cong Han, Nima Mesgarani
+  [[Paper](https://arxiv.org/abs/2403.18257)] 
+
+* **STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**,
+  Lincan Li, Hanchen Wang, Wenjie Zhang, Adelle Coster
+  [[Paper](https://arxiv.org/abs/2403.12418)] 
+
+* **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**,
+  Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang
+  [[Paper](https://arxiv.org/abs/2403.14520)] 
+
+* **Music to Dance as Language Translation using Sequence Models**,
+  André Correia, Luís A. Alexandre
+  [[Paper](https://arxiv.org/abs/2403.15569)]
+  [[Code](https://github.com/meowatthemoon/MDLT)] 
+
+* **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification**,
+  Guangqian Yang, Kangrui Du, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
+  [[Paper](https://arxiv.org/abs/2403.16520)] 
+
+* **Proprioception Is All You Need: Terrain Classification for Boreal Forests**,
+  Damien LaRocque, William Guimont-Martin, David-Alexandre Duclos, Philippe Giguère, François Pomerleau
+  [[Paper](https://github.com/norlab-ulaval/BorealTC)] 
+
+* **ReMamber: Referring Image Segmentation with Mamba Twister**,
+  Yuhuan Yang, Chaofan Ma, Jiangchao Yao, Zhun Zhong, Ya Zhang, Yanfeng Wang
+  [[Paper](https://arxiv.org/abs/2403.17839)] 
+
 * **Mechanistic Design and Scaling of Hybrid Architectures**,
   Michael Poli, Armin W Thomas, Eric Nguyen, Pragaash Ponnusamy, Björn Deiseroth, Kristian Kersting, Taiji Suzuki, Brian Hie, Stefano Ermon, Christopher Ré, Ce Zhang, Stefano Massaroli
   [[Paper](https://arxiv.org/abs/2403.17844)] 
