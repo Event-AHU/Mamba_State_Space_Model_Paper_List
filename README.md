@@ -17,6 +17,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Mechanistic Design and Scaling of Hybrid Architectures**,
+  Michael Poli, Armin W Thomas, Eric Nguyen, Pragaash Ponnusamy, Björn Deiseroth, Kristian Kersting, Taiji Suzuki, Brian Hie, Stefano Ermon, Christopher Ré, Ce Zhang, Stefano Massaroli
+  [[Paper](https://arxiv.org/abs/2403.17844)] 
+
 * **Model order reduction of deep structured state-space models: A system-theoretic approach**,
   Marco Forgione, Manas Mejari, Dario Piga 
 
