@@ -541,7 +541,31 @@ Paper list for State-Space-Model and its Applications
 
 
 
+## Related Models
 
+
+* 
+
+* **TLS-RWKV: Real-Time Online Action Detection with Temporal Label Smoothing**. Zhu, Z., Shao, W. & Jiao, D. Neural Process Lett 56, 57 (2024).
+  [[Paper](https://doi.org/10.1007/s11063-024-11540-0)] 
+
+* **RRWKV: Capturing Long-range Dependencies in RWKV**,
+  Leilei Wang
+  [[Paper](https://arxiv.org/abs/2306.05176)] 
+
+* **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**,
+  Haowen Hou, F. Richard Yu
+  [[Paper](https://arxiv.org/abs/2401.09093)]
+  [[Code](https://github.com/howard-hou/RWKV-TS)] 
+
+* **Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures**, 
+  Yuchen Duan, Weiyun Wang, Zhe Chen, Xizhou Zhu, Lewei Lu, Tong Lu, Yu Qiao, Hongsheng Li, Jifeng Dai, Wenhai Wang
+  [[Paper](https://arxiv.org/abs/2403.02308)]
+  [[Code](https://github.com/OpenGVLab/Vision-RWKV)] 
+
+* **RWKV: Reinventing RNNs for the Transformer Era**, 
+  Bo Peng, Eric Alcaide, Quentin Anthony, Alon Albalak, Samuel Arcadinho, Stella Biderman, Huanqi Cao, Xin Cheng, Michael Chung, Matteo Grella, Kranthi Kiran GV, Xuzheng He, Haowen Hou, Jiaju Lin, Przemyslaw Kazienko, Jan Kocon, Jiaming Kong, Bartlomiej Koptyra, Hayden Lau, Krishna Sri Ipsit Mantri, Ferdinand Mom, Atsushi Saito, Guangyu Song, Xiangru Tang, Bolun Wang, Johan S. Wind, Stanislaw Wozniak, Ruichong Zhang, Zhenyuan Zhang, Qihang Zhao, Peng Zhou, Qinghua Zhou, Jian Zhu, Rui-Jie Zhu
+  [[Paper](https://arxiv.org/abs/2305.13048)] 
 
 
 ## Other Useful URLs
