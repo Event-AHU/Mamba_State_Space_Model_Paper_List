@@ -16,7 +16,26 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* 
+
+* **Model order reduction of deep structured state-space models: A system-theoretic approach**,
+  Marco Forgione, Manas Mejari, Dario Piga 
+
+* **Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**,
+  Hanzhi Yin, Gang Cheng, Christian J. Steinmetz, Ruibin Yuan, Richard M. Stern, Roger B. Dannenberg
+  [[Paper](https://arxiv.org/abs/2403.16331)] 
+
+* **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**,
+  Jiyuan Yang, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren
+  [[Paper](https://arxiv.org/abs/2403.16371)]
+  [[Code](https://github.com/nancheng58/RecMamba)] 
+
+* **State Space Models as Foundation Models: A Control Theoretic Overview**,
+  Carmen Amo Alonso, Jerome Sieber, Melanie N. Zeilinger
+  [[Paper](https://arxiv.org/abs/2403.16899)] 
+
+* **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**,
+  Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi
+  [[Paper](https://arxiv.org/abs/2403.17902)] 
 
 * **Jamba: AI21's Hybrid SSM-Transformer Model**,
   [[Paper](https://www.ai21.com/blog/announcing-jamba)]
