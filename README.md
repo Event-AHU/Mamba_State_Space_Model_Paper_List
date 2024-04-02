@@ -17,6 +17,28 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**,
+  Wenrui Li, Xiaopeng Hong, Xiaopeng Fan
+  [[Paper](https://arxiv.org/abs/2404.01174)] 
+
+* **HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification**,
+  Judy X Yang, Jun Zhou, Jing Wang, Hui Tian, Alan Wee Chung Liew
+  [[Paper](https://arxiv.org/abs/2404.00272)] 
+  [[Code](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)] 
+
+* **HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**,
+  Shuangjian Li, Tao Zhu, Furong Duan, Liming Chen, Huansheng Ning, Yaping Wan
+  [[Paper](https://arxiv.org/abs/2403.20183)]
+
+* **UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation**,
+  Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang
+  [[Paper](https://arxiv.org/abs/2403.20035)]
+  [[Code](https://github.com/wurenkai/UltraLight-VM-UNet)]
+
+* **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**,
+  Ali Behrouz, Michele Santacatterina, Ramin Zabih
+  [[Paper](https://arxiv.org/abs/2403.19888)] 
+
 * **Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**,
   Xilin Jiang, Cong Han, Nima Mesgarani
   [[Paper](https://arxiv.org/abs/2403.18257)] 
