@@ -16,7 +16,23 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* **SPMamba: State-space model is all you need in speech separation**, 
+  Kai Li, Guo Chen
+  [[Paper](https://arxiv.org/abs/2404.02063)] 
 
+* **On the reduction of Linear Parameter-Varying State-Space models**,
+  E. Javier Olucha, Bogoljub Terzin, Amritam Das, Roland Tóth
+  [[Paper](https://arxiv.org/abs/2404.01871)] 
+
+* **Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**,
+  Qinfeng Zhu, Yuanzhi Cai, Yuan Fang, Yihan Yang, Cheng Chen, Lei Fan, Anh Nguyen
+  [[Paper](https://arxiv.org/abs/2404.01705)]
+  [[Code](https://github.com/zhuqinfeng1999/Samba)] 
+
+* **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation**,
+  Jing Hao, Lei He, Kuo Feng Hung
+  [[Paper](https://arxiv.org/abs/2404.01065)]
+  [[Code](https://github.com/isbrycee/T-Mamba)] 
 
 * **Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**,
   Toshihiro Ota
