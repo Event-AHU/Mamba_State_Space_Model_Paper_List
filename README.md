@@ -17,6 +17,17 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+
+* **Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**,
+  Toshihiro Ota
+  [[Paper](https://arxiv.org/abs/2403.19925)]
+  
+
+* **RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**,
+  Zhichao Xu
+  [[Paper](https://arxiv.org/abs/2403.18276)]
+  [[Code](https://github.com/zhichaoxu-shufe/RankMamba)] 
+
 * **SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**,
   Wenrui Li, Xiaopeng Hong, Xiaopeng Fan
   [[Paper](https://arxiv.org/abs/2404.01174)] 
@@ -92,9 +103,11 @@ Paper list for State-Space-Model and its Applications
   Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi
   [[Paper](https://arxiv.org/abs/2403.17902)] 
 
-* **Jamba: AI21's Hybrid SSM-Transformer Model**,
-  [[Paper](https://www.ai21.com/blog/announcing-jamba)]
-  [[Huggingface](https://huggingface.co/ai21labs/Jamba-v0.1)]
+* **Jamba: A Hybrid Transformer-Mamba Language Model**,
+  Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz, Omri Abend, Raz Alon, Tomer Asida, Amir Bergman, Roman Glozman, Michael Gokhman, Avashalom Manevich, Nir Ratner, Noam Rozen, Erez Shwartz, Mor Zusman, Yoav Shoham
+  [[Paper](https://arxiv.org/abs/2403.19887)] 
+  [[Website](https://www.ai21.com/blog/announcing-jamba)]
+  [[Huggingface](https://huggingface.co/ai21labs/Jamba-v0.1)] 
 
 * [2024_102] **Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction**, 
   Qiuhong Shen, Xuanyu Yi, Zike Wu, Pan Zhou, Hanwang Zhang, Shuicheng Yan, Xinchao Wang
