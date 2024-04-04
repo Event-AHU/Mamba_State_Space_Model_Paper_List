@@ -17,7 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* 
+
+* **RS-Mamba for Large Remote Sensing Image Dense Prediction**,
+  Sijie Zhao, Hao Chen, Xueliang Zhang, Pengfeng Xiao, Lei Bai, Wanli Ouyang
+  [[Paper](https://arxiv.org/abs/2404.02668)]
+  [[Code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)] 
 
 * **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**, 
   Xianping Ma, Xiaokang Zhang, Man-On Pun
