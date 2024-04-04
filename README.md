@@ -16,6 +16,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* 
+
+* **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**, 
+  Xianping Ma, Xiaokang Zhang, Man-On Pun
+  [[Paper](https://arxiv.org/abs/2404.02457)]
+  [[Code](https://github.com/sstary/SSRS)] 
+
 * **SPMamba: State-space model is all you need in speech separation**, 
   Kai Li, Guo Chen
   [[Paper](https://arxiv.org/abs/2404.02063)] 
