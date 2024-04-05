@@ -18,6 +18,15 @@ Paper list for State-Space-Model and its Applications
 
 
 
+* **InsectMamba: Insect Pest Classification with State Space Model**,
+  Qianning Wang, Chenglin Wang, Zhixin Lai, Yucheng Zhou
+  [[Paper](https://arxiv.org/abs/2404.03611)]
+
+* **ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**,
+  Hongruixuan Chen, Jian Song, Chengxi Han, Junshi Xia, Naoto Yokoya
+  [[Paper](https://arxiv.org/abs/2404.03425)]
+  [[Code](https://github.com/ChenHongruixuan/MambaCD)] 
+  
 * **RS-Mamba for Large Remote Sensing Image Dense Prediction**,
   Sijie Zhao, Hao Chen, Xueliang Zhang, Pengfeng Xiao, Lei Bai, Wanli Ouyang
   [[Paper](https://arxiv.org/abs/2404.02668)]
