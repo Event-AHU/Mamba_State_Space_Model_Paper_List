@@ -17,6 +17,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **xT: Nested Tokenization for Larger Context in Large Images**, 
+  Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam
+  [[Paper](https://arxiv.org/abs/2403.01915)]
+  [[Code](https://github.com/bair-climate-initiative/xT)]
+
+* **Locating and Editing Factual Associations in Mamba**,
+  Arnab Sen Sharma, David Atkinson, David Bau
+  [[Paper](https://arxiv.org/abs/2404.03646)] 
 
 * **InsectMamba: Insect Pest Classification with State Space Model**,
   Qianning Wang, Chenglin Wang, Zhixin Lai, Yucheng Zhou
