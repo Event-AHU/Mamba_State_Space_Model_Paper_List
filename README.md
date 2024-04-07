@@ -676,8 +676,6 @@ Paper list for State-Space-Model and its Applications
 ## Related Models
 
 
-* 
-
 * **TLS-RWKV: Real-Time Online Action Detection with Temporal Label Smoothing**. Zhu, Z., Shao, W. & Jiao, D. Neural Process Lett 56, 57 (2024).
   [[Paper](https://doi.org/10.1007/s11063-024-11540-0)] 
 
@@ -709,6 +707,7 @@ Paper list for State-Space-Model and its Applications
 * [[mamba.py](https://github.com/alxndrTL/mamba.py)] A simple and efficient Mamba implementation in PyTorch and MLX.
 * [[Introduction to State Space Models (SSM)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)]
 * [[State-Space Modelling by Kevin Kotzé](https://kevinkotze.github.io/ts-4-state-space/)]
+* [[Structured State Spaces: Combining Continuous-Time, Recurrent, and Convolutional Models](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3)]
   
 
 
