@@ -681,6 +681,10 @@ Paper list for State-Space-Model and its Applications
 ## Related Models
 
 
+* **"Retentive network: A successor to transformer for large language models."** Sun, Yutao, et al. arXiv preprint arXiv:2307.08621 (2023).
+  [[Paper](https://arxiv.org/abs/2307.08621)]
+  [[Code](https://github.com/microsoft/unilm/tree/master/retnet)] 
+
 * **TLS-RWKV: Real-Time Online Action Detection with Temporal Label Smoothing**. Zhu, Z., Shao, W. & Jiao, D. Neural Process Lett 56, 57 (2024).
   [[Paper](https://doi.org/10.1007/s11063-024-11540-0)] 
 
