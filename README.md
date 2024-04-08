@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**,
+  Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie
+  [[Paper](https://arxiv.org/abs/2404.04256)]
+  [[Code](https://github.com/zifuwan/Sigma)] 
+
 * **xT: Nested Tokenization for Larger Context in Large Images**, 
   Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam
   [[Paper](https://arxiv.org/abs/2403.01915)]
