@@ -161,7 +161,7 @@ Paper list for State-Space-Model and its Applications
   Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi
   [[Paper](https://arxiv.org/abs/2403.17902)] 
 
-* **Jamba: A Hybrid Transformer-Mamba Language Model**,
+* [2024_103] **Jamba: A Hybrid Transformer-Mamba Language Model**, 
   Opher Lieber, Barak Lenz, Hofit Bata, Gal Cohen, Jhonathan Osin, Itay Dalmedigos, Erez Safahi, Shaked Meirom, Yonatan Belinkov, Shai Shalev-Shwartz, Omri Abend, Raz Alon, Tomer Asida, Amir Bergman, Roman Glozman, Michael Gokhman, Avashalom Manevich, Nir Ratner, Noam Rozen, Erez Shwartz, Mor Zusman, Yoav Shoham
   [[Paper](https://arxiv.org/abs/2403.19887)] 
   [[Website](https://www.ai21.com/blog/announcing-jamba)]
