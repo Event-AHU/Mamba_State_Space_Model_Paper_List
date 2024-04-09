@@ -17,6 +17,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**,
+  Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo
+  [[Paper](https://arxiv.org/abs/2404.05105)] 
+
+* **3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**,
+  Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He
+  [[Paper](https://arxiv.org/abs/2404.05522)]
+  
 * **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**,
   Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie
   [[Paper](https://arxiv.org/abs/2404.04256)]
@@ -680,6 +688,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Related Models
 
+
+* **Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models**,
+  Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang
+  [[Paper](https://arxiv.org/abs/2404.04478)] 
 
 * **"Retentive network: A successor to transformer for large language models."** Sun, Yutao, et al. arXiv preprint arXiv:2307.08621 (2023).
   [[Paper](https://arxiv.org/abs/2307.08621)]
