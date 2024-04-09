@@ -17,147 +17,147 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* **VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**,
+* [2024_136] **VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**,
   Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo
   [[Paper](https://arxiv.org/abs/2404.05105)] 
 
-* **3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**,
+* [2024_135] **3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**,
   Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He
   [[Paper](https://arxiv.org/abs/2404.05522)]
   
-* **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**,
+* [2024_134] **Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation**,
   Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie
   [[Paper](https://arxiv.org/abs/2404.04256)]
   [[Code](https://github.com/zifuwan/Sigma)] 
 
-* **xT: Nested Tokenization for Larger Context in Large Images**, 
+* [2024_133] **xT: Nested Tokenization for Larger Context in Large Images**, 
   Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam
   [[Paper](https://arxiv.org/abs/2403.01915)]
   [[Code](https://github.com/bair-climate-initiative/xT)]
 
-* **Locating and Editing Factual Associations in Mamba**,
+* [2024_132] **Locating and Editing Factual Associations in Mamba**,
   Arnab Sen Sharma, David Atkinson, David Bau
   [[Paper](https://arxiv.org/abs/2404.03646)] 
 
-* **InsectMamba: Insect Pest Classification with State Space Model**,
+* [2024_131] **InsectMamba: Insect Pest Classification with State Space Model**,
   Qianning Wang, Chenglin Wang, Zhixin Lai, Yucheng Zhou
   [[Paper](https://arxiv.org/abs/2404.03611)]
 
-* **ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**,
+* [2024_130] **ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model**,
   Hongruixuan Chen, Jian Song, Chengxi Han, Junshi Xia, Naoto Yokoya
   [[Paper](https://arxiv.org/abs/2404.03425)]
   [[Code](https://github.com/ChenHongruixuan/MambaCD)] 
   
-* **RS-Mamba for Large Remote Sensing Image Dense Prediction**,
+* [2024_129] **RS-Mamba for Large Remote Sensing Image Dense Prediction**,
   Sijie Zhao, Hao Chen, Xueliang Zhang, Pengfeng Xiao, Lei Bai, Wanli Ouyang
   [[Paper](https://arxiv.org/abs/2404.02668)]
   [[Code](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)] 
 
-* **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**, 
+* [2024_128] **RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation**, 
   Xianping Ma, Xiaokang Zhang, Man-On Pun
   [[Paper](https://arxiv.org/abs/2404.02457)]
   [[Code](https://github.com/sstary/SSRS)] 
 
-* **SPMamba: State-space model is all you need in speech separation**, 
+* [2024_127] **SPMamba: State-space model is all you need in speech separation**, 
   Kai Li, Guo Chen
   [[Paper](https://arxiv.org/abs/2404.02063)] 
 
-* **On the reduction of Linear Parameter-Varying State-Space models**,
+* [2024_126] **On the reduction of Linear Parameter-Varying State-Space models**,
   E. Javier Olucha, Bogoljub Terzin, Amritam Das, Roland Tóth
   [[Paper](https://arxiv.org/abs/2404.01871)] 
 
-* **Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**,
+* [2024_125] **Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model**,
   Qinfeng Zhu, Yuanzhi Cai, Yuan Fang, Yihan Yang, Cheng Chen, Lei Fan, Anh Nguyen
   [[Paper](https://arxiv.org/abs/2404.01705)]
   [[Code](https://github.com/zhuqinfeng1999/Samba)] 
 
-* **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation**,
+* [2024_124] **T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation**,
   Jing Hao, Lei He, Kuo Feng Hung
   [[Paper](https://arxiv.org/abs/2404.01065)]
   [[Code](https://github.com/isbrycee/T-Mamba)] 
 
-* **Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**,
+* [2024_123] **Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces**,
   Toshihiro Ota
   [[Paper](https://arxiv.org/abs/2403.19925)]
   
 
-* **RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**,
+* [2024_122] **RankMamba, Benchmarking Mamba's Document Ranking Performance in the Era of Transformers**,
   Zhichao Xu
   [[Paper](https://arxiv.org/abs/2403.18276)]
   [[Code](https://github.com/zhichaoxu-shufe/RankMamba)] 
 
-* **SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**,
+* [2024_121] **SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding**,
   Wenrui Li, Xiaopeng Hong, Xiaopeng Fan
   [[Paper](https://arxiv.org/abs/2404.01174)] 
 
-* **HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification**,
+* [2024_120] **HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification**,
   Judy X Yang, Jun Zhou, Jing Wang, Hui Tian, Alan Wee Chung Liew
   [[Paper](https://arxiv.org/abs/2404.00272)] 
   [[Code](https://github.com/Judyxyang/judyxyang/blob/master/HSi_UH2013_P7_AB_VIM_V3_6_0330.ipynb)] 
 
-* **HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**,
+* [2024_119] **HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM**,
   Shuangjian Li, Tao Zhu, Furong Duan, Liming Chen, Huansheng Ning, Yaping Wan
   [[Paper](https://arxiv.org/abs/2403.20183)]
 
-* **UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation**,
+* [2024_118] **UltraLight VM-UNet: Parallel Vision Mamba Significantly Reduces Parameters for Skin Lesion Segmentation**,
   Renkai Wu, Yinghao Liu, Pengchen Liang, Qing Chang
   [[Paper](https://arxiv.org/abs/2403.20035)]
   [[Code](https://github.com/wurenkai/UltraLight-VM-UNet)]
 
-* **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**,
+* [2024_117] **MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection**,
   Ali Behrouz, Michele Santacatterina, Ramin Zabih
   [[Paper](https://arxiv.org/abs/2403.19888)] 
 
-* **Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**,
+* [2024_116] **Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation**,
   Xilin Jiang, Cong Han, Nima Mesgarani
   [[Paper](https://arxiv.org/abs/2403.18257)] 
 
-* **STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**,
+* [2024_115] **STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model**,
   Lincan Li, Hanchen Wang, Wenjie Zhang, Adelle Coster
   [[Paper](https://arxiv.org/abs/2403.12418)] 
 
-* **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**,
+* [2024_114] **Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**,
   Han Zhao, Min Zhang, Wei Zhao, Pengxiang Ding, Siteng Huang, Donglin Wang
   [[Paper](https://arxiv.org/abs/2403.14520)] 
 
-* **Music to Dance as Language Translation using Sequence Models**,
+* [2024_113] **Music to Dance as Language Translation using Sequence Models**,
   André Correia, Luís A. Alexandre
   [[Paper](https://arxiv.org/abs/2403.15569)]
   [[Code](https://github.com/meowatthemoon/MDLT)] 
 
-* **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification**,
+* [2024_112] **CMViM: Contrastive Masked Vim Autoencoder for 3D Multi-modal Representation Learning for AD classification**,
   Guangqian Yang, Kangrui Du, Zhihan Yang, Ye Du, Yongping Zheng, Shujun Wang
   [[Paper](https://arxiv.org/abs/2403.16520)] 
 
-* **Proprioception Is All You Need: Terrain Classification for Boreal Forests**,
+* [2024_111] **Proprioception Is All You Need: Terrain Classification for Boreal Forests**,
   Damien LaRocque, William Guimont-Martin, David-Alexandre Duclos, Philippe Giguère, François Pomerleau
   [[Paper](https://github.com/norlab-ulaval/BorealTC)] 
 
-* **ReMamber: Referring Image Segmentation with Mamba Twister**,
+* [2024_110] **ReMamber: Referring Image Segmentation with Mamba Twister**,
   Yuhuan Yang, Chaofan Ma, Jiangchao Yao, Zhun Zhong, Ya Zhang, Yanfeng Wang
   [[Paper](https://arxiv.org/abs/2403.17839)] 
 
-* **Mechanistic Design and Scaling of Hybrid Architectures**,
+* [2024_109] **Mechanistic Design and Scaling of Hybrid Architectures**,
   Michael Poli, Armin W Thomas, Eric Nguyen, Pragaash Ponnusamy, Björn Deiseroth, Kristian Kersting, Taiji Suzuki, Brian Hie, Stefano Ermon, Christopher Ré, Ce Zhang, Stefano Massaroli
   [[Paper](https://arxiv.org/abs/2403.17844)] 
 
-* **Model order reduction of deep structured state-space models: A system-theoretic approach**,
+* [2024_108] **Model order reduction of deep structured state-space models: A system-theoretic approach**,
   Marco Forgione, Manas Mejari, Dario Piga 
 
-* **Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**,
+* [2024_107] **Modeling Analog Dynamic Range Compressors using Deep Learning and State-space Models**,
   Hanzhi Yin, Gang Cheng, Christian J. Steinmetz, Ruibin Yuan, Richard M. Stern, Roger B. Dannenberg
   [[Paper](https://arxiv.org/abs/2403.16331)] 
 
-* **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**,
+* [2024_106] **Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**,
   Jiyuan Yang, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren
   [[Paper](https://arxiv.org/abs/2403.16371)]
   [[Code](https://github.com/nancheng58/RecMamba)] 
 
-* **State Space Models as Foundation Models: A Control Theoretic Overview**,
+* [2024_105] **State Space Models as Foundation Models: A Control Theoretic Overview**,
   Carmen Amo Alonso, Jerome Sieber, Melanie N. Zeilinger
   [[Paper](https://arxiv.org/abs/2403.16899)] 
 
-* **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**,
+* [2024_104] **Serpent: Scalable and Efficient Image Restoration via Multi-scale Structured State Space Models**,
   Mohammad Shahab Sepehri, Zalan Fabian, Mahdi Soltanolkotabi
   [[Paper](https://arxiv.org/abs/2403.17902)] 
 
