@@ -17,6 +17,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**,
+  Bochao Zou, Zizheng Guo, Xiaocheng Hu, Huimin Ma
+  [[Paper](https://arxiv.org/abs/2404.06483)]
+  [[Code](https://github.com/zizheng-guo/RhythmMamba)] 
+
 * [2024_136] **VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**,
   Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo
   [[Paper](https://arxiv.org/abs/2404.05105)] 
