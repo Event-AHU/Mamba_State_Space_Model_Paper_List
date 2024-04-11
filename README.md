@@ -17,6 +17,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [2024_139] **MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**,
+  Haoyang He, Yuhu Bai, Jiangning Zhang, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, Lei Xie
+  [[Paper](https://arxiv.org/abs/2404.06564)]
+  
+* [2024_138] **3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion**,
+  Yixuan Li, Weidong Yang, Ben Fei 
+  [[Paper](https://arxiv.org/abs/2404.07106)]
+  
 * [2024_137] **RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos**,
   Bochao Zou, Zizheng Guo, Xiaocheng Hu, Huimin Ma
   [[Paper](https://arxiv.org/abs/2404.06483)]
