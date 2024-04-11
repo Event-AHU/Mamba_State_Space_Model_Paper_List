@@ -520,6 +520,7 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2402.04139)]
 
 * [2024_014] **Graph-Mamba: Towards Long-Range Graph Sequence Modeling with Selective State Spaces**,
+  Chloe Wang, Oleksii Tsepa, Jun Ma, Bo Wang 
   [[Paper](https://arxiv.org/abs/2402.00789)] 
   [[Code](https://github.com/bowang-lab/Graph-Mamba)] 
 
