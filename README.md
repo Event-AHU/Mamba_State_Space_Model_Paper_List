@@ -17,6 +17,23 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **FusionMamba: Efficient Image Fusion with State Space Model**,
+  Siran Peng, Xiangyu Zhu, Haoyu Deng, Zhen Lei, Liang-Jian Deng
+  [[Paper](https://arxiv.org/pdf/2404.07932.pdf)] 
+  
+* **DGMamba: Domain Generalization via Generalized State Space Model**,
+  Shaocong Long, Qianyu Zhou, Xiangtai Li, Xuequan Lu, Chenhao Ying, Yuan Luo, Lizhuang Ma, Shuicheng Yan
+  [[Paper](https://arxiv.org/abs/2404.07794)]
+  
+* **ViM-UNet: Vision Mamba for Biomedical Segmentation**,
+  Anwai Archit, Constantin Pape
+  [[Paper](https://arxiv.org/abs/2404.07705)]
+  [[Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)] 
+  
+* **Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**,
+  Soumyabrata Chaudhuri, Saumik Bhattacharya
+  [[Paper](https://arxiv.org/abs/2404.07645)]
+  
 * [2024_139] **MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection**,
   Haoyang He, Yuhu Bai, Jiangning Zhang, Qingdong He, Hongxu Chen, Zhenye Gan, Chengjie Wang, Xiangtai Li, Guanzhong Tian, Lei Xie
   [[Paper](https://arxiv.org/abs/2404.06564)]
@@ -29,11 +46,11 @@ Paper list for State-Space-Model and its Applications
   Bochao Zou, Zizheng Guo, Xiaocheng Hu, Huimin Ma
   [[Paper](https://arxiv.org/abs/2404.06483)]
   [[Code](https://github.com/zizheng-guo/RhythmMamba)] 
-
+  
 * [2024_136] **VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration**,
   Ziyang Wang, Jian-Qing Zheng, Chao Ma, Tao Guo
   [[Paper](https://arxiv.org/abs/2404.05105)] 
-
+  
 * [2024_135] **3DMambaIPF: A State Space Model for Iterative Point Cloud Filtering via Differentiable Rendering**,
   Qingyuan Zhou, Weidong Yang, Ben Fei, Jingyi Xu, Rui Zhang, Keyi Liu, Yeqi Luo, Ying He
   [[Paper](https://arxiv.org/abs/2404.05522)]
@@ -42,12 +59,12 @@ Paper list for State-Space-Model and its Applications
   Zifu Wan, Yuhao Wang, Silong Yong, Pingping Zhang, Simon Stepputtis, Katia Sycara, Yaqi Xie
   [[Paper](https://arxiv.org/abs/2404.04256)]
   [[Code](https://github.com/zifuwan/Sigma)] 
-
+  
 * [2024_133] **xT: Nested Tokenization for Larger Context in Large Images**, 
   Ritwik Gupta, Shufan Li, Tyler Zhu, Jitendra Malik, Trevor Darrell, Karttikeya Mangalam
   [[Paper](https://arxiv.org/abs/2403.01915)]
   [[Code](https://github.com/bair-climate-initiative/xT)]
-
+  
 * [2024_132] **Locating and Editing Factual Associations in Mamba**,
   Arnab Sen Sharma, David Atkinson, David Bau
   [[Paper](https://arxiv.org/abs/2404.03646)] 
