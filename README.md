@@ -6,12 +6,17 @@ Paper list for State-Space-Model and its Applications
 </p>
 
 
-## Thesis 
+
+## :collision: Update Log 
+* [2024.04.15] ****** 
+
+
+## Thesis & Surveys 
 * **Modeling sequences with structured state spaces**, Responsibility: Albert Gu, Publication: [Stanford, California] : [Stanford University], 2023 
   [[Thesis (330 pages)](https://searchworks.stanford.edu/view/14784021)]
   [[PDF](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)]
 
-
+* **State Space Model: A Survey**, 2024 [[PDF]()]
 
 
 ## Year 2024 
