@@ -17,20 +17,20 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* **FusionMamba: Efficient Image Fusion with State Space Model**,
+* [2024_143] **FusionMamba: Efficient Image Fusion with State Space Model**,
   Siran Peng, Xiangyu Zhu, Haoyu Deng, Zhen Lei, Liang-Jian Deng
   [[Paper](https://arxiv.org/pdf/2404.07932.pdf)] 
   
-* **DGMamba: Domain Generalization via Generalized State Space Model**,
+* [2024_142] **DGMamba: Domain Generalization via Generalized State Space Model**,
   Shaocong Long, Qianyu Zhou, Xiangtai Li, Xuequan Lu, Chenhao Ying, Yuan Luo, Lizhuang Ma, Shuicheng Yan
   [[Paper](https://arxiv.org/abs/2404.07794)]
   
-* **ViM-UNet: Vision Mamba for Biomedical Segmentation**,
+* [2024_141] **ViM-UNet: Vision Mamba for Biomedical Segmentation**,
   Anwai Archit, Constantin Pape
   [[Paper](https://arxiv.org/abs/2404.07705)]
   [[Code](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)] 
   
-* **Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**,
+* [2024_140] **Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos**,
   Soumyabrata Chaudhuri, Saumik Bhattacharya
   [[Paper](https://arxiv.org/abs/2404.07645)]
   
