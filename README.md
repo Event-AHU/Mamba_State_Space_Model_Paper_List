@@ -760,7 +760,7 @@ Paper list for State-Space-Model and its Applications
 * [[Introduction to State Space Models (SSM)](https://huggingface.co/blog/lbourdois/get-on-the-ssm-train)]
 * [[State-Space Modelling by Kevin Kotzé](https://kevinkotze.github.io/ts-4-state-space/)]
 * [[Structured State Spaces: Combining Continuous-Time, Recurrent, and Convolutional Models](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3)]
-  
+* [[**A Visual Guide to Mamba and State Space Models**---An Alternative to Transformers for Language Modeling](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)] FEB 19, 2024, by MAARTEN GROOTENDORST. 
 
 
 ## Star History
