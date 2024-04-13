@@ -1,5 +1,5 @@
 # Mamba_State_Space_Model_Paper_List
-Paper list for State-Space-Model and its Applications
+Paper list for State-Space-Model and its Applications 
 
 <p align="center">
 <img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_park.jpg" width="250">
@@ -16,7 +16,7 @@ Paper list for State-Space-Model and its Applications
   [[Thesis (330 pages)](https://searchworks.stanford.edu/view/14784021)]
   [[PDF](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)]
 
-* **State Space Model: A Survey**, 2024 [[PDF]()]
+* **State Space Model for New-Generation Network Alternative to Transformers: A Survey**, 2024 [[PDF]()] 
 
 
 ## Year 2024 
@@ -773,12 +773,12 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 
 ```bibtex
 @misc{Wang2024SSMSurvey,
-      title={State Space Model: A Survey}, 
-      author={},
-      year={2024},
-      eprint={},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      title={State Space Model for New-Generation Network Alternative to Transformers: A Survey}, 
+      author={}, 
+      year={2024}, 
+      eprint={}, 
+      archivePrefix={arXiv}, 
+      primaryClass={cs.CV} 
 }
 ```
 
