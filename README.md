@@ -16,11 +16,15 @@ Paper list for State-Space-Model and its Applications
   [[Thesis (330 pages)](https://searchworks.stanford.edu/view/14784021)]
   [[PDF](https://stacks.stanford.edu/file/druid:mb976vf9362/gu_dissertation-augmented.pdf)]
 
-* **State Space Model for New-Generation Network Alternative to Transformers: A Survey**, 2024 [[PDF]()] 
+* **State Space Model for New-Generation Network Alternative to Transformers: A Survey**, Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang, 2024 [[PDF](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_AHU_survey_v1.pdf)] 
+
+
+
+
+
 
 
 ## Year 2024 
-
 
 * [2024_143] **FusionMamba: Efficient Image Fusion with State Space Model**,
   Siran Peng, Xiangyu Zhu, Haoyu Deng, Zhen Lei, Liang-Jian Deng
@@ -774,7 +778,7 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 ```bibtex
 @misc{Wang2024SSMSurvey,
       title={State Space Model for New-Generation Network Alternative to Transformers: A Survey}, 
-      author={}, 
+      author={Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang}, 
       year={2024}, 
       eprint={}, 
       archivePrefix={arXiv}, 
