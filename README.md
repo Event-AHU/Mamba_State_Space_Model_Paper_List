@@ -27,6 +27,15 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **State-Space Modeling of Shape-constrained Functional Time Series**, 
+  Daichi Hiraki, Yasuyuki Hamura, Kaoru Irie, Shonosuke Sugasawa, arXiv:2404.07586 
+  [[Paper](https://arxiv.org/abs/2404.07586)] 
+
+* **HGRN2: Gated Linear RNNs with State Expansion**,
+  Zhen Qin, Songlin Yang, Weixuan Sun, Xuyang Shen, Dong Li, Weigao Sun, Yiran Zhong, arXiv:2404.07904
+  [[Paper](https://arxiv.org/abs/2404.07904)]
+  [[Code](https://github.com/OpenNLPLab/HGRN2)] 
+
 * **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**,
   Zhe Li, Haiwei Pan, Kejia Zhang, Yuhua Wang, Fengming Yu, arXiv:2404.08406 
   [[Paper](https://arxiv.org/abs/2404.08406)] 
