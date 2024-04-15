@@ -26,6 +26,20 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* **MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion**,
+  Zhe Li, Haiwei Pan, Kejia Zhang, Yuhua Wang, Fengming Yu, arXiv:2404.08406 
+  [[Paper](https://arxiv.org/abs/2404.08406)] 
+
+* **SpectralMamba: Efficient Mamba for Hyperspectral Image Classification**,
+  Jing Yao, Danfeng Hong, Chenyu Li, Jocelyn Chanussot, arXiv:2404.08489 
+  [[Paper](https://arxiv.org/abs/2404.08489)]
+  [[Code](https://github.com/danfenghong/SpectralMamba)] 
+
+* **SurvMamba: State Space Model with Multi-grained Multi-modal Interaction for Survival Prediction**, 
+  Ying Chen, Jiajing Xie, Yuxiang Lin, Yuhang Song, Wenxian Yang, Rongshan Yu, arXiv:2404.08027 
+  [[Paper](https://arxiv.org/abs/2404.08027)] 
+
 * [2024_143] **FusionMamba: Efficient Image Fusion with State Space Model**,
   Siran Peng, Xiangyu Zhu, Haoyu Deng, Zhen Lei, Liang-Jian Deng
   [[Paper](https://arxiv.org/pdf/2404.07932.pdf)] 
