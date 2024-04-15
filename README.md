@@ -793,6 +793,8 @@ Paper list for State-Space-Model and its Applications
 * [[State-Space Modelling by Kevin Kotzé](https://kevinkotze.github.io/ts-4-state-space/)]
 * [[Structured State Spaces: Combining Continuous-Time, Recurrent, and Convolutional Models](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-3)]
 * [[**A Visual Guide to Mamba and State Space Models**---An Alternative to Transformers for Language Modeling](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)] FEB 19, 2024, by MAARTEN GROOTENDORST.
+* [[Structured State Spaces: A Brief Survey of Related Models](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2)]
+    by Albert Gu, Karan Goel, Khaled Saab, and Chris Ré 
 
 
 ## :newspaper: Citation 
