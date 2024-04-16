@@ -27,6 +27,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Linear Recurrent Units for Sequential Recommendation**, 
+  Zhenrui Yue, Yueqi Wang, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang
+  [[Paper](https://arxiv.org/abs/2310.02367)] 
+  [[Code](https://github.com/yueqirex/LRURec)] 
+
 * **State-Space Modeling of Shape-constrained Functional Time Series**, 
   Daichi Hiraki, Yasuyuki Hamura, Kaoru Irie, Shonosuke Sugasawa, arXiv:2404.07586 
   [[Paper](https://arxiv.org/abs/2404.07586)] 
