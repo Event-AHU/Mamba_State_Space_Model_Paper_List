@@ -27,8 +27,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* **Linear Recurrent Units for Sequential Recommendation**, 
-  Zhenrui Yue, Yueqi Wang, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang
+* "**Linear recurrent units for sequential recommendation.**"
+  Yue, Zhenrui, et al. 
+  Proceedings of the 17th ACM International Conference on Web Search and Data Mining. 2024.
   [[Paper](https://arxiv.org/abs/2310.02367)] 
   [[Code](https://github.com/yueqirex/LRURec)] 
 
