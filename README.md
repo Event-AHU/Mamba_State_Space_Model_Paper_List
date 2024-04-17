@@ -27,6 +27,27 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**,
+  Yang Liu, Jiahua Xiao, Yu Guo, Peilin Jiang, Haiwei Yang, Fei Wang
+  [[Paper](https://arxiv.org/abs/2404.09697)] 
+
+* **FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba**,
+  Xinyu Xie, Yawen Cui, Chio-In Ieong, Tao Tan, Xiaozhi Zhang, Xubin Zheng, Zitong Yu
+  [[Paper](https://arxiv.org/abs/2404.09498)]
+  [[Code](https://github.com/millieXie/FusionMamba)] 
+
+* **FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining**,
+  Zou Zhen, Yu Hu, Zhao Feng
+  [[Paper](https://arxiv.org/abs/2404.09476)] 
+
+* **A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion**,
+  Zihan Cao, Xiao Wu, Liang-Jian Deng, Yu Zhong
+  [[Paper](https://arxiv.org/abs/2404.09293)] 
+
+* **Fusion-Mamba for Cross-modality Object Detection**, arXiv:2404.09146,
+  Wenhao Dong, Haodong Zhu, Shaohui Lin, Xiaoyan Luo, Yunhang Shen, Xuhui Liu, Juan Zhang, Guodong Guo, Baochang Zhang
+  [[Paper](https://arxiv.org/abs/2404.09146)] 
+
 * "**Linear recurrent units for sequential recommendation.**"
   Yue, Zhenrui, et al. 
   Proceedings of the 17th ACM International Conference on Web Search and Data Mining. 2024.
