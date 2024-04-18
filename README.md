@@ -843,11 +843,13 @@ Paper list for State-Space-Model and its Applications
 If you think this survey is helpful, please feel free to leave a star ⭐️ and cite our paper:
 
 ```bibtex
-@article{Wang2024SSMSurvey,
-  title={State Space Model for New-Generation Network Alternative to Transformers: A Survey},
-  author={Wang, Xiao and Wang, Shiao and Ding, Yuhe and Li, Yuehang and Wu, Wentao and Rong, Yao and Kong, Weizhe and Huang, Ju and Li, Shihao and Yang, Haoxiang and others},
-  journal={arXiv preprint arXiv:2404.09516},
-  year={2024}
+@misc{Wang2024SSMSurvey,
+      title={State Space Model for New-Generation Network Alternative to Transformers: A Survey}, 
+      author={Xiao Wang and Shiao Wang and Yuhe Ding and Yuehang Li and Wentao Wu and Yao Rong and Weizhe Kong and Ju Huang and Shihao Li and Haoxiang Yang and Ziwen Wang and Bo Jiang and Chenglong Li and Yaowei Wang and Yonghong Tian and Jin Tang},
+      year={2024},
+      eprint={2404.09516},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
 
