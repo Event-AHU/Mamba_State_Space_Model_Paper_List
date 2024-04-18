@@ -27,6 +27,18 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **State-space Decomposition Model for Video Prediction Considering Long-term Motion Trend**,
+  Fei Cui, Jiaojiao Fang, Xiaojiang Wu, Zelong Lai, Mengke Yang, Menghan Jia, Guizhong Liu
+  [[Paper](https://arxiv.org/abs/2404.11576)] 
+
+*  **Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion**, 
+  Xinghan Wang, Zixi Kang, Yadong Mu, arXiv:2404.11375
+  [[Paper](https://arxiv.org/abs/2404.11375)] 
+
+* **HumMUSS: Human Motion Understanding using State Space Models**,
+  Arnab Kumar Mondal, Stefano Alletto, Denis Tome, CVPR 2024, arXiv:2404.10880 
+  [[Paper](https://arxiv.org/abs/2404.10880)]  
+ 
 * **HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising**,
   Yang Liu, Jiahua Xiao, Yu Guo, Peilin Jiang, Haiwei Yang, Fei Wang
   [[Paper](https://arxiv.org/abs/2404.09697)] 
