@@ -7,6 +7,9 @@ Paper list for State-Space-Model and its Applications
 
 
 
+#### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to **xiaowang@ahu.edu.cn**. Thanks for your cooperation!
+
+
 ## :collision: Update Log 
 * [2024.04.15] We release the first version of the survey on state space model [[**arXiv**](https://arxiv.org/abs/2404.09516)] 
 
