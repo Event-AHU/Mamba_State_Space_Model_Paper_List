@@ -30,6 +30,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**, arXiv:2404.11778, 
+  Rui Deng, Tianpei Gu
+  [[Paper](https://arxiv.org/abs/2404.11778)] 
+
 * **State-space Decomposition Model for Video Prediction Considering Long-term Motion Trend**,
   Fei Cui, Jiaojiao Fang, Xiaojiang Wu, Zelong Lai, Mengke Yang, Menghan Jia, Guizhong Liu
   [[Paper](https://arxiv.org/abs/2404.11576)] 
