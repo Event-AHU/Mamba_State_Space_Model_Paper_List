@@ -30,6 +30,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**, CVPR 2024 Workshop (AIS: Vision, Graphics and AI for Streaming) 
+  Zhong Wang, Zengyu Wan, Han Han, Bohao Liao, Yuliang Wu, Wei Zhai, Yang Cao, Zheng-jun Zha 
+  [[Paper](https://arxiv.org/abs/2404.12083)] 
+
 * **CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration**, arXiv:2404.11778, 
   Rui Deng, Tianpei Gu
   [[Paper](https://arxiv.org/abs/2404.11778)] 
