@@ -538,8 +538,8 @@ Paper list for State-Space-Model and its Applications
 * [2024_037][ICLR 2024] **Never Train from Scratch: Fair Comparison of Long-Sequence Models Requires Data-Driven Priors**, Ido Amos, Jonathan Berant, Ankit Gupta
   [[Paper](https://openreview.net/forum?id=PdaPky8MUn)] 
 
-* [2024_036] [ICLR 2024] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
-  [[Paper](https://openreview.net/forum?id=1vDArHJ68h)]  
+* [2024_036] [ICLR 2024 (oral)] **Mastering Memory Tasks with World Models**, Mohammad Reza Samsami, Artem Zholus, Janarthanan Rajendran, Sarath Chandar
+  [[Paper](https://openreview.net/forum?id=1vDArHJ68h)] [[Code](https://github.com/chandar-lab/recall2imagine)]  
 
 * [2024_035]**Spectral State Space Models**, Naman Agarwal, Daniel Suo, Xinyi Chen, Elad Hazan
   [[Paper](https://arxiv.org/abs/2312.06837v3)] 
