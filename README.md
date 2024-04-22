@@ -30,6 +30,17 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+
+
+* **The Illusion of State in State-Space Models**, arXiv:2404.08819 
+  William Merrill, Jackson Petty, Ashish Sabharwal
+  [[Paper](https://arxiv.org/abs/2404.08819)] 
+
+* **MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model**,
+  Kang Zeng, Hao Shi, Jiacheng Lin, Siyu Li, Jintao Cheng, Kaiwei Wang, Zhiyong Li, Kailun Yang
+  [[Paper](https://arxiv.org/abs/2404.12794)]
+  [[Code](https://github.com/Terminal-K/MambaMOS)]
+
 * **MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking**, CVPR 2024 Workshop (AIS: Vision, Graphics and AI for Streaming) 
   Zhong Wang, Zengyu Wan, Han Han, Bohao Liao, Yuliang Wu, Wei Zhai, Yang Cao, Zheng-jun Zha 
   [[Paper](https://arxiv.org/abs/2404.12083)] 
