@@ -858,7 +858,7 @@ Paper list for State-Space-Model and its Applications
 * [[**A Visual Guide to Mamba and State Space Models**---An Alternative to Transformers for Language Modeling](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)] FEB 19, 2024, by MAARTEN GROOTENDORST.
 * [[**Structured State Spaces: A Brief Survey of Related Models**](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2)]
     by Albert Gu, Karan Goel, Khaled Saab, and Chris Ré
-* [**Video-Tutorial**] [[**Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math**](https://youtu.be/8Q_tqwpTpVU?si=cjQDNvHaY3aIjFPA)] by **Umar Jamil**
+* [**Video-Tutorial**] [[**Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math**](https://youtu.be/8Q_tqwpTpVU?si=cjQDNvHaY3aIjFPA)] by **Umar Jamil** [[Mamba_Slides.pdf](https://github.com/hkproj/mamba-notes/blob/main/Mamba_Slides.pdf)] 
   
 
 
