@@ -30,7 +30,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-
+* **ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**, arXiv:2404.13257,
+  Zhiqi Shao, Michael G.H. Bell, Ze Wang, D. Glenn Geers, Haoning Xi, Junbin Gao
+  [[Paper](https://arxiv.org/abs/2404.13257)]
 
 * **The Illusion of State in State-Space Models**, arXiv:2404.08819 
   William Merrill, Jackson Petty, Ashish Sabharwal
