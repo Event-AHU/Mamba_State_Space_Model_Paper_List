@@ -30,7 +30,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-
+* **Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**, arXiv:2404.14757, 
+  Xiongxiao Xu, Yueqing Liang, Baixiang Huang, Zhiling Lan, Kai Shu
+  [[Paper](https://arxiv.org/abs/2404.14757)]
+  [[Code](https://github.com/XiongxiaoXu/Mambaformerin-Time-Series)] 
 
 * **Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model**, arXiv:2404.14966, 
   Xu Han, Yuan Tang, Zhaoxuan Wang, Xianzhi Li
