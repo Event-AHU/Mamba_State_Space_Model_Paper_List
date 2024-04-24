@@ -30,6 +30,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs**, arXiv:2404.13884, 
+  Zhihao Chen, Yiyuan Ge
+  [[Paper](https://arxiv.org/abs/2404.13884)]
+  [[Code](https://github.com/1024AILab/MambaUIE)] 
+
 * **Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**, arXiv:2404.13222, 
   Ali Nasiri-Sarvi, Vincent Quoc-Huy Trinh, Hassan Rivaz, Mahdi S. Hosseini
   [[Paper](https://arxiv.org/abs/2404.13222)] 
