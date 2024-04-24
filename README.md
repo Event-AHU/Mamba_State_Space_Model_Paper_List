@@ -30,6 +30,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Vim4Path: Self-Supervised Vision Mamba for Histopathology Images**, arXiv:2404.13222, 
+  Ali Nasiri-Sarvi, Vincent Quoc-Huy Trinh, Hassan Rivaz, Mahdi S. Hosseini
+  [[Paper](https://arxiv.org/abs/2404.13222)] 
+  [[Code](https://github.com/AtlasAnalyticsLab/Vim4Path)]
+
 * **Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting**, arXiv:2404.14757, 
   Xiongxiao Xu, Yueqing Liang, Baixiang Huang, Zhiling Lan, Kai Shu
   [[Paper](https://arxiv.org/abs/2404.14757)]
