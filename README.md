@@ -25,6 +25,9 @@ Paper list for State-Space-Model and its Applications
   Carmen Amo Alonso, Jerome Sieber, Melanie N. Zeilinger
   [[Paper](https://arxiv.org/abs/2403.16899)] 
 
+* **A Survey on Visual Mamba**, arXiv:2404.15956, Hanwei Zhang, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Zi Ye
+  [[Paper](https://arxiv.org/abs/2404.15956)]
+  
 
 
 
