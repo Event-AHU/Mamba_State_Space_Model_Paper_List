@@ -35,6 +35,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**, arXiv:2404.16302, 
+  Haoyuan Li, Qi Hu, You Yao, Kailun Yang, Peng Chen
+  [[Paper](https://arxiv.org/abs/2404.16302)]
+  [[Code](https://github.com/lhy-zjut/CFMW)] 
+
 * **MambaTrack: Exploring Learning-based Motion Models in Multi-Object Tracking**, arXiv:2403.10826, 
   Hsiang-Wei Huang, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang
   [[Paper](https://arxiv.org/abs/2403.10826)] 
