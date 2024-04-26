@@ -35,6 +35,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MambaTrack: Exploring Learning-based Motion Models in Multi-Object Tracking**, arXiv:2403.10826, 
+  Hsiang-Wei Huang, Cheng-Yen Yang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang
+  [[Paper](https://arxiv.org/abs/2403.10826)] 
+   
 * **MambaUIE&SR: Unraveling the Ocean's Secrets with Only 2.8 FLOPs**, arXiv:2404.13884, 
   Zhihao Chen, Yiyuan Ge
   [[Paper](https://arxiv.org/abs/2404.13884)]
