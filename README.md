@@ -1,6 +1,8 @@
 # Mamba_State_Space_Model_Paper_List
 Paper list for State-Space-Model and its Applications 
 
+**State Space Model for New-Generation Network Alternative to Transformers: A Survey**, Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang, 2024 [[PDF](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_AHU_survey_v1.pdf)] [[arXiv](https://arxiv.org/abs/2404.09516)]
+
 <p align="center">
 <img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_park.jpg" width="250">
 </p>
