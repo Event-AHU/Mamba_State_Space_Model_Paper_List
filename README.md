@@ -27,7 +27,11 @@ Paper list for State-Space-Model and its Applications
 
 * **A Survey on Visual Mamba**, arXiv:2404.15956, Hanwei Zhang, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Zi Ye
   [[Paper](https://arxiv.org/abs/2404.15956)]
-  
+
+* **Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges,**
+  Badri Narayana Patro, Vijay Srinivas Agneeswaran
+  [[Paper](https://arxiv.org/abs/2404.16112)]
+  [[Github](https://github.com/badripatro/mamba360)] 
 
 
 
