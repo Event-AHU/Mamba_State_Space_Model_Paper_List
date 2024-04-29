@@ -41,6 +41,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model**, arXiv:2404.17484, 
+  Zhenghong Li, Jiaxiang Ren, Wensheng Cheng, Congwu Du, Yingtian Pan, Haibin Ling
+  [[Paper](https://arxiv.org/abs/2404.17484)] 
+
 * **CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions**, arXiv:2404.16302, 
   Haoyuan Li, Qi Hu, You Yao, Kailun Yang, Peng Chen
   [[Paper](https://arxiv.org/abs/2404.16302)]
