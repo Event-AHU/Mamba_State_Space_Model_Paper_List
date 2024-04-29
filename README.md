@@ -41,6 +41,18 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Bi-Mamba4TS: Bidirectional Mamba for Time Series Forecasting, arXiv:2404.15772**, 
+  Aobo Liang, Xingguo Jiang, Yan Sun, Chang Lu
+  [[Paper](https://arxiv.org/abs/2404.15772)] 
+
+* **ST-MambaSync: The Confluence of Mamba Structure and Spatio-Temporal Transformers for Precipitous Traffic Prediction**, arXiv:2404.15899 
+Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
+[[Paper](https://arxiv.org/abs/2404.15899)] 
+
+* **Optimizing Universal Lesion Segmentation: State Space Model-Guided Hierarchical Networks with Feature Importance Adjustment**,
+  Kazi Shahriar Sanjid, Md. Tanzim Hossain, Md. Shakib Shahariar Junayed, M. Monir Uddin
+  [[Paper](https://arxiv.org/abs/2404.17235)] 
+
 * **Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model**, arXiv:2404.17484, 
   Zhenghong Li, Jiaxiang Ren, Wensheng Cheng, Congwu Du, Yingtian Pan, Haibin Ling
   [[Paper](https://arxiv.org/abs/2404.17484)] 
