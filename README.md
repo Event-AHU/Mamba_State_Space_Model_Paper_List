@@ -46,6 +46,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Spectral-Spatial Mamba for Hyperspectral Image Classification**, arXiv:2404.18401, 
+  Lingbo Huang, Yushi Chen, Xin He
+  [[Paper](https://arxiv.org/abs/2404.18401)] 
+
 * **RSCaMa: Remote Sensing Image Change Captioning with State Space Model**,
   Chenyang Liu, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi
   [[Paper](https://arxiv.org/abs/2404.18895)]
