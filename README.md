@@ -41,7 +41,7 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
-* **Mamba-FETrack: Frame-Event Tracking via State Space Model**, Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang
+* **Mamba-FETrack: Frame-Event Tracking via State Space Model**, arXiv:2404.18174, Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang
   [[Paper](https://arxiv.org/abs/2404.18174)]
   [[Code](https://github.com/Event-AHU/Mamba_FETrack)]
   
