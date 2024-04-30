@@ -33,13 +33,28 @@ Paper list for State-Space-Model and its Applications
 * **Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges,**
   Badri Narayana Patro, Vijay Srinivas Agneeswaran
   [[Paper](https://arxiv.org/abs/2404.16112)]
-  [[Github](https://github.com/badripatro/mamba360)] 
+  [[Github](https://github.com/badripatro/mamba360)]
+
+* **A Survey on Vision Mamba: Models, Applications and Challenges**,
+  Rui Xu, Shu Yang, Yihui Wang, Bo Du, Hao Chen
+  [[Paper](https://arxiv.org/abs/2404.18861)]
+  [[Paper List](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
 
 
 
 
 ## Year 2024 
 
+
+* **RSCaMa: Remote Sensing Image Change Captioning with State Space Model**,
+  Chenyang Liu, Keyan Chen, Bowen Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi
+  [[Paper](https://arxiv.org/abs/2404.18895)]
+  [[Code](https://github.com/Chen-Yang-Liu/RSCaMa)] 
+
+* **S2Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification**,
+  Guanchun Wang, Xiangrong Zhang, Zelin Peng, Tianyang Zhang, Xiuping Jia, Licheng Jiao
+  [[Paper](https://arxiv.org/abs/2404.18213)]
+  [[Code](https://github.com/PURE-melo/S2Mamba)] 
 
 * **Mamba-FETrack: Frame-Event Tracking via State Space Model**, arXiv:2404.18174, Ju Huang, Shiao Wang, Shuai Wang, Zhe Wu, Xiao Wang, Bo Jiang
   [[Paper](https://arxiv.org/abs/2404.18174)]
