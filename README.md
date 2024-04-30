@@ -46,6 +46,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**, arXiv:2404.18508, 
+  Mark Schöne, Neeraj Mohan Sushma, Jingyue Zhuge, Christian Mayr, Anand Subramoney, David Kappel
+  [[Paper](https://arxiv.org/abs/2404.18508)]
+
+* **Revisiting Multi-modal Emotion Learning with Broad State Space Models and Probability-guidance Fusion**, arXiv:2404.17858, 
+  Yuntao Shou, Tao Meng, Fuchen Zhang, Nan Yin, Keqin Li
+  [[Paper](https://arxiv.org/abs/2404.17858)] 
+
 * **Spectral-Spatial Mamba for Hyperspectral Image Classification**, arXiv:2404.18401, 
   Lingbo Huang, Yushi Chen, Xin He
   [[Paper](https://arxiv.org/abs/2404.18401)] 
