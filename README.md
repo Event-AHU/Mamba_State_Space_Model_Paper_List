@@ -46,6 +46,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**, arXiv:2404.19394, 
+  Weiquan Huang, Yifei Shen, Yifan Yang
+  [[Paper](https://arxiv.org/abs/2404.19394)]
+  [[Code](https://github.com/raytrun/mamba-clip)] 
+
 * **Scalable Event-by-event Processing of Neuromorphic Sensory Signals With Deep State-Space Models**, arXiv:2404.18508, 
   Mark Schöne, Neeraj Mohan Sushma, Jingyue Zhuge, Christian Mayr, Anand Subramoney, David Kappel
   [[Paper](https://arxiv.org/abs/2404.18508)]
