@@ -46,6 +46,19 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**, arXiv:2405.01828, 
+  Hui Ma, Sen Lei, Turgay Celik, Heng-Chao Li
+  [[Paper](https://arxiv.org/abs/2405.01828)] 
+
+* **SOAR: Advancements in Small Body Object Detection for Aerial Imagery Using State Space Models and Programmable Gradients**,
+  Tushar Verma, Jyotsna Singh, Yash Bhartari, Rishi Jarwal, Suraj Singh, Shubhkarman Singh
+  [[Paper](https://arxiv.org/abs/2405.01699)]
+
+* **SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising**, arXiv:2405.01726, 
+Guanyiman Fu, Fengchao Xiong, Jianfeng Lu, Jun Zhou, Yuntao Qian
+[[Paper](https://arxiv.org/abs/2405.01726)]
+[[Code](https://github.com/lronkitty/SSUMamba)] 
+
 * **CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**, arXiv:2404.19394, 
   Weiquan Huang, Yifei Shen, Yifan Yang
   [[Paper](https://arxiv.org/abs/2404.19394)]
