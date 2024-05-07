@@ -46,6 +46,17 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**, 
+  Qianning Wang, He Hu, Yucheng Zhou
+  [[Paper](https://arxiv.org/abs/2405.03673)] 
+
+* **SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion**,
+  Ziyun Qian, Zeyu Xiao, Zhenyi Wu, Dingkang Yang, Mingcheng Li, Shunli Wang, Shuaibing Wang, Dongliang Kou, Lihua Zhang
+  [[Paper](https://arxiv.org/abs/2405.02844)] 
+
+* **Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement**, Jiesong Bai, Yuhao Yin, Qiyuan He
+  [[Paper](https://arxiv.org/abs/2405.03349)] 
+
 * **Matten: Video Generation with Mamba-Attention**,
   Yu Gao, Jiancheng Huang, Xiaopeng Sun, Zequn Jie, Yujie Zhong, Lin Ma
   [[Paper](https://arxiv.org/abs/2405.03025)]
