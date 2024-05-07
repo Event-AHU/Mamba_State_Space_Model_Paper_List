@@ -46,6 +46,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Matten: Video Generation with Mamba-Attention**,
+  Yu Gao, Jiancheng Huang, Xiaopeng Sun, Zequn Jie, Yujie Zhong, Lin Ma
+  [[Paper](https://arxiv.org/abs/2405.03025)]
+  
 * **FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space**, arXiv:2405.01828, 
   Hui Ma, Sen Lei, Turgay Celik, Heng-Chao Li
   [[Paper](https://arxiv.org/abs/2405.01828)] 
