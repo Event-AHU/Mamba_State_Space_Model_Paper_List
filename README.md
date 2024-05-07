@@ -46,6 +46,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**, 
+  Viet-Thanh Nguyen, Van-Truong Pham, Thi-Thao Tran
+  [[Paper](https://arxiv.org/abs/2405.03011)]
+  [[Code](https://github.com/vietthanh2710/AC-MambaSeg)] 
+
 * **MemoryMamba: Memory-Augmented State Space Model for Defect Recognition**, 
   Qianning Wang, He Hu, Yucheng Zhou
   [[Paper](https://arxiv.org/abs/2405.03673)] 
