@@ -40,11 +40,19 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2404.18861)]
   [[Paper List](https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models)] 
 
+* **Vision Mamba: A Comprehensive Survey and Taxonomy**, arXiv:2405.03978, 
+  Xiao Liu, Chenxu Zhang, Lei Zhang
+  [[Paper](https://arxiv.org/abs/2405.03978)]
+  [[Github](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] 
 
 
 
 ## Year 2024 
 
+
+* **VMambaCC: A Visual State Space Model for Crowd Counting**, arXiv:2405.03978, 
+  Hao-Yuan Ma, Li Zhang, Shuai Shi
+  [[Paper](https://arxiv.org/abs/2405.03978)] 
 
 * [Mamba-2] **Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality**, Tri Dao · Albert Gu, ICML 2024,
   [[Paper](https://icml.cc/virtual/2024/poster/32613)]
