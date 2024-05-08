@@ -46,6 +46,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [Mamba-2] **Transformers are SSMs: Generalized Models and Efficient Algorithms with Structured State Space Duality**, Tri Dao · Albert Gu, ICML 2024,
+  [[Paper](https://icml.cc/virtual/2024/poster/32613)]
+
 * **AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation**, 
   Viet-Thanh Nguyen, Van-Truong Pham, Thi-Thao Tran
   [[Paper](https://arxiv.org/abs/2405.03011)]
