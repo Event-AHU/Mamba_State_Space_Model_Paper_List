@@ -50,6 +50,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**, arXiv:2405.05667, 
+  Zhihan Ju, Wanting Zhou
+  [[Paper](https://arxiv.org/abs/2405.05667)] 
+
 * **VMambaCC: A Visual State Space Model for Crowd Counting**, arXiv:2405.03978, 
   Hao-Yuan Ma, Li Zhang, Shuai Shi
   [[Paper](https://arxiv.org/abs/2405.03978)] 
