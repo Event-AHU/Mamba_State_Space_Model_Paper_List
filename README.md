@@ -50,6 +50,19 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+
+* [arXiv:2405.04964] **Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution**, 
+  Yi Xiao, Qiangqiang Yuan, Kui Jiang, Yuzeng Chen, Qiang Zhang, Chia-Wen Lin
+  [[Paper](https://arxiv.org/abs/2405.04964)] 
+
+* [arXiv:2405.05007] **HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation**, 
+  Jiashu Xu 
+  [[Paper](https://arxiv.org/abs/2405.05007)] 
+
+* [arXiv:2405.05027] **StyleMamba : State Space Model for Efficient Text-driven Image Style Transfer**, 
+  Zijia Wang, Zhi-Song Liu
+  [[Paper](https://arxiv.org/abs/2405.05027)] 
+
 * **VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis**, arXiv:2405.05667, 
   Zhihan Ju, Wanting Zhou
   [[Paper](https://arxiv.org/abs/2405.05667)] 
