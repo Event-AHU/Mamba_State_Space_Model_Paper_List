@@ -49,7 +49,9 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-
+* **An Investigation of Incorporating Mamba for Speech Enhancement**, arXiv:2405.06573, 
+  Rong Chao, Wen-Huang Cheng, Moreno La Quatra, Sabato Marco Siniscalchi, Chao-Han Huck Yang, Szu-Wei Fu, Yu Tsao
+  [[Paper](https://arxiv.org/abs/2405.06573)]
 
 * **An Investigation of Incorporating Mamba for Speech Enhancement**, arXiv:2405.06573, 
   Rong Chao, Wen-Huang Cheng, Moreno La Quatra, Sabato Marco Siniscalchi, Chao-Han Huck Yang, Szu-Wei Fu, Yu Tsao
