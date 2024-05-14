@@ -59,6 +59,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2405.07943] **Hierarchical Decision Mamba**, 
+  André Correia, Luís A. Alexandre
+  [[Paper](https://arxiv.org/abs/2405.07943)]
+  [[Code](https://github.com/meowatthemoon/HierarchicalDecisionMamba)] 
+  
 * [arXiv:2405.07777] **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images**, 
   Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng
   [[Paper](https://arxiv.org/abs/2405.07777)]
