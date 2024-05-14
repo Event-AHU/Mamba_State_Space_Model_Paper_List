@@ -76,10 +76,6 @@ Paper list for State-Space-Model and its Applications
   Rong Chao, Wen-Huang Cheng, Moreno La Quatra, Sabato Marco Siniscalchi, Chao-Han Huck Yang, Szu-Wei Fu, Yu Tsao
   [[Paper](https://arxiv.org/abs/2405.06573)]
 
-* **An Investigation of Incorporating Mamba for Speech Enhancement**, arXiv:2405.06573, 
-  Rong Chao, Wen-Huang Cheng, Moreno La Quatra, Sabato Marco Siniscalchi, Chao-Han Huck Yang, Szu-Wei Fu, Yu Tsao
-  [[Paper](https://arxiv.org/abs/2405.06573)] 
-
 * [arXiv:2405.06116] **Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba**,
   Hongwei Ren, Yue Zhou, Jiadong Zhu, Haotian Fu, Yulong Huang, Xiaopeng Lin, Yuetong Fang, Fei Ma, Hao Yu, Bojun Cheng
   [[Paper](https://arxiv.org/abs/2405.06116)] 
