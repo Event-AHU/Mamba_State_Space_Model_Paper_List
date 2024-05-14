@@ -52,8 +52,18 @@ Paper list for State-Space-Model and its Applications
 
 
 
+
+
+
+
+
 ## Year 2024 
 
+* [arXiv:2405.07777] **GMSR:Gradient-Guided Mamba for Spectral Reconstruction from RGB Images**, 
+  Xinying Wang, Zhixiong Huang, Sifan Zhang, Jiawen Zhu, Lin Feng
+  [[Paper](https://arxiv.org/abs/2405.07777)]
+  [[Code](https://github.com/wxy11-27/GMSR)] 
+  
 * [arXiv:2405.07966] **OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition**,
   Qiuchi Xiang, Jintao Cheng, Jiehao Luo, Jin Wu, Rui Fan, Xieyuanli Chen, Xiaoyu Tang
   [[Paper](https://arxiv.org/abs/2405.07966)]
