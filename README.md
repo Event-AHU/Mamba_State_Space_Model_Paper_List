@@ -60,6 +60,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2405.07022] **DTMamba : Dual Twin Mamba for Time Series Forecasting**,
+  Zexue Wu, Yifeng Gong, Aoqian Zhang
+  [[Paper](https://arxiv.org/abs/2405.07022)] 
+
 * [arXiv:2405.08493] **Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**,
   Qinfeng Zhu, Yuan Fang, Yuanzhi Cai, Cheng Chen, Lei Fan
   [[Paper](https://arxiv.org/abs/2405.08493)]
