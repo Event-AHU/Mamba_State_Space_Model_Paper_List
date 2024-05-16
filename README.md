@@ -59,6 +59,15 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2405.08493] **Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study**,
+  Qinfeng Zhu, Yuan Fang, Yuanzhi Cai, Cheng Chen, Lei Fan
+  [[Paper](https://arxiv.org/abs/2405.08493)]
+
+* [arXiv:2405.08419] **WaterMamba: Visual State Space Model for Underwater Image Enhancement**,
+  Meisheng Guan, Haiyong Xu, Gangyi Jiang, Mei Yu, Yeyao Chen, Ting Luo, Yang Song
+  [[Paper](https://arxiv.org/abs/2405.08419)] 
+ 
 * [arXiv:2405.07943] **Hierarchical Decision Mamba**, 
   André Correia, Luís A. Alexandre
   [[Paper](https://arxiv.org/abs/2405.07943)]
