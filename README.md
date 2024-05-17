@@ -60,6 +60,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**, 
+  Huiling Zhou, Xianhao Wu, Hongming Chen, Xiang Chen, Xin He
+  [[Paper](https://arxiv.org/abs/2405.10030)] 
+
+* **Point2SSM++: Self-Supervised Learning of Anatomical Shape Models from Point Clouds**, 
+  Jadie Adams, Shireen Elhabian
+  [[Paper](https://arxiv.org/abs/2405.09707)] 
+
 * [arXiv:2405.07022] **DTMamba : Dual Twin Mamba for Time Series Forecasting**,
   Zexue Wu, Yifeng Gong, Aoqian Zhang
   [[Paper](https://arxiv.org/abs/2405.07022)] 
