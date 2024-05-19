@@ -13,11 +13,12 @@ Paper list for State-Space-Model and its Applications
   [[Xiao Wang](https://wangxiao5791509.github.io/)], Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong, Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bo Jiang, Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang, 2024 
   [[PDF](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_AHU_survey_v1.pdf)] 
   [[arXiv](https://arxiv.org/abs/2404.09516)]
-
+  [[Slides](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_Slides_2024.05.19.pdf)] 
 
 
 
 ## :collision: Update Log 
+* [2024.05.19] [[SSM_Slides_2024.05.19.pdf](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_Slides_2024.05.19.pdf)]
 * [2024.04.15] We release the first version of the survey on state space model [[**arXiv**](https://arxiv.org/abs/2404.09516)] 
 
 
