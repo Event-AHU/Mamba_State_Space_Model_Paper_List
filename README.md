@@ -61,6 +61,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2405.10530] **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**,
+  Mushui Liu, Jun Dan, Ziqian Lu, Yunlong Yu, Yingming Li, Xi Li
+  [[Paper](https://arxiv.org/abs/2405.10530)]
+  [[Code](https://github.com/XiaoBuL/CM-UNet)] 
+
 * **RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing**, 
   Huiling Zhou, Xianhao Wu, Hongming Chen, Xiang Chen, Xin He
   [[Paper](https://arxiv.org/abs/2405.10030)] 
