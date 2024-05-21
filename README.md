@@ -61,6 +61,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2405.12003] **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**,
+  Weilian Zhou, Sei-Ichiro Kamata, Haipeng Wang, Man-Sing Wong, Huiying (Cynthia)Hou
+  [[Paper](https://arxiv.org/abs/2405.12003)] 
+
 * [arXiv:2405.10530] **CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation**,
   Mushui Liu, Jun Dan, Ziqian Lu, Yunlong Yu, Yingming Li, Xi Li
   [[Paper](https://arxiv.org/abs/2405.10530)]
