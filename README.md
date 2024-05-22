@@ -60,6 +60,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2405.11449] **NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba**, 
+  Tongze Wang, Xiaohui Xie, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui
+  [[Paper](https://arxiv.org/abs/2405.11449)] 
+
+* [arXiv:2405.12094] **Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?** Yang Dai, Oubo Ma, Longfei Zhang, Xingxing Liang, Shengchao Hu, Mengzhu Wang, Shouling Ji, Jincai Huang, Li Shen
+  [[Paper](https://arxiv.org/abs/2405.12094)] 
+
 * [arXiv:2405.12487] **3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**, 
   Yan He, Bing Tu, Bo Liu, Jun Li, Antonio Plaza 
   [[Paper](https://arxiv.org/abs/2405.12487)]
