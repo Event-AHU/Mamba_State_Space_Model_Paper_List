@@ -60,6 +60,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2405.11831] **SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**,
+  Siavash Shams, Sukru Samet Dindar, Xilin Jiang, Nima Mesgarani
+  [[Paper](https://arxiv.org/abs/2405.11831)]
+  [[Code](https://github.com/SiavashShams/ssamba)] 
 
 * [arXiv:2405.12003] **Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification**,
   Weilian Zhou, Sei-Ichiro Kamata, Haipeng Wang, Man-Sing Wong, Huiying (Cynthia)Hou
