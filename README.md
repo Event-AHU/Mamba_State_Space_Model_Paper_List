@@ -60,6 +60,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2405.12487] **3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification**, 
+  Yan He, Bing Tu, Bo Liu, Jun Li, Antonio Plaza 
+  [[Paper](https://arxiv.org/abs/2405.12487)]
+  
 * [arXiv:2405.11831] **SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model**,
   Siavash Shams, Sukru Samet Dindar, Xilin Jiang, Nima Mesgarani
   [[Paper](https://arxiv.org/abs/2405.11831)]
