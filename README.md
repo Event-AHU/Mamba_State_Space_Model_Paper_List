@@ -61,6 +61,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2405.11263] **MAMCA - Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length**, 
+  Yezhuo Zhang, Zinan Zhou, Yichao Cao, Guangyu Li and Xuanpeng Li 
+  [[Paper](https://arxiv.org/pdf/2405.11263v1)]
+  [[Code](https://github.com/ZhangYezhuo/MAMCA)]
+
+* [arXiv:2405.12609] **Mamba in Speech: Towards an Alternative to Self-Attention**, Xiangyu Zhang, Qiquan Zhang, Hexin Liu, Tianyi Xiao, Xinyuan Qian, Beena Ahmed, Eliathamby Ambikairajah, Haizhou Li, Julien Epps
+  [[Paper](https://arxiv.org/abs/2405.12609)] 
+
 * [arXiv:2405.11449] **NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba**, 
   Tongze Wang, Xiaohui Xie, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui
   [[Paper](https://arxiv.org/abs/2405.11449)] 
