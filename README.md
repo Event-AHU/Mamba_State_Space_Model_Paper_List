@@ -19,11 +19,14 @@ Paper list for State-Space-Model and its Applications
 
 ## :collision: Update Log 
 * [2024.05.19] [[SSM_Slides_2024.05.19.pdf](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_Slides_2024.05.19.pdf)]
-* [2024.04.15] We release the first version of the survey on state space model [[**arXiv**](https://arxiv.org/abs/2404.09516)]
 
 <p align="center">
-<img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/figures/SSM_Slides_Screenshot.png" width="400">
+<img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/figures/SSM_Slides_Screenshot.png" width="600">
 </p>
+  
+* [2024.04.15] We release the first version of the survey on state space model [[**arXiv**](https://arxiv.org/abs/2404.09516)]
+
+
 
 
 
