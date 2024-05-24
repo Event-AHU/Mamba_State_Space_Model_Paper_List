@@ -68,6 +68,17 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2405.14022] **I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**, Omer F. Atli, Bilal Kabas, Fuat Arslan, Mahmut Yurt, Onat Dalmaz, Tolga Çukur
+  [[Paper](https://arxiv.org/abs/2405.14022)] 
+
+* [arXiv:2405.14858] **Mamba-R: Vision Mamba ALSO Needs Registers**,
+  Feng Wang, Jiahao Wang, Sucheng Ren, Guoyizhe Wei, Jieru Mei, Wei Shao, Yuyin Zhou, Alan Yuille, Cihang Xie
+  [[Paper](https://arxiv.org/abs/2405.14858)] 
+
+* [arXiv:2405.14480] **Scalable Visual State Space Model with Fractal Scanning**, Lv Tang, HaoKe Xiao, Peng-Tao Jiang, Hao Zhang, Jinwei Chen, Bo Li
+  [[Paper](https://arxiv.org/abs/2405.14480)] 
+
 * [arXiv:2405.14343] **Efficient Visual State Space Model for Image Deblurring**, Lingshun Kong, Jiangxin Dong, Ming-Hsuan Yang, Jinshan Pan
   [[Paper](https://arxiv.org/abs/2405.14343)] 
 
