@@ -68,6 +68,15 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2405.14343] **Efficient Visual State Space Model for Image Deblurring**, Lingshun Kong, Jiangxin Dong, Ming-Hsuan Yang, Jinshan Pan
+  [[Paper](https://arxiv.org/abs/2405.14343)] 
+
+* [arXiv:2405.14338] **MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models**,
+  Jiuming Liu, Jinru Han, Lihao Liu, Angelica I. Aviles-Rivero, Chaokang Jiang, Zhe Liu, Hesheng Wang
+  [[Paper](https://arxiv.org/abs/2405.14338)] 
+
+* [arXiv:2405.14224] **DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis**, Yao Teng, Yue Wu, Han Shi, Xuefei Ning, Guohao Dai, Yu Wang, Zhenguo Li, Xihui Liu
+  [[Paper](https://arxiv.org/abs/2405.14224)] 
 
 * [arXiv:2405.14174] **Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**, Yuheng Shi, Minjing Dong, Chang Xu
   [[Paper](https://arxiv.org/abs/2405.14174)]
