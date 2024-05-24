@@ -56,7 +56,7 @@ Paper list for State-Space-Model and its Applications
 
 * **Vision Mamba: A Comprehensive Survey and Taxonomy**, arXiv:2405.03978, 
   Xiao Liu, Chenxu Zhang, Lei Zhang
-  [[Paper](https://arxiv.org/abs/2405.03978)]
+  [[Paper](https://arxiv.org/abs/2405.04404)]
   [[Github](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] 
 
 
