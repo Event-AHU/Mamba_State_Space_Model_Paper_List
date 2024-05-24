@@ -69,6 +69,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2405.14174] **Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model**, Yuheng Shi, Minjing Dong, Chang Xu
+  [[Paper](https://arxiv.org/abs/2405.14174)]
+  [[Code](https://github.com/YuHengsss/MSVMamba)] 
+
 * [arXiv:2405.11263] **MAMCA - Optimal on Accuracy and Efficiency for Automatic Modulation Classification with Extended Signal Length**, 
   Yezhuo Zhang, Zinan Zhou, Yichao Cao, Guangyu Li and Xuanpeng Li 
   [[Paper](https://arxiv.org/pdf/2405.11263v1)]
