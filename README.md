@@ -68,7 +68,7 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* [arXiv:2405.15574] Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models,
+* [arXiv:2405.15574] **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**,
   Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro
   [[Paper](https://arxiv.org/abs/2405.15574)] 
   [[Code](https://github.com/ByungKwanLee/Meteor)] 
