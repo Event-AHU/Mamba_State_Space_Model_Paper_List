@@ -1094,6 +1094,10 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 
 ## Related Models
 
+* [arXiv:2405.15214] **PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning**,
+  Qingdong He, Jiangning Zhang, Jinlong Peng, Haoyang He, Yabiao Wang, Chengjie Wang
+  [[Paper](https://arxiv.org/abs/2405.15214)]
+  [[Code](https://hithqd.github.io/projects/PointRWKV/)] 
 
 * **Diffusion-RWKV: Scaling RWKV-Like Architectures for Diffusion Models**,
   Zhengcong Fei, Mingyuan Fan, Changqian Yu, Debang Li, Junshi Huang
