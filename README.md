@@ -68,6 +68,15 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2405.15574] Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models,
+  Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro
+  [[Paper](https://arxiv.org/abs/2405.15574)] 
+  [[Code](https://github.com/ByungKwanLee/Meteor)] 
+  
+* [arXiv:2405.15463] **PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis**,
+  Zicheng Wang, Zhenghao Chen, Yiming Wu, Zhen Zhao, Luping Zhou, Dong Xu
+  [[Paper](https://arxiv.org/abs/2405.15463)]
+  [[Code](https://github.com/xiaoyao3302/PoinTramba)] 
 
 * [arXiv:2405.14022] **I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling**, Omer F. Atli, Bilal Kabas, Fuat Arslan, Mahmut Yurt, Onat Dalmaz, Tolga Çukur
   [[Paper](https://arxiv.org/abs/2405.14022)] 
