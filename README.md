@@ -68,6 +68,31 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+
+* [arXiv:2405.16470] **Image Deraining with Frequency-Enhanced State Space Model**,
+  Shugo Yamashita, Masaaki Ikehara
+  [[Paper](https://arxiv.org/abs/2405.16470)]
+
+* [arXiv:2405.16605] **Demystify Mamba in Vision: A Linear Attention Perspective**,
+  Dongchen Han, Ziyi Wang, Zhuofan Xia, Yizeng Han, Yifan Pu, Chunjiang Ge, Jun Song, Shiji Song, Bo Zheng, Gao Huang
+  [[Paper](https://arxiv.org/abs/2405.16605)] 
+  [[Code](https://github.com/LeapLabTHU/MLLA)]
+
+* [arXiv:2405.16105] **MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space**,
+  Jiangwei Weng, Zhiqiang Yan, Ying Tai, Jianjun Qian, Jian Yang, Jun Li
+  [[Paper](https://arxiv.org/abs/2405.16105)]
+  [[Code](https://mamballie.github.io/anon/)] 
+
+* [arXiv:2405.15881] **Scaling Diffusion Mamba with Bidirectional SSMs for Efficient Image and Video Generation**,
+  Shentong Mo, Yapeng Tian
+  [[Paper](https://arxiv.org/abs/2405.15881)] 
+
+* [arXiv:2405.15925] **MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation**,
+  Chunyu Yuan, Dongfang Zhao, Sos S. Agaian
+  [[Paper](https://arxiv.org/abs/2405.15925)]
+  [[Code](https://github.com/chunyuyuan/MUCM-Net)] 
+
 * [arXiv:2405.15574] **Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models**,
   Byung-Kwan Lee, Chae Won Kim, Beomchan Park, Yong Man Ro
   [[Paper](https://arxiv.org/abs/2405.15574)] 
