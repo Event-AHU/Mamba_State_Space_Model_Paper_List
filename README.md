@@ -68,7 +68,9 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-
+* [arXiv:2405.17659] **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**, 
+  Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
+  [[Paper](https://arxiv.org/abs/2405.17659)] 
 
 * [arXiv:2405.16470] **Image Deraining with Frequency-Enhanced State Space Model**,
   Shugo Yamashita, Masaaki Ikehara
