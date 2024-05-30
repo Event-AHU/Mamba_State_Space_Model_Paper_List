@@ -70,6 +70,12 @@ Paper list for State-Space-Model and its Applications
 
 
 
+* **Deep Latent Variable Modeling of Physiological Signals**, Khuong Vo
+  [[Paper](https://arxiv.org/abs/2405.19277)]
+
+* **Deep Bayesian Filter for Bayes-faithful Data Assimilation**, Yuta Tarumi, Keisuke Fukuda, Shin-ichi Maeda
+  [[Paper](https://arxiv.org/abs/2405.18674)] 
+
 * **The Expressive Capacity of State Space Models: A Formal Language Perspective**,
   Yash Sarrof, Yana Veitsman, Michael Hahn
   [[Paper](https://arxiv.org/abs/2405.17394)]
