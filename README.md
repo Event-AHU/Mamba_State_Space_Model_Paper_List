@@ -69,6 +69,39 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+
+* 
+
+* **SSAMBA: SELF-SUPERVISED AUDIO REPRESENTATION LEARNING WITH MAMBA STATE SPACE MODEL**, Siavash Shams, Sukru Samet Dindar, Xilin Jiang, Nima Mesgarani
+  [[Paper](https://arxiv.org/pdf/2405.11831)]
+  [[Code](https://github.com/SiavashShams/ssamba)] 
+
+* **Next-slot OFDM-CSI Prediction: Multi-head Self-attention or State Space Model?** Mohamed Akrout, Faouzi Bellili, Amine Mezghani, Robert W. Heath
+  [[Paper](https://arxiv.org/abs/2405.11072)]
+  [[Code](https://github.com/makrout/Next-Slot-OFDM-CSI-Prediction)] 
+
+* **Physics-Guided State-Space Model Augmentation Using Weighted Regularized Neural Networks**,
+  Yuhan Liu, Roland Tóth, Maarten Schoukens
+  [[Paper](https://arxiv.org/abs/2405.10429)] 
+
+* **IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model**;
+  Yongsong Huang, Tomo Miyazaki, Xiaofeng Liu, Shinichiro Omachi
+  [[arXiv](https://arxiv.org/pdf/2405.09873)]
+  [[Code](https://github.com/yongsongH/IRSRMamba)] 
+
+* [arXiv:2405.06147] **State-Free Inference of State-Space Models: The Transfer Function Approach**,
+  Rom N. Parnichkun, Stefano Massaroli, Alessandro Moro, Jimmy T.H. Smith, Ramin Hasani, Mathias Lechner, Qi An, Christopher Ré, Hajime Asama, Stefano Ermon, Taiji Suzuki, Atsushi Yamashita, Michael Poli
+  [[Paper](https://arxiv.org/abs/2405.06147)]
+  [[Code](https://github.com/ruke1ire/RTF)] 
+
+* [arXiv:2405.17951] **Efficient Time Series Processing for Transformers and State-Space Models through Token Merging**,
+  Leon Götz, Marcel Kollovieh, Stephan Günnemann, Leo Schwinn
+  [[Paper](https://arxiv.org/abs/2405.17951)] 
+
+* [arXiv:2405.19036] **State Space Models are Comparable to Transformers in Estimating Functions with Dynamic Smoothness**, 
+  Naoki Nishikawa, Taiji Suzuki
+  [[Paper](https://arxiv.org/abs/2405.19036)]
+
 * [arXiv:2405.18679] **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**,
   Juntao Zhang, Kun Bian, Peng Cheng, Wenbo An, Jianning Liu, Jun Zhou
   [[Paper](https://arxiv.org/abs/2405.18679)]
