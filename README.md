@@ -68,6 +68,21 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2405.18679] **Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain**,
+  Juntao Zhang, Kun Bian, Peng Cheng, Wenbo An, Jianning Liu, Jun Zhou
+  [[Paper](https://arxiv.org/abs/2405.18679)]
+  [[Code](https://github.com/yws-wxs/Vim-F)] 
+
+* [arXiv:2405.18533] **Cardiovascular Disease Detection from Multi-View Chest X-rays with BI-Mamba**,
+  Zefan Yang, Jiajin Zhang, Ge Wang, Mannudeep K. Kalra, Pingkun Yan
+  [[Paper](https://arxiv.org/abs/2405.18533)]
+  [[Code](https://github.com/RPIDIAL/BI-Mamba)] 
+
+* [arXiv:2405.18014] **Coupled Mamba: Enhanced Multi-modal Fusion with Coupled State Space Model**,
+  Wenbing Li, Hang Zhou, Junqing Yu, Zikai Song, Wei Yang
+  [[Paper](https://arxiv.org/abs/2405.18014)] 
+
 * [arXiv:2405.17659] **Enhancing Global Sensitivity and Uncertainty Quantification in Medical Image Reconstruction with Monte Carlo Arbitrary-Masked Mamba**, 
   Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Weiwen Wu, Chengyan Wang, Kuangyu Shi, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang
   [[Paper](https://arxiv.org/abs/2405.17659)] 
