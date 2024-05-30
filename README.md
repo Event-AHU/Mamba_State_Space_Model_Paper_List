@@ -70,7 +70,44 @@ Paper list for State-Space-Model and its Applications
 
 
 
-* 
+* **The Expressive Capacity of State Space Models: A Formal Language Perspective**,
+  Yash Sarrof, Yana Veitsman, Michael Hahn
+  [[Paper](https://arxiv.org/abs/2405.17394)]
+
+* **SMR: State Memory Replay for Long Sequence Modeling**,
+  Biqing Qi, Junqi Gao, Kaiyan Zhang, Dong Li, Jianxing Liu, Ligang Wu, Bowen Zhou
+  [[Paper](https://arxiv.org/abs/2405.17534)]
+
+* **Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective**,
+  Zhen Qin, Xuyang Shen, Dong Li, Weigao Sun, Stan Birchfield, Richard Hartley, Yiran Zhong
+  [[Paper](https://arxiv.org/abs/2405.17383)] 
+
+* **Mamba4KT:An Efficient and Effective Mamba-based Knowledge Tracing Model**, Yang Cao, Wei Zhang
+  [[Paper](https://arxiv.org/abs/2405.16542)]
+
+* **MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting**, Xiuding Cai, Yaoyao Zhu, Xueyao Wang, Yu Yao
+  [[Paper](https://arxiv.org/abs/2405.16440)] 
+
+* **Time-SSM: Simplifying and Unifying State Space Models for Time Series Forecasting**, Jiaxi Hu, Disen Lan, Ziyu Zhou, Qingsong Wen, Yuxuan Liang
+  [[Paper](https://arxiv.org/abs/2405.16312)] 
+
+* **Understanding the differences in Foundation Models: Attention, State Space Models, and Recurrent Neural Networks**,
+  Jerome Sieber, Carmen Amo Alonso, Alexandre Didier, Melanie N. Zeilinger, Antonio Orvieto
+  [[Paper](https://arxiv.org/abs/2405.15731)] 
+
+* **MambaVC: Learned Visual Compression with Selective State Spaces**,
+  Shiyu Qin, Jinpeng Wang, Yimin Zhou, Bin Chen, Tianci Luo, Baoyi An, Tao Dai, Shutao Xia, Yaowei Wang
+  [[Paper](https://arxiv.org/abs/2405.15413)]
+  [[Code](https://github.com/QinSY123/2024-MambaVC)] 
+
+* **There is HOPE to Avoid HiPPOs for Long-memory State Space Models**, Annan Yu, Michael W. Mahoney, N. Benjamin Erichson
+  [[Paper](https://arxiv.org/abs/2405.13975)]
+
+* **HeteGraph-Mamba: Heterogeneous Graph Learning via Selective State Space Model**, Zhenyu Pan, Yoonsung Jeong, Xiaoda Liu, Han Liu
+  [[Paper](https://arxiv.org/abs/2405.13915)]
+
+* **Audio Mamba: Pretrained Audio State Space Model For Audio Tagging**, Jiaju Lin, Haoxuan Hu
+  [[Paper](https://arxiv.org/abs/2405.13636)] 
 
 * **SSAMBA: SELF-SUPERVISED AUDIO REPRESENTATION LEARNING WITH MAMBA STATE SPACE MODEL**, Siavash Shams, Sukru Samet Dindar, Xilin Jiang, Nima Mesgarani
   [[Paper](https://arxiv.org/pdf/2405.11831)]
