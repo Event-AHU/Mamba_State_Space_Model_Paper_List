@@ -70,6 +70,24 @@ Paper list for State-Space-Model and its Applications
 
 
 
+
+* **Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection**,
+  Junqi Chen, Xu Tan, Sylwan Rahardja, Jiawei Yang, Susanto Rahardja
+  [[Paper](https://arxiv.org/abs/2405.19823)] 
+
+* **MSSC-BiMamba: Multimodal Sleep Stage Classification and Early Diagnosis of Sleep Disorders with Bidirectional Mamba**,
+  Chao Zhanga, Weirong Cuia, Jingjing Guo
+  [[Paper](https://arxiv.org/abs/2405.20142)]   
+
+* **DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark**,
+  Haoxing Chen, Yan Hong, Zizheng Huang, Zhuoer Xu, Zhangxuan Gu, Yaohui Li, Jun Lan, Huijia Zhu, Jianfu Zhang, Weiqiang Wang, Huaxiong Li
+  [[Paper](https://arxiv.org/abs/2405.19707)]
+  [[Code](https://github.com/chenhaoxing/DeMamba)]
+
+* **FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining**,
+  Dong Li, Yidi Liu, Xueyang Fu, Senyan Xu, Zheng-Jun Zha
+  [[Paper](https://arxiv.org/abs/2405.19450)]
+
 * **Deep Latent Variable Modeling of Physiological Signals**, Khuong Vo
   [[Paper](https://arxiv.org/abs/2405.19277)]
 
