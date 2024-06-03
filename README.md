@@ -1230,6 +1230,10 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 
 ## Related Models
 
+* [arXiv:2405.21022] **You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**, Zhen Qin, Yuxin Mao, Xuyang Shen, Dong Li, Jing Zhang, Yuchao Dai, Yiran Zhong
+  [[Paper](https://arxiv.org/abs/2405.21022)]
+  [[Code](https://github.com/OpenNLPLab/LightNet)] 
+
 * [arXiv:2405.15214] **PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning**,
   Qingdong He, Jiangning Zhang, Jinlong Peng, Haoyang He, Yabiao Wang, Chengjie Wang
   [[Paper](https://arxiv.org/abs/2405.15214)]
@@ -1265,6 +1269,8 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
   [[Paper](https://arxiv.org/abs/2305.13048)] 
 
 
+
+
 ## Other Useful URLs
 * [[**awesome-ssm-ml**](https://github.com/AvivBick/awesome-ssm-ml)] 
 * [[**Awesome-Mamba-Papers**](https://github.com/yyyujintang/Awesome-Mamba-Papers)]
@@ -1279,7 +1285,8 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 * [[**Structured State Spaces: A Brief Survey of Related Models**](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-2)]
     by Albert Gu, Karan Goel, Khaled Saab, and Chris Ré
 * [**Video-Tutorial**] [[**Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math**](https://youtu.be/8Q_tqwpTpVU?si=cjQDNvHaY3aIjFPA)] by **Umar Jamil** [[Mamba_Slides.pdf](https://github.com/hkproj/mamba-notes/blob/main/Mamba_Slides.pdf)] 
-  
+
+
 
 
 ## :newspaper: Citation 
