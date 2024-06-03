@@ -68,8 +68,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* 
 
-
+* [arXiv:2405.20881] **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma, Hui Li, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu 
+  [[Paper](https://arxiv.org/abs/2405.20881)] 
 
 * **Joint Selective State Space Model and Detrending for Robust Time Series Anomaly Detection**,
   Junqi Chen, Xu Tan, Sylwan Rahardja, Jiawei Yang, Susanto Rahardja
