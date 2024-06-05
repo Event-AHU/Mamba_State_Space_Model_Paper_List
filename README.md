@@ -68,7 +68,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* 
+* [arXiv:2405.16712] **Zamba: A Compact 7B SSM Hybrid Model**, 
+  Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge
+  [[Paper](https://arxiv.org/abs/2405.16712)]
+  
 
 * [arXiv:2405.20881] **S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion**, Haolong Ma, Hui Li, Chunyang Cheng, Gaoang Wang, Xiaoning Song, Xiaojun Wu 
   [[Paper](https://arxiv.org/abs/2405.20881)] 
