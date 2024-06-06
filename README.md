@@ -68,6 +68,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2406.03430] **Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**, Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu
+  [[Paper](https://arxiv.org/abs/2406.03430)]
+  [[Github](https://github.com/xmindflow/Awesome_mamba)] 
+
 * [arXiv:2405.16712] **Zamba: A Compact 7B SSM Hybrid Model**, 
   Paolo Glorioso, Quentin Anthony, Yury Tokpanov, James Whittington, Jonathan Pilault, Adam Ibrahim, Beren Millidge
   [[Paper](https://arxiv.org/abs/2405.16712)]
