@@ -59,6 +59,9 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2405.04404)]
   [[Github](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)] 
 
+* **Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**, Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu, arXiv:2406.03430 
+  [[Paper](https://arxiv.org/abs/2406.03430)]
+  [[Github](https://github.com/xmindflow/Awesome_mamba)] 
 
 
 
