@@ -71,6 +71,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2406.05038] **Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**, Shentong Mo
+  [[Paper](https://arxiv.org/abs/2406.05038)] 
+
 * [arXiv:2406.03430] **Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**, Moein Heidari, Sina Ghorbani Kolahi, Sanaz Karimijafarbigloo, Bobby Azad, Afshin Bozorgpour, Soheila Hatami, Reza Azad, Ali Diba, Ulas Bagci, Dorit Merhof, Ilker Hacihaliloglu
   [[Paper](https://arxiv.org/abs/2406.03430)]
   [[Github](https://github.com/xmindflow/Awesome_mamba)] 
