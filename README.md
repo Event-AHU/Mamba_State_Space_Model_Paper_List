@@ -1264,6 +1264,11 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 
 ## Related Models
 
+
+* [arXiv:2406.06973] **RWKV-CLIP: A Robust Vision-Language Representation Learner**, Tiancheng Gu, Kaicheng Yang, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng
+  [[Paper](https://arxiv.org/abs/2406.06973)]
+  [[Code](https://github.com/deepglint/RWKV-CLIP)] 
+
 * [arXiv:2405.21022] **You Only Scan Once: Efficient Multi-dimension Sequential Modeling with LightNet**, Zhen Qin, Yuxin Mao, Xuyang Shen, Dong Li, Jing Zhang, Yuchao Dai, Yiran Zhong
   [[Paper](https://arxiv.org/abs/2405.21022)]
   [[Code](https://github.com/OpenNLPLab/LightNet)] 
