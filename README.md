@@ -72,6 +72,14 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2406.06367] **MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**,
+  Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
+  [[Paper](https://arxiv.org/abs/2406.06367)] 
+ 
+* [arXiv:2406.02395] **GrootVL: Tree Topology is All You Need in State Space Model**, Yicheng Xiao, Lin Song, Shaoli Huang, Jiangshan Wang, Siyu Song, Yixiao Ge, Xiu Li, Ying Shan
+  [[Paper](https://arxiv.org/abs/2406.02395)]
+  [[Code](https://github.com/EasonXiao-888/GrootVL)] 
+  
 * [arXiv:2406.05038] **Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs**, Shentong Mo
   [[Paper](https://arxiv.org/abs/2406.05038)] 
 
