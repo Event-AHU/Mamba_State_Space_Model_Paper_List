@@ -71,6 +71,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2406.07050] **DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification**,
+  Jiamu Sheng, Jingyi Zhou, Jiong Wang, Peng Ye, Jiayuan Fan
+  [[Paper](https://arxiv.org/abs/2406.07050)]  
+
+* [arXiv:2406.07537] **Autoregressive Pretraining with Mamba in Vision**, 
+  Sucheng Ren, Xianhang Li, Haoqin Tu, Feng Wang, Fangxun Shu, Lei Zhang, Jieru Mei, Linjie Yang, Peng Wang, Heng Wang, Alan Yuille, Cihang Xie
+  [[Paper](https://arxiv.org/abs/2406.07537)]
+  [[Code](https://github.com/OliverRensu/ARM)] 
 
 * [arXiv:2406.06367] **MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**,
   Xuanyu Yi, Zike Wu, Qiuhong Shen, Qingshan Xu, Pan Zhou, Joo-Hwee Lim, Shuicheng Yan, Xinchao Wang, Hanwang Zhang
