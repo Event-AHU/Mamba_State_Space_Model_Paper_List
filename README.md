@@ -71,6 +71,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2406.08444] **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**, Wei-Tung Lin, Yong-Xiang Lin, Jyun-Wei Chen, Kai-Lung Hua
+  [[Paper](https://arxiv.org/abs/2406.08444)]
+  [[Code](https://github.com/weitunglin/pixmamba)] 
+
 * [arXiv:2406.07050] **DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification**,
   Jiamu Sheng, Jingyi Zhou, Jiong Wang, Peng Ye, Jiayuan Fan
   [[Paper](https://arxiv.org/abs/2406.07050)]  
