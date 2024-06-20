@@ -75,6 +75,9 @@ Paper list for State-Space-Model and its Applications
 
 * 
 
+* [arXiv:2406.12463] **LFMamba: Light Field Image Super-Resolution with State Space Model**, Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou
+  [[Paper](https://arxiv.org/abs/2406.12463)] 
+
 * [arXiv:2406.05835] **Mamba YOLO: SSMs-Based YOLO For Object Detection**, Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu
   [[Paper](https://arxiv.org/abs/2406.05835)]
   [[Code](https://github.com/HZAI-ZJNU/Mamba-YOLO)] 
