@@ -71,6 +71,14 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+
+* 
+
+* [arXiv:2406.05835] **Mamba YOLO: SSMs-Based YOLO For Object Detection**, Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu
+  [[Paper](https://arxiv.org/abs/2406.05835)]
+  [[Code](https://github.com/HZAI-ZJNU/Mamba-YOLO)] 
+  
 * [arXiv:2406.08444] **PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement**, Wei-Tung Lin, Yong-Xiang Lin, Jyun-Wei Chen, Kai-Lung Hua
   [[Paper](https://arxiv.org/abs/2406.08444)]
   [[Code](https://github.com/weitunglin/pixmamba)] 
