@@ -73,7 +73,10 @@ Paper list for State-Space-Model and its Applications
 
 
 
-* 
+* [] 
+
+* [arXiv:2406.04320] **Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**, Ali Behrouz, Michele Santacatterina, Ramin Zabih
+  [[Paper](https://arxiv.org/abs/2406.04320)] 
 
 * [arXiv:2406.12463] **LFMamba: Light Field Image Super-Resolution with State Space Model**, Wang xia, Yao Lu, Shunzhou Wang, Ziqi Wang, Peiqi Xia, Tianfei Zhou
   [[Paper](https://arxiv.org/abs/2406.12463)] 
