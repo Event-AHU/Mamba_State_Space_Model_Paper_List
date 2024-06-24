@@ -73,7 +73,91 @@ Paper list for State-Space-Model and its Applications
 
 
 
-* [] 
+* [arXiv:2406.15131] **KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**, 
+  Philipp Becker, Niklas Freymuth, Gerhard Neumann
+  [[Paper](https://arxiv.org/abs/2406.15131)] 
+  
+* [arXiv:2406.14528] **DeciMamba: Exploring the Length Extrapolation Potential of Mamba**,
+  Assaf Ben-Kish, Itamar Zimerman, Shady Abu-Hussein, Nadav Cohen, Amir Globerson, Lior Wolf, Raja Giryes
+  [[Paper](https://arxiv.org/abs/2406.14528)] 
+  [[Code](https://github.com/assafbk/DeciMamba)]  
+
+* [arXiv:2406.12272] **Slot State Space Models**,  
+  Jindong Jiang, Fei Deng, Gautam Singh, Minseung Lee, Sungjin Ahn
+  [[Paper](https://arxiv.org/abs/2406.12272)] 
+
+* [arXiv:2406.11244, IJCAI24, Workshop] **SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces**, 
+  Jinhyeok Choi, Heehyeon Kim, Minhyeong An, Joyce Jiyoung Whang
+  [[Paper](https://arxiv.org/abs/2406.11244)] 
+
+* [arXiv:2406.10828] **PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery**, 
+  Libo Wang, Dongxu Li, Sijun Dong, Xiaoliang Meng, Xiaokang Zhang, Danfeng Hong
+  [[Paper](https://arxiv.org/abs/2406.10828)]
+  [[Code](https://github.com/WangLibo1995/GeoSeg)] 
+
+* [arXiv:2406.10700] **Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection**, 
+  Guowen Zhang, Lue Fan, Chenhang He, Zhen Lei, Zhaoxiang Zhang, Lei Zhang
+  [[Paper](https://arxiv.org/abs/2406.10700)]
+  [[Code](https://github.com/gwenzhang/Voxel-Mamba)] 
+
+* [arXiv:2406.10098] **ECGMamba: Towards Efficient ECG Classification with BiSSM**, 
+  Yupeng Qiang, Xunde Dong, Xiuling Liu, Yang Yang, Yihai Fang, Jianhong Dou
+  [[Paper](https://arxiv.org/abs/2406.10098)]  
+
+* [arXiv:2406.09546] **Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment**, 
+  Fengbin Guan, Xin Li, Zihao Yu, Yiting Lu, Zhibo Chen
+  [[Paper](https://arxiv.org/abs/2406.09546)] 
+
+* [arXiv:2406.08423] **State Soup: In-Context Skill Learning, Retrieval and Mixing**, 
+  Maciej Pióro, Maciej Wołczyk, Razvan Pascanu, Johannes von Oswald, João Sacramento
+  [[Paper](https://arxiv.org/abs/2406.08423)] 
+
+* [arXiv:2406.08234] **MaIL: Improving Imitation Learning with Mamba**, 
+  Xiaogang Jia, Qian Wang, Atalay Donat, Bowen Xing, Ge Li, Hongyi Zhou, Onur Celik, Denis Blessing, Rudolf Lioutikov, Gerhard Neumann
+  [[Paper](https://arxiv.org/abs/2406.08234)] 
+
+* [arXiv:2406.07887] **An Empirical Study of Mamba-based Language Models**, Roger Waleffe, Wonmin Byeon, Duncan Riach, Brandon Norick, Vijay Korthikanti, Tri Dao, Albert Gu, Ali Hatamizadeh, Sudhakar Singh, Deepak Narayanan, Garvit Kulshreshtha, Vartika Singh, Jared Casper, Jan Kautz, Mohammad Shoeybi, Bryan Catanzaro
+  [[Paper](https://arxiv.org/abs/2406.07887)]
+  [[Code](https://github.com/NVIDIA/Megatron-LM)] 
+
+* [arXiv:2406.07592] **MambaLRP: Explaining Selective State Space Sequence Models**, 
+  Farnoush Rezaei Jafari, Grégoire Montavon, Klaus-Robert Müller, Oliver Eberle
+  [[Paper](https://arxiv.org/abs/2406.07592)] 
+
+* [arXiv:2406.07537] **Autoregressive Pretraining with Mamba in Vision**,  
+  Sucheng Ren, Xianhang Li, Haoqin Tu, Feng Wang, Fangxun Shu, Lei Zhang, Jieru Mei, Linjie Yang, Peng Wang, Heng Wang, Alan Yuille, Cihang Xie
+  [[Paper](https://arxiv.org/abs/2406.07537)]
+  [[Code](https://github.com/OliverRensu/ARM)] 
+
+* [arXiv:2406.07522] **Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling**,
+  Liliang Ren, Yang Liu, Yadong Lu, Yelong Shen, Chen Liang, Weizhu Chen
+  [[Paper](https://arxiv.org/abs/2406.07522)]
+  [[Code](https://github.com/microsoft/Samba)] 
+
+* [arXiv:2406.06086] **RawBMamba: End-to-End Bidirectional State Space Model for Audio Deepfake Detection**,
+  Yujie Chen, Jiangyan Yi, Jun Xue, Chenglong Wang, Xiaohui Zhang, Shunbo Dong, Siding Zeng, Jianhua Tao, Lv Zhao, Cunhang Fan
+  [[Paper](https://arxiv.org/abs/2406.06086)] 
+
+* [arXiv:2406.06069] **PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis**,
+  Jia-wei Chen, Yu-jie Xiong, Yong-bin Gao
+  [[Paper](https://arxiv.org/abs/2406.06069)]
+
+* [arXiv:2406.05992] **MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba**, Zhongping Ji
+  [[Paper](https://arxiv.org/abs/2406.05992)] 
+  [[Code](https://github.com/PixDeep/MHS-VM)] 
+
+* **Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans**, 
+  Muthukumar K A, Amit Gurung, Priya Ranjan
+  [[Paper](https://arxiv.org/abs/2406.05757)] 
+
+* [arXiv:2406.04377] **Combining Graph Neural Network and Mamba to Capture Local and Global Tissue Spatial Relationships in Whole Slide Images**,
+  Ruiwen Ding, Kha-Dinh Luong, Erika Rodriguez, Ana Cristina Araujo Lemos da Silva, William Hsu
+  [[Paper](https://arxiv.org/abs/2406.04377)]
+  [[Code](https://github.com/rina-ding/gat-mamba)] 
+
+* [arXiv:2406.04339] **RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**, Jiaming Liu, Mengzhen Liu, Zhenyu Wang, Lily Lee, Kaichen Zhou, Pengju An, Senqiao Yang, Renrui Zhang, Yandong Guo, Shanghang Zhang
+  [[Paper](https://arxiv.org/abs/2406.04339)]
+  [[Code](https://github.com/lmzpai/roboMamba)] 
 
 * [arXiv:2406.04320] **Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models**, Ali Behrouz, Michele Santacatterina, Ramin Zabih
   [[Paper](https://arxiv.org/abs/2406.04320)] 
