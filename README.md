@@ -71,8 +71,6 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-
-
 * [arXiv:2406.17442] **Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**,
   Zhuoyuan Li, Yubo Ai, Jiahao Lu, ChuXin Wang, Jiacheng Deng, Hanzhi Chang, Yanzhe Liang, Wenfei Yang, Shifeng Zhang, Tianzhu Zhang
   [[Paper](https://arxiv.org/abs/2406.17442)]  
@@ -86,8 +84,7 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2406.14528)] 
   [[Code](https://github.com/assafbk/DeciMamba)]  
 
-* [arXiv:2406.12272] **Slot State Space Models**,  
-  Jindong Jiang, Fei Deng, Gautam Singh, Minseung Lee, Sungjin Ahn
+* [arXiv:2406.12272] **Slot State Space Models**,  Jindong Jiang, Fei Deng, Gautam Singh, Minseung Lee, Sungjin Ahn
   [[Paper](https://arxiv.org/abs/2406.12272)] 
 
 * [arXiv:2406.11244, IJCAI24, Workshop] **SpoT-Mamba: Learning Long-Range Dependency on Spatio-Temporal Graphs with Selective State Spaces**, 
