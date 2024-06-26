@@ -1368,6 +1368,10 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 ## Related Models
 
 
+* [arXiv:2406.13362] **VisualRWKV: Exploring Recurrent Neural Networks for Visual Language Models**, Haowen Hou, Peigen Zeng, Fei Ma, Fei Richard Yu
+  [[Paper](https://arxiv.org/abs/2406.13362)]
+  [[Code](https://github.com/howard-hou/VisualRWKV)] 
+
 * [arXiv:2406.06973] **RWKV-CLIP: A Robust Vision-Language Representation Learner**, Tiancheng Gu, Kaicheng Yang, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai, Jiankang Deng
   [[Paper](https://arxiv.org/abs/2406.06973)]
   [[Code](https://github.com/deepglint/RWKV-CLIP)] 
