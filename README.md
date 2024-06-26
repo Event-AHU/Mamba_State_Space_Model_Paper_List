@@ -73,6 +73,10 @@ Paper list for State-Space-Model and its Applications
 
 
 
+* [arXiv:2406.17442] **Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**,
+  Zhuoyuan Li, Yubo Ai, Jiahao Lu, ChuXin Wang, Jiacheng Deng, Hanzhi Chang, Yanzhe Liang, Wenfei Yang, Shifeng Zhang, Tianzhu Zhang
+  [[Paper](https://arxiv.org/abs/2406.17442)]  
+
 * [arXiv:2406.15131] **KalMamba: Towards Efficient Probabilistic State Space Models for RL under Uncertainty**, 
   Philipp Becker, Niklas Freymuth, Gerhard Neumann
   [[Paper](https://arxiv.org/abs/2406.15131)] 
