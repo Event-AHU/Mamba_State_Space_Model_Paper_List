@@ -71,6 +71,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2406.19369] **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**, Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy
+  [[Paper](https://arxiv.org/abs/2406.19369)]
+  [[Code](https://github.com/HarborYuan/ovsam)] 
+ 
 * [arXiv:2406.19006] **VideoMambaPro: A Leap Forward for Mamba in Video Understanding**, Hui Lu, Albert Ali Salah, Ronald Poppe
   [[Paper](https://arxiv.org/abs/2406.19006)]
   [[Code](https://github.com/hotfinda/VideoMambaPro)] 
