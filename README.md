@@ -71,6 +71,13 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2406.19006] **VideoMambaPro: A Leap Forward for Mamba in Video Understanding**, Hui Lu, Albert Ali Salah, Ronald Poppe
+  [[Paper](https://arxiv.org/abs/2406.19006)]
+  [[Code](https://github.com/hotfinda/VideoMambaPro)] 
+
+* [arXiv:2406.18950] **MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion**, Jing Zou, Lanqing Liu, Qi Chen, Shujun Wang, Xiaohan Xing, Jing Qin
+  [[Paper](https://arxiv.org/abs/2406.18950)] 
+
 * [arXiv:2406.17815] **SUM: Saliency Unification through Mamba for Visual Attention Modeling**, 
   Alireza Hosseini, Amirhossein Kazerouni, Saeed Akhavan, Michael Brudno, Babak Taati
   [[Paper](https://arxiv.org/abs/2406.17815)] 
