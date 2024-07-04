@@ -918,7 +918,7 @@ Zhiqi Shao, Xusheng Yao, Ze Wang, Junbin Gao
 * [2024_092]**ProMamba: Prompt-Mamba for polyp segmentation**, Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo
   [[Paper](https://arxiv.org/abs/2403.13660)]
 
-* [2024_091]**ZigMa: Zigzag Mamba Diffusion Model**, Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer
+* [2024_091]**ZigMa: Zigzag Mamba Diffusion Model (ECCV 2024)**, Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer
   [[Paper](https://arxiv.org/abs/2403.13802)]
   [[Code](https://taohu.me/zigma/)] 
 
