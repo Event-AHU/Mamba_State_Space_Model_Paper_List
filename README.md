@@ -72,6 +72,18 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2407.02315] **VFIMamba: Video Frame Interpolation with State Space Models**, Guozhen Zhang, Chunxu Liu, Yutao Cui, Xiaotong Zhao, Kai Ma, Limin Wang
+  [[Paper](https://arxiv.org/abs/2407.02315)]
+  [[Code](https://github.com/MCG-NJU/VFIMamba)] 
+
+* [arXiv:2407.02228] **MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders**, Baijiong Lin, Weisen Jiang, Pengguang Chen, Yu Zhang, Shu Liu, Ying-Cong Chen
+  [[Paper](https://arxiv.org/abs/2407.02228)]
+  [[Code](https://github.com/EnVision-Research/MTMamba)] 
+
+* [arXiv:2407.02109] **HRSAM: Efficiently Segment Anything in High-Resolution Images**, You Huang, Wenbin Lai, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji
+  [[Paper](https://arxiv.org/abs/2407.02109)]
+  [[Code](https://github.com/YouHuang67/High-Resolution-Segment-Anything)] 
+
 * [arXiv:2406.19369] **Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**, Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy
   [[Paper](https://arxiv.org/abs/2406.19369)]
   [[Code](https://github.com/HarborYuan/ovsam)] 
