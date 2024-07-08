@@ -71,6 +71,8 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2407.03552] **Vision Mamba for Classification of Breast Ultrasound Images**, Ali Nasiri-Sarvi, Mahdi S. Hosseini, Hassan Rivaz
+  [[Paper](https://arxiv.org/abs/2407.03552)] 
 
 * [arXiv:2407.02315] **VFIMamba: Video Frame Interpolation with State Space Models**, Guozhen Zhang, Chunxu Liu, Yutao Cui, Xiaotong Zhao, Kai Ma, Limin Wang
   [[Paper](https://arxiv.org/abs/2407.02315)]
