@@ -71,6 +71,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2407.08083] **MambaVision: A Hybrid Mamba-Transformer Vision Backbone**, Ali Hatamizadeh, Jan Kautz
+  [[Paper](https://arxiv.org/abs/2407.08083)]
+  [[Code](https://github.com/NVlabs/MambaVision)] 
+
 * [arXiv:2407.03552] **Vision Mamba for Classification of Breast Ultrasound Images**, Ali Nasiri-Sarvi, Mahdi S. Hosseini, Hassan Rivaz
   [[Paper](https://arxiv.org/abs/2407.03552)] 
 
