@@ -72,6 +72,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [ECCV 2024] **VideoMamba: Spatio-Temporal Selective State Space Model**, Jinyoung Park, Hee-Seon Kim, Kangwook Ko, Minbeom Kim, Changick Kim
+  [[Paper](https://arxiv.org/abs/2407.08476)]
+  [[Code](http://github.com/jinyjelly/VideoMamba)] 
+
 * [arXiv:2407.08083] **MambaVision: A Hybrid Mamba-Transformer Vision Backbone**, Ali Hatamizadeh, Jan Kautz
   [[Paper](https://arxiv.org/abs/2407.08083)]
   [[Code](https://github.com/NVlabs/MambaVision)] 
