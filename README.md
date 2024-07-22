@@ -72,6 +72,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2407.13772] **GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**, Abdelrahman Shaker, Syed Talal Wasim, Salman Khan, Juergen Gall, Fahad Shahbaz Khan 
+  [[Paper](https://arxiv.org/abs/2407.13772)] 
+  
 * [arXiv:2407.13078] **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**, Sangyoun Lee, Juho Jung, Changdae Oh, Sunghee Yun
   [[Paper](https://arxiv.org/abs/2407.13078)]
   [[Code](https://github.com/lsy0882/RDFA-S6)] 
