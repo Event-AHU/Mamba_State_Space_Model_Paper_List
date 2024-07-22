@@ -72,6 +72,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2407.13078] **Enhancing Temporal Action Localization: Advanced S6 Modeling with Recurrent Mechanism**, Sangyoun Lee, Juho Jung, Changdae Oh, Sunghee Yun
+  [[Paper](https://arxiv.org/abs/2407.13078)]
+  [[Code](https://github.com/lsy0882/RDFA-S6)] 
+
 * [ECCV 2024] **VideoMamba: Spatio-Temporal Selective State Space Model**, Jinyoung Park, Hee-Seon Kim, Kangwook Ko, Minbeom Kim, Changick Kim
   [[Paper](https://arxiv.org/abs/2407.08476)]
   [[Code](http://github.com/jinyjelly/VideoMamba)] 
