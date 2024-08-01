@@ -72,6 +72,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2407.19832] **ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**, Wenjun Huang, Jianguo Hu
+  [[Paper](https://arxiv.org/abs/2407.19832)]
+  [[Code](https://github.com/WenjunHuang94/ML-Mamba)] 
+
 * [arXiv:2407.13772] **GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model**, Abdelrahman Shaker, Syed Talal Wasim, Salman Khan, Juergen Gall, Fahad Shahbaz Khan 
   [[Paper](https://arxiv.org/abs/2407.13772)]
   [[Code](https://github.com/Amshaker/GroupMamba)] 
