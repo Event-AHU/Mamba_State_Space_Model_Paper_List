@@ -71,6 +71,9 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2407.21773] **RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**,
+  Hongtao Wu, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, Lei Zhu
+  [[Paper](https://arxiv.org/abs/2407.21773)] 
 
 * **Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**,
   Wenzhe Tian, Haijin Zeng, Yin-Ping Zhao, Yongyong Chen, Zhen Wang, Xuelong Li
