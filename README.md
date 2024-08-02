@@ -72,6 +72,9 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**, Youjia Fu, Zihao Xu, Junsong Fu, Huixia Xue, Shuqiu Tan, Lei Li
+  [[Paper](https://arxiv.org/abs/2408.00438)] 
+
 * [arXiv:2407.19832] **ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2**, Wenjun Huang, Jianguo Hu
   [[Paper](https://arxiv.org/abs/2407.19832)]
   [[Code](https://github.com/WenjunHuang94/ML-Mamba)] 
