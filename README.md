@@ -71,7 +71,7 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
-* [arXiv:2407.21773] **RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**,
+* [arXiv:2407.21773] **RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**, ACM Multimedia 2024, 
   Hongtao Wu, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, Lei Zhu
   [[Paper](https://arxiv.org/abs/2407.21773)] 
 
