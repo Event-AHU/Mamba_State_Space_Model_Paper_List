@@ -72,6 +72,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **Empowering Snapshot Compressive Imaging: Spatial-Spectral State Space Model with Across-Scanning and Local Enhancement**,
+  Wenzhe Tian, Haijin Zeng, Yin-Ping Zhao, Yongyong Chen, Zhen Wang, Xuelong Li
+  [[Paper](https://arxiv.org/abs/2408.00629)] 
+
 * **MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection**, Youjia Fu, Zihao Xu, Junsong Fu, Huixia Xue, Shuqiu Tan, Lei Li
   [[Paper](https://arxiv.org/abs/2408.00438)] 
 
