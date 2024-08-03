@@ -71,6 +71,12 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2407.19274] **Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration**,
+  Bailiang Jian, Jiazhen Pan, Morteza Ghahremani, Daniel Rueckert, Christian Wachinger, Benedikt Wiestler
+  [[Paper](https://arxiv.org/abs/2407.19274)]
+  [[Code](https://github.com/BailiangJ/rethink-reg)]
+  
 * [arXiv:2407.21773] **RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining**, ACM Multimedia 2024, 
   Hongtao Wu, Yijun Yang, Huihui Xu, Weiming Wang, Jinni Zhou, Lei Zhu
   [[Paper](https://arxiv.org/abs/2407.21773)] 
