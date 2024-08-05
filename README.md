@@ -63,8 +63,8 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2406.03430)]
   [[Github](https://github.com/xmindflow/Awesome_mamba)] 
 
-
-
+* **A Survey of Mamba**, Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li
+  [[Paper](https://arxiv.org/abs/2408.01129)]
 
 
 
