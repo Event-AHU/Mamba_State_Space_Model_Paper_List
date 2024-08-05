@@ -66,7 +66,9 @@ Paper list for State-Space-Model and its Applications
 * **A Survey of Mamba**, Haohao Qu, Liangbo Ning, Rui An, Wenqi Fan, Tyler Derr, Xin Xu, Qing Li
   [[Paper](https://arxiv.org/abs/2408.01129)]
 
-
+* **Venturing into Uncharted Waters: The Navigation Compass from Transformer to Mamba**,
+  Yuchen Zou, Yineng Chen, Zuchao Li, Lefei Zhang, Hai Zhao
+  [[Paper](https://arxiv.org/abs/2406.16722)] 
 
 
 ## Year 2024 
