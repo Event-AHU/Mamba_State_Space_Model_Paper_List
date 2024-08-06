@@ -72,6 +72,11 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Year 2024 
+
+* [arXiv:2408.01077] **PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement**,
+  Zhixin Yan, Yan Zhong, Wenjun Zhang, Lin Shu, Hongbin Xu, Wenxiong Kang
+  [[Paper](https://arxiv.org/abs/2408.01077)]
+  
 * [arXiv:2408.01037] **MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**,
   Xiangbo Gao, Asiegbu Miracle Kanu-Asiegbu, Xiaoxiao Du 
   [[Paper](https://arxiv.org/abs/2408.01037)]
