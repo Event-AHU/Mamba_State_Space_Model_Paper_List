@@ -72,8 +72,11 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Year 2024 
-
-
+* [arXiv:2408.01037] **MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection**,
+  Xiangbo Gao, Asiegbu Miracle Kanu-Asiegbu, Xiaoxiao Du 
+  [[Paper](https://arxiv.org/abs/2408.01037)]
+  [[Code](https://github.com/XiangboGaoBarry/MambaST)] 
+  
 * [arXiv:2407.19274] **Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration**,
   Bailiang Jian, Jiazhen Pan, Morteza Ghahremani, Daniel Rueckert, Christian Wachinger, Benedikt Wiestler
   [[Paper](https://arxiv.org/abs/2407.19274)]
