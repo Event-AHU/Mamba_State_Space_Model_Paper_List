@@ -86,6 +86,10 @@ Paper list for State-Space-Model and its Applications
   Yunxiang Fu, Chaoqi Chen, Yizhou Yu
   [[Paper](https://arxiv.org/abs/2408.02615)] 
   
+* [arXiv:2408.02615] **LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**,
+  Yunxiang Fu, Chaoqi Chen, Yizhou Yu
+  [[Paper](https://arxiv.org/abs/2408.02615)] 
+  
 * [arXiv:2408.01627] **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model**,
   Farzaneh Jafari, Stefano Berretti, Anup Basu
   [[Paper](https://arxiv.org/abs/2408.01627)]
