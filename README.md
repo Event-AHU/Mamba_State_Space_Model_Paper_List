@@ -71,7 +71,19 @@ Paper list for State-Space-Model and its Applications
   [[Paper](https://arxiv.org/abs/2406.16722)] 
 
 
+
+
+
+
+
+
+
+
 ## Year 2024 
+
+* [arXiv:2408.01627] **JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model**,
+  Farzaneh Jafari, Stefano Berretti, Anup Basu
+  [[Paper](https://arxiv.org/abs/2408.01627)]
 
 * [arXiv:2408.01077] **PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement**,
   Zhixin Yan, Yan Zhong, Wenjun Zhang, Lin Shu, Hongbin Xu, Wenxiong Kang
