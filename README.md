@@ -81,6 +81,9 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2408.02922] **Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**,
+  Xinyi Zhang, Qiqi Bao, Qinpeng Cui, Wenming Yang, Qingmin Liao
+  [[Paper](https://arxiv.org/abs/2408.02922)] 
 
 * [arXiv:2408.02615] **LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba**,
   Yunxiang Fu, Chaoqi Chen, Yizhou Yu
