@@ -81,6 +81,10 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+* [arXiv:2408.03540] **PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**,
+  Yunlong Huang, Junshuo Liu, Ke Xian, Robert Caiming Qiu
+  [[Paper](https://arxiv.org/abs/2408.03540)] 
+
 * [arXiv:2408.02922] **Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**,
   Xinyi Zhang, Qiqi Bao, Qinpeng Cui, Wenming Yang, Qingmin Liao
   [[Paper](https://arxiv.org/abs/2408.02922)] 
