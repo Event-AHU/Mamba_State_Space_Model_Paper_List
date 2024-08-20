@@ -81,6 +81,16 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2024 
 
+
+* [arXiv:2408.09764] **Event Stream based Human Action Recognition: A High-Definition Benchmark Dataset and Algorithms**,
+  Xiao Wang, Shiao Wang, Pengpeng Shao, Bo Jiang, Lin Zhu, Yonghong Tian, arXiv Pre-print arXiv:2408.09764, 2024
+  [[Paper](https://github.com/Event-AHU/CeleX-HAR)]
+  
+* [arXiv:2408.09743] **R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation**,
+  Xiao Wang, Yuehang Li, Fuling Wang, Shiao Wang, Chuanfu Li, Bo Jiang, arXiv Pre-print arXiv:2408.09743, 2024
+  [[Paper](https://arxiv.org/abs/2408.09743)]
+  [[Code](https://github.com/Event-AHU/Medical_Image_Analysis)]
+
 * [arXiv:2408.03540] **PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**,
   Yunlong Huang, Junshuo Liu, Ke Xian, Robert Caiming Qiu
   [[Paper](https://arxiv.org/abs/2408.03540)] 
