@@ -82,6 +82,15 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2408.07889] **MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**,
+  Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu
+  [[Paper](https://arxiv.org/abs/2408.07889)]
+
+* [arXiv:2408.08070] **MambaMIM: Pre-training Mamba with State Space Token-interpolation**,
+  Fenghe Tang, Bingkun Nian, Yingtai Li, Jie Yang, Liu Wei, S. Kevin Zhou
+  [[Paper](https://arxiv.org/abs/2408.08070)]
+  [[Code](https://github.com/FengheTan9/MambaMIM)] 
+
 * [ACM MM 2024] **MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**,
   Changcheng Xiao, Qiong Cao, Zhigang Luo, Long Lan
   [[Paper](https://arxiv.org/abs/2408.09178)] 
