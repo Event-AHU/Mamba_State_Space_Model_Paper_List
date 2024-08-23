@@ -82,6 +82,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2408.10487] **MambaEVT: Event Stream based Visual Object Tracking using State Space Model**,
+  Xiao Wang, Chao Wang, Shiao Wang, Xixi Wang, Zhicheng Zhao, Lin Zhu, Bo Jiang,
+  arXiv Pre-print arXiv:2408.10487, 2024
+  
 * [arXiv:2408.12245] **Scalable Autoregressive Image Generation with Mamba**,
   Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li
   [[Paper](https://arxiv.org/abs/2408.12245)]
