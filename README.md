@@ -82,6 +82,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2408.12245] **Scalable Autoregressive Image Generation with Mamba**,
+  Haopeng Li, Jinyue Yang, Kexin Wang, Xuerui Qiu, Yuhong Chou, Xin Li, Guoqi Li
+  [[Paper](https://arxiv.org/abs/2408.12245)]
+  [[Code](https://github.com/hp-l33/AiM)]
+  
 * [arXiv:2408.07889] **MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking**,
   Simiao Lai, Chang Liu, Jiawen Zhu, Ben Kang, Yang Liu, Dong Wang, Huchuan Lu
   [[Paper](https://arxiv.org/abs/2408.07889)]
