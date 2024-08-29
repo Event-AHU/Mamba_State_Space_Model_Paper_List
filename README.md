@@ -82,6 +82,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**,
+  Zhiqing Zhang, Tianyong Liu, Guojia Fan, Bin Li, Qianjin Feng, Shoujun Zhou
+  [[Paper](https://arxiv.org/abs/2408.15887)] 
+
 * [arXiv:2408.10189] **Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**,
   Aviv Bick, Kevin Y. Li, Eric P. Xing, J. Zico Kolter, Albert Gu
   [[Paper](https://arxiv.org/abs/2408.10189)] 
