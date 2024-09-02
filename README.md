@@ -82,6 +82,11 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2408.17081] **Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training**,
+  Zizheng Huang, Haoxing Chen, Jiaqi Li, Jun Lan, Huijia Zhu, Weiqiang Wang, Limin Wang
+  [[Paper](https://arxiv.org/abs/2408.17081)]
+  [[Code](https://github.com/huangzizheng01/ShuffleMamba)] 
+
 * **SpineMamba: Enhancing 3D Spinal Segmentation in Clinical Imaging through Residual Visual Mamba Layers and Shape Priors**,
   Zhiqing Zhang, Tianyong Liu, Guojia Fan, Bin Li, Qianjin Feng, Shoujun Zhou
   [[Paper](https://arxiv.org/abs/2408.15887)] 
