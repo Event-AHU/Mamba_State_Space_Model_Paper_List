@@ -82,6 +82,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2409.05395] **Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**,
+  Georgios Pantazopoulos, Malvina Nikandrou, Alessandro Suglia, Oliver Lemon, Arash Eshghi
+  [[Paper](https://arxiv.org/abs/2409.05395)]
+  
 * [arXiv:2409.02097] **LinFusion: 1 GPU, 1 Minute, 16K Image**,
   Songhua Liu, Weihao Yu, Zhenxiong Tan, Xinchao Wang
   [[Paper](https://arxiv.org/abs/2409.02097)]
