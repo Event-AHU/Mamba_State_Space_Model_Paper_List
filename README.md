@@ -82,6 +82,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* [arXiv:2408.08583] Zhao, Gongpei, Tao Wang, Yi Jin, Congyan Lang, Yidong Li, and Haibin Ling.
+  "**GrassNet: State Space Model Meets Graph Neural Network.**" arXiv preprint arXiv:2408.08583 (2024).
+  [[Paper](https://arxiv.org/abs/2408.08583)] 
+
 * [arXiv:2409.05395] **Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling**,
   Georgios Pantazopoulos, Malvina Nikandrou, Alessandro Suglia, Oliver Lemon, Arash Eshghi
   [[Paper](https://arxiv.org/abs/2409.05395)]
