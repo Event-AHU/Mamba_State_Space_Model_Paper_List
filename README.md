@@ -82,6 +82,15 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+* **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**,
+  Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui
+  [[Paper](https://arxiv.org/abs/2408.10618)] 
+
+* **OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**,
+  Junming Wang, Wei Yin, Xiaoxiao Long, Xingyu Zhang, Zebin Xing, Xiaoyang Guo, Qian Zhang
+  [[Paper](https://arxiv.org/abs/2409.19987)]
+  [[Code](https://jmwang0117.github.io/OccRWKV/)] 
+
 * [arXiv:2408.08583] Zhao, Gongpei, Tao Wang, Yi Jin, Congyan Lang, Yidong Li, and Haibin Ling.
   "**GrassNet: State Space Model Meets Graph Neural Network.**" arXiv preprint arXiv:2408.08583 (2024).
   [[Paper](https://arxiv.org/abs/2408.08583)] 
