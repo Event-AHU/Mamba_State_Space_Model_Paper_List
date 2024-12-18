@@ -82,6 +82,12 @@ Paper list for State-Space-Model and its Applications
 ## Year 2024 
 
 
+
+* **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
+  Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
+  [[Paper](https://arxiv.org/abs/2412.09331)]
+  [[GitHub](https://github.com/icon-lab/MambaRoll)] 
+
 * **OMEGA: Efficient Occlusion-Aware Navigation for Air-Ground Robot in Dynamic Environments via State Space Model**,
   Junming Wang, Dong Huang, Xiuxian Guan, Zekai Sun, Tianxiang Shen, Fangming Liu, Heming Cui
   [[Paper](https://arxiv.org/abs/2408.10618)] 
