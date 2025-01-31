@@ -75,13 +75,18 @@ Paper list for State-Space-Model and its Applications
 
 
 
+## Year 2025 
 
+
+
+* [arXiv:2501.16295] **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**,
+  Weixin Liang, Junhong Shen, Genghan Zhang, Ning Dong, Luke Zettlemoyer, Lili Yu
+  [[Paper](https://arxiv.org/abs/2501.16295)]
+  [[Code](https://github.com/Weixin-Liang/Mixture-of-Mamba)] 
 
 
 
 ## Year 2024 
-
-
 
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
   Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
