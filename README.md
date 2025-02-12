@@ -28,6 +28,10 @@ Paper list for State-Space-Model and its Applications
 
 
 
+## Video Tutorial 
+
+* [**Mamba: Linear-Time Sequence Modeling with Selective State Spaces (COLM Oral 2024)**](https://youtu.be/X-7rgesJaGM?si=4ivVgAE4QUPQxFV0)  
+
 
 
 ## Thesis & Surveys 
@@ -76,8 +80,6 @@ Paper list for State-Space-Model and its Applications
 
 
 ## Year 2025 
-
-
 
 * [arXiv:2501.16295] **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**,
   Weixin Liang, Junhong Shen, Genghan Zhang, Ning Dong, Luke Zettlemoyer, Lili Yu
