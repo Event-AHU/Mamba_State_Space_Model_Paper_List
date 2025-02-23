@@ -81,6 +81,11 @@ Paper list for State-Space-Model and its Applications
 
 ## Year 2025 
 
+
+* **From Layers to States: A State Space Model Perspective to Deep Neural Network Layer Dynamics**,
+  Qinshuo Liu, Weiqin Zhao, Wei Huang, Yanwen Fang, Lequan Yu, Guodong Li
+  [[Paper](https://arxiv.org/abs/2502.10463)]
+  
 * [arXiv:2501.16295] **Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity**,
   Weixin Liang, Junhong Shen, Genghan Zhang, Ning Dong, Luke Zettlemoyer, Lili Yu
   [[Paper](https://arxiv.org/abs/2501.16295)]
