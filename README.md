@@ -74,7 +74,9 @@ Paper list for State-Space-Model and its Applications
   Yuchen Zou, Yineng Chen, Zuchao Li, Lefei Zhang, Hai Zhao
   [[Paper](https://arxiv.org/abs/2406.16722)] 
 
-
+* **Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models**,
+  Xingtai Lv, Youbang Sun, Kaiyan Zhang, Shang Qu, Xuekai Zhu, Yuchen Fan, Yi Wu, Ermo Hua, Xinwei Long, Ning Ding, Bowen Zhou
+  [[Paper](https://arxiv.org/abs/2503.11224)]
 
 
 
