@@ -84,6 +84,10 @@ Paper list for State-Space-Model and its Applications
 ## Year 2025 
 
 
+* **Memba: Membrane-driven Parameter-Efficient Fine-Tuning for Mamba**, Donghyun Lee, Yuhang Li, Ruokai Yin, Shiting Xiao, Priyadarshini Panda
+  [[Paper](https://arxiv.org/abs/2506.18184)]
+  [[Code](https://github.com/Intelligent-Computing-Lab-Yale/Memba)]
+
 * **From Layers to States: A State Space Model Perspective to Deep Neural Network Layer Dynamics**,
   Qinshuo Liu, Weiqin Zhao, Wei Huang, Yanwen Fang, Lequan Yu, Guodong Li
   [[Paper](https://arxiv.org/abs/2502.10463)]
