@@ -81,6 +81,15 @@ Paper list for State-Space-Model and its Applications
 
 
 
+## Year 2026 
+
+* **DSSMs: State Space Models with Explicit Memory via Delay Differential Equations**,
+  Yixiao Qian, Song Chen, Jiaxu Liu, Shengze Cai, Chao Xu
+  [[Paper](https://arxiv.org/abs/2607.10244)] 
+
+
+
+
 ## Year 2025 
 
 
