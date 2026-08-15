@@ -1657,11 +1657,11 @@ If you think this survey is helpful, please feel free to leave a star ⭐️ and
 
 ## Star History
 
-<a href="https://star-history.com/#Event-AHU/Mamba_State_Space_Model_Paper_List&Date">
+<a href="https://star-history.dera.page/#Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=Event-AHU/Mamba_State_Space_Model_Paper_List&type=Date" />
  </picture>
 </a>
 
