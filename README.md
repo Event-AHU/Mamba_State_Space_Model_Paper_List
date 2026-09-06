@@ -18,6 +18,10 @@ Paper list for State-Space-Model and its Applications
 
 
 ## :collision: Update Log 
+
+
+* [2026.09.05] This survey is accepted by the journal **Visual Intelligence**! 
+
 * [2024.05.19] [[SSM_Slides_2024.05.19.pdf](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/SSM_Slides_2024.05.19.pdf)]
 
 <p align="center">
